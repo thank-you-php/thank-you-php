@@ -22,3 +22,4 @@ Signed,
 - Jeffery Hussin ([@JefferyHus](https://github.com/JefferyHus)), Full Stack Developer
 - Chris Kielholz ([@Enorion](https://github.com/Enorion)), PHP Evangelist
 - Josiah O.Yahaya ([@coderatio](https://github.com/coderatio)), Full Stack Developer
+- Avinash Nethala ([@avinashn](https://github.com/avinashn)), Full Stack Developer, India
