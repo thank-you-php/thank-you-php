@@ -21,3 +21,4 @@ Signed,
 - Tariqul Islam ([@ta-riq](https://github.com/ta-riq)), A Real PHP lover
 - Jeffery Hussin ([@JefferyHus](https://github.com/JefferyHus)), Full Stack Developer
 - Chris Kielholz ([@Enorion](https://github.com/Enorion)), PHP Evangelist
+- Josiah O.Yahaya ([@coderatio](https://github.com/coderatio)), Full Stack Developer
