@@ -32,3 +32,4 @@ Signed,
 - Robert Means ([@BoDonkey](https://github.com/BoDonkey)), Language Lover, USA
 - Ahmed Osama ([@Juvienelle](https://github.com/Juvienelle)), Full Stack Developer, Egypt
 - Abdulaziz Alnasi ([@Abu3safeer](https://github.com/Abu3safeer)), PHP and Laravel lover.
+- Luciano Coggiola ([@tanoinc](https://github.com/tanoinc)), Full Stack Developer, Argentina.
