@@ -23,3 +23,4 @@ Signed,
 - Chris Kielholz ([@Enorion](https://github.com/Enorion)), PHP Evangelist
 - Josiah O.Yahaya ([@coderatio](https://github.com/coderatio)), Full Stack Developer
 - Avinash Nethala ([@avinashn](https://github.com/avinashn)), Full Stack Developer, India
+- Alam Khan ([@moskan9595](https://github.com/moskan9595)), Half Stack Developer, Pak
