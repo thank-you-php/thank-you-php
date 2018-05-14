@@ -36,3 +36,4 @@ Signed,
 - Santosh Jung Shahi ([@beingjungshahi](https://github.com/beingjungshahi)), Backend Developer, Nepal.
 - Tasiu Kwaplong ([@tasiukwaplong](https://github.com/tasiukwaplong)), Laravel and PHP lover, Nigeria.
 - Sushil Ale ([@msucil](https://github.com/msucil)) Web Application Developer/Data Engineer, Nepal
+- Matteo Martinelli ([@matteomartinelli](https://github.com/matteomartinelli)), Customerly Full Stack Developer, Italy
