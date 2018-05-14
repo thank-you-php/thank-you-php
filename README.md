@@ -35,3 +35,4 @@ Signed,
 - Luciano Coggiola ([@tanoinc](https://github.com/tanoinc)), Full Stack Developer, Argentina.
 - Santosh Jung Shahi ([@beingjungshahi](https://github.com/beingjungshahi)), Backend Developer, Nepal.
 - Tasiu Kwaplong ([@tasiukwaplong](https://github.com/tasiukwaplong)), Laravel and PHP lover, Nigeria.
+- Sushil Ale ([@msucil](https://github.com/msucil)) Web Application Developer/Data Engineer, Nepal
