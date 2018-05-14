@@ -29,3 +29,4 @@ Signed,
 - Saif Eddin Gmati ([@azjezz](https://github.com/azjezz)), Back-End Web Developer, Tunisia
 - Roshan Budhathoki ([@roshanbudhathoki](https://github.com/roshanbudhathoki)),Full Stack Developer, Nepal
 - Vikas Kapadiya ([@vikas5914](https://github.com/vikas5914)), Full Stack Developer, India
+- Ahmed Osama ([@Juvienelle](https://github.com/Juvienelle)), Full Stack Developer, Egypt
