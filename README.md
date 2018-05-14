@@ -16,3 +16,4 @@ and [Thank You Laravel](https://github.com/thank-you-laravel/thank-you-laravel).
 Signed,
 
 - Peter Kokot ([@petk](https://github.com/petk)), Full Stack Developer
+- Paulo Castro ([@planktonfun](https://github.com/planktonfun)), Just a Passer By
