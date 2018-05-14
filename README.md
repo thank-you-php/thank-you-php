@@ -34,4 +34,4 @@ Signed,
 - Abdulaziz Alnasi ([@Abu3safeer](https://github.com/Abu3safeer)), PHP and Laravel lover.
 - Luciano Coggiola ([@tanoinc](https://github.com/tanoinc)), Full Stack Developer, Argentina.
 - Santosh Jung Shahi ([@beingjungshahi](https://github.com/beingjungshahi)), Backend Developer, Nepal.
-- Tasiu Kwaplong ([@tasiukwaplong] (https://github.com/tasiukwaplong)), Laravel and PHP lover, Nigeria.
+- Tasiu Kwaplong ([@tasiukwaplong](https://github.com/tasiukwaplong)), Laravel and PHP lover, Nigeria.
