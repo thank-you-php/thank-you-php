@@ -18,3 +18,4 @@ Signed,
 - Peter Kokot ([@petk](https://github.com/petk)), Full Stack Developer
 - Paulo Castro ([@planktonfun](https://github.com/planktonfun)), Just a Passer By
 - Tariqul Islam ([@ta-riq](https://github.com/ta-riq)), A Real PHP lover
+- Napoleon Arouldas ([@neps-in](https://github.com/neps-in)), Full Stack Developer
