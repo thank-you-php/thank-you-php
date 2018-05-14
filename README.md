@@ -17,4 +17,4 @@ Signed,
 
 - Peter Kokot ([@petk](https://github.com/petk)), Full Stack Developer
 - Paulo Castro ([@planktonfun](https://github.com/planktonfun)), Just a Passer By
-- Napoleon Arouldas ([@neps-in])(https://github.com/neps-in)), Full Stack Developer, Lead Developer [Rollout](https://grandappstudio.com/roll-out)
+- Napoleon Arouldas ([@neps-in](https://github.com/neps-in)), Full Stack Developer, Lead Developer [Rollout](https://grandappstudio.com/roll-out)
