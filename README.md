@@ -34,3 +34,4 @@ Signed,
 - Abdulaziz Alnasi ([@Abu3safeer](https://github.com/Abu3safeer)), PHP and Laravel lover.
 - Luciano Coggiola ([@tanoinc](https://github.com/tanoinc)), Full Stack Developer, Argentina.
 - Santosh Jung Shahi ([@beingjungshahi](https://github.com/beingjungshahi)), Backend Developer, Nepal.
+- Abdullah Ramzan ([@abdullah1908](https://github.com/abdullah1908)), WP Expert, Lahore Pakistan
