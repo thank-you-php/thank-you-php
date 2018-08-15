@@ -44,3 +44,4 @@ Signed,
 - Corrado Modica ([@Corrado](https://github.com/CorradoModica)), Full Stack Developer, Italy
 - Vigikaran Vijayaratnam ([@vigikaran](https://github.com/vigikaran)), Full Stack Web Application developer / DevOps
 - Ali Nabeel Ahmed ([@alinabeel](https://github.com/alinabeel)), Backend Developer, Lahore Pakistan
+- Hendrik Eduard Kuiper (@HendrikEduard) Systems & DB Admin, Programmer and a whole lot more!
