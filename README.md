@@ -48,3 +48,4 @@ Signed,
 - Muhammad Tayyab Sheikh ([@cstayyab](http://github.com/cstayyab)) Full-Stack Web developer and Information Security Researcher!
 - Joel Reis ([@ElJoelReis](https://github.com/ElJoelReis)), Web Developer
 - Alexey Pyltsyn ([@lex111](https://github.com/lex111)), Maintainer of PHP documentation on Russian
+- Firi Ofek ([@fireworks9](https://github.com/fireworks9)), Amateur Developer
