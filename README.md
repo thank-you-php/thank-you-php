@@ -21,6 +21,7 @@ Signed,
 - Tariqul Islam ([@ta-riq](https://github.com/ta-riq)), A Real PHP lover
 - Jeffery Hussin ([@JefferyHus](https://github.com/JefferyHus)), Full Stack Developer
 - Chris Kielholz ([@Enorion](https://github.com/Enorion)), PHP Evangelist
+- Firi Ofek ([@fireworks9](https://github.com/fireworks9)), Amateur Developer
 - Josiah O.Yahaya ([@coderatio](https://github.com/coderatio)), Full Stack Developer
 - Avinash Nethala ([@avinashn](https://github.com/avinashn)), Full Stack Developer, India
 - Alam Khan ([@moskan9595](https://github.com/moskan9595)), Half Stack Developer, Pak
