@@ -49,3 +49,4 @@ Signed,
 - Joel Reis ([@ElJoelReis](https://github.com/ElJoelReis)), Web Developer
 - Alexey Pyltsyn ([@lex111](https://github.com/lex111)), Maintainer of PHP documentation on Russian
 - Firi Ofek ([@fireworks9](https://github.com/fireworks9)), Amateur Developer
+- Garuba OLayemii ([@OLayemii](https://github.com/OLayemii)), PHP Lover <3 , Nigeria
