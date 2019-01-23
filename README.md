@@ -50,3 +50,4 @@ Signed,
 - Alexey Pyltsyn ([@lex111](https://github.com/lex111)), Maintainer of PHP documentation on Russian
 - Firi Ofek ([@fireworks9](https://github.com/fireworks9)), Amateur Developer
 - Garuba OLayemii ([@OLayemii](https://github.com/OLayemii)), PHP Lover <3 , Nigeria
+- Chun-Sheng, Li ([@peter279k](https://github.com/peter279k)), PHP developer :), Taiwan
