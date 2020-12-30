@@ -52,3 +52,4 @@ Signed,
 - Garuba OLayemii ([@OLayemii](https://github.com/OLayemii)), PHP Lover <3 , Nigeria
 - Chun-Sheng, Li ([@peter279k](https://github.com/peter279k)), PHP developer :), Taiwan
 - Ghazi Khan ([@mgks](https://github.com/mgks)), Just another PHP disciple from India
+- Rumon ([@msrumon](https://github.com/msrumon)), Self-taught JS and PHP developer from Bangladesh
