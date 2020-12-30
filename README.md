@@ -15,6 +15,7 @@ and [Thank You Laravel](https://github.com/thank-you-laravel/thank-you-laravel).
 
 Signed,
 
+- Safayat Mahmud ([@S4F4Y4T](https://github.com/S4F4Y4T)),Full Stack Developer
 - Peter Kokot ([@petk](https://github.com/petk)), Full Stack Developer
 - Paulo Castro ([@planktonfun](https://github.com/planktonfun)), Just a Passer By
 - Napoleon Arouldas ([@neps-in](https://github.com/neps-in)), Full Stack Developer, Lead Developer [Rollout](https://grandappstudio.com/roll-out)
