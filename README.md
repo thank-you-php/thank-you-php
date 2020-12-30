@@ -61,4 +61,4 @@ Signed,
 - Denuwan Hettiarachchi([@Denuwanhh](https://github.com/Denuwanhh)), Full Stack Developer, Sri Lanka
 - Benkoulal Abdelghani([@AbdouGhani-Ben](https://github.com/AbdouGhani-Ben)), Full Stack Developer and Security engineer, Algeria
 - Francis Gonzales ([@fragote](https://github.com/fragote)), Informatic Engineer, Peru
-- Rio Astamal [@rioastamal](https://github.com/rioastamal), Loving PHP since 2003 and Cloud Computing Enthusiast, Indonesia
+- Rio Astamal ([@rioastamal](https://github.com/rioastamal)), Loving PHP since 2003 and Cloud Computing Enthusiast, Indonesia
