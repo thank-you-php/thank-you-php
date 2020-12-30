@@ -15,7 +15,6 @@ and [Thank You Laravel](https://github.com/thank-you-laravel/thank-you-laravel).
 
 Signed,
 
-- Safayat Mahmud ([@S4F4Y4T](https://github.com/S4F4Y4T)),Full Stack Developer
 - Peter Kokot ([@petk](https://github.com/petk)), Full Stack Developer
 - Paulo Castro ([@planktonfun](https://github.com/planktonfun)), Just a Passer By
 - Napoleon Arouldas ([@neps-in](https://github.com/neps-in)), Full Stack Developer, Lead Developer [Rollout](https://grandappstudio.com/roll-out)
@@ -55,4 +54,5 @@ Signed,
 - Ghazi Khan ([@mgks](https://github.com/mgks)), Just another PHP disciple from India
 - Rumon ([@msrumon](https://github.com/msrumon)), Self-taught JS and PHP developer from Bangladesh
 - MUHAMMAD Siyab ([@SiyabKhaksar](https://github.com/MUHAMMADSiyab)), Full Stack Web Developer, Karachi, Pakistan
+- Safayat Mahmud ([@S4F4Y4T](https://github.com/S4F4Y4T)),Full Stack Developer From Bangladesh
 
