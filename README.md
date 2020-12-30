@@ -60,5 +60,4 @@ Signed,
 - Bahyu Sanciko([@bahyusanciko](https://github.com/bahyusanciko)), Full Stack Developer, Indonesia
 - Denuwan Hettiarachchi([@Denuwanhh](https://github.com/Denuwanhh)), Full Stack Developer, Sri Lanka
 - Benkoulal Abdelghani([@AbdouGhani-Ben](https://github.com/AbdouGhani-Ben)), Full Stack Developer and Security engineer, Algeria
-- Reyad Khan ([@reyadkhan](https://github.com/reyadkhan)), Full Stack Developer
 - Francis Gonzales ([@fragote](https://github.com/fragote)), Informatic Engineer, Peru
