@@ -59,3 +59,4 @@ Signed,
 - Thomas Perez ([@ScullWM](https://github.com/scullwm)), Backend Developer, France
 - Bahyu Sanciko([@bahyusanciko](https://github.com/bahyusanciko)), Full Stack Developer, Indonesia
 - Denuwan Hettiarachchi([@Denuwanhh](https://github.com/Denuwanhh)), Full Stack Developer, Sri Lanka
+- Benkoulal Abdelghani([@AbdouGhani-Ben](https://github.com/AbdouGhani-Ben)), Full Stack Developer and Security engineer, Algeria
