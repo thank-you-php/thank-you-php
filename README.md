@@ -65,3 +65,4 @@ Signed,
 - Yinsee @ Daddycat ([@yinsee](https://github.com/yinsee)), Single core, Duo-core, Hardcore. PHP since `2006`. Full stack, entrepreneur from <3 Penang, MY. 
 - Andry Pebrianto ([@andry-pebrianto](https://github.com/andry-pebrianto)), Web Developer, Indonesia
 - Benjamin Temitope ([@benjamintemitope](https://github.com/benjamintemitope)), Backend Developer, Nigeria
+- Mikiyas Amdu ([@mikimaine](https://github.com/mikimaine)), Software Engineer, Ethiopia
