@@ -71,3 +71,4 @@ Signed,
 - Abdullah Hejazi ([@Abdullah-Hejazi](https://github.com/Abdullah-Hejazi)), Full Stack Web Developer, Cairo, Egypt
 - Leonardo Teixeira ([@LeonardoTeixeira](https://github.com/LeonardoTeixeira)), Software Engineer, Brazil
 - Arya Irama Wahono ([@aryairama](https://github.com/aryairama)), Web Developer, Indonesia
+- Babish Shrestha ([@babiz](https://github.com/babiz)), PHP believer since 2008, Entrepreneur, Nepal
