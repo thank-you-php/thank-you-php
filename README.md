@@ -4,9 +4,9 @@ PHP changed the way we develop web applications and influenced many developers
 and projects.
 
 We want to thank [Rasmus Lerdorf](https://github.com/rlerdorf), the
-[PHP group](https://php.net/credits.php), PHP core maintainers, contributors, and
-all the people involved in PHP for making the PHP language and making the PHP
-ecosytem a better place for developers.
+[PHP group](https://php.net/credits.php), PHP core maintainers, contributors,
+and all the people involved in PHP for making the PHP language and its ecosystem
+a better place for developers.
 
 PHP, thank you very much for all you've done and do.
 
