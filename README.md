@@ -74,3 +74,4 @@ Signed,
 - Babish Shrestha ([@babiz](https://github.com/babiz)), PHP believer since 2008, Entrepreneur, Nepal
 - Samuel Adeshina ([@samshal](https://github.com/samshal)), Software Engineer, Nigeria
 - Mahbub Hasan Imon ([@mhimon](https://github.com/mhimon)), Full Stack Developer, Bangladesh 🇧🇩🇧🇩🇧🇩 Founder & Lead Developer of ultraDevs ([@ultraDevs](https://github.com/ultraDevs))
+- Joseph Leedy ([@JosephLeedy](https://github.com/JosephLeedy)), Full Stack Magento Developer, Austin, TX USA, Technical Lead & Lead Magento Extension Developer for [Wagento](https://www.wagento.com)
