@@ -68,6 +68,7 @@ Signed,
 - Saif Eddin Gmati ([@azjezz](https://github.com/azjezz)), Back-End Web Developer, Tunisia
 - Salvatore Cordiano ([@salvatorecordiano](https://github.com/salvatorecordiano)), Lead Developer, Italy
 - Samuel Adeshina ([@samshal](https://github.com/samshal)), Software Engineer, Nigeria
+- Sandy Pérez Matamoros ([@sandypm007](https://github.com/sandypm007)), Fullstack Developer and Team Leader. PHP since 2004
 - Santosh Jung Shahi ([@beingjungshahi](https://github.com/beingjungshahi)), Backend Developer, Nepal
 - Sushil Ale ([@msucil](https://github.com/msucil)) Web Application Developer/Data Engineer, Nepal
 - Tariqul Islam ([@ta-riq](https://github.com/ta-riq)), A Real PHP lover
