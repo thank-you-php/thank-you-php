@@ -39,6 +39,7 @@ Signed,
 - Eliyas Hossain ([@eliyas5044](https://github.com/eliyas5044)), Full Stack Developer, Bangladesh
 - Ezekiel Oladejo ([@iamwebwiz](https://github.com/iamwebwiz)), Full-Stack Software Engineer at [NoMore ApS](https://nomorehours.com), based in Lagos, Nigeria
 - Firi Ofek ([@fireworks9](https://github.com/fireworks9)), Amateur Developer
+- Florian Bailly ([@florian-bailly](https://github.com/florian-bailly)), Backend Developer, France
 - Francis Gonzales ([@fragote](https://github.com/fragote)), Informatic Engineer, Peru
 - Garuba OLayemii ([@OLayemii](https://github.com/OLayemii)), PHP Lover <3 , Nigeria
 - Ghazi Khan ([@mgks](https://github.com/mgks)), Just another PHP disciple from India
