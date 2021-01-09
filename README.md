@@ -86,6 +86,7 @@ Signed,
 - Yinsee @ Daddycat ([@yinsee](https://github.com/yinsee)), Single core, Duo-core, Hardcore. PHP since 2006. Full stack, entrepreneur from <3 Penang, MY
 - Sohaib Ilyas ([@sohaibilyas](https://github.com/sohaibilyas)), PHP & Laravel lover ❤️ from Pakistan 🇵🇰
 - Carlos Meneses (@mccarlosen), Full Stack Developer from Venezuela
+- Vasilij Duško ([@StaffNowa](https://github.com/StaffNowa)), Web Developer, Lithuania
 
 Inspired by the [Thank You Github](https://github.com/thank-you-github/thank-you-github),
 and [Thank You Laravel](https://github.com/thank-you-laravel/thank-you-laravel).
