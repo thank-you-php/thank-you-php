@@ -30,7 +30,7 @@ Signed,
 - Benjamin Temitope ([@benjamintemitope](https://github.com/benjamintemitope)), Backend Developer, Nigeria
 - Benkoulal Abdelghani ([@AbdouGhani-Ben](https://github.com/AbdouGhani-Ben)), Full Stack Developer and Security engineer, Algeria
 - Carl Abraham ([@i22inc](https://github.com/i22inc)), Director [i22.in](https://i22.in)
-- Carlos Meneses (@mccarlosen), Full Stack Developer from Venezuela
+- Carlos Meneses ([@mccarlosen](https://github.com/mccarlosen)), Full Stack Developer from Venezuela
 - Chris Kielholz ([@Enorion](https://github.com/Enorion)), PHP Evangelist
 - Chun-Sheng, Li ([@peter279k](https://github.com/peter279k)), PHP developer :), Taiwan
 - Corrado Modica ([@Corrado](https://github.com/CorradoModica)), Full Stack Developer, Italy
