@@ -49,6 +49,7 @@ Signed,
 - Logan Lindquist ([@llbbl](https://github.com/llbbl)), Organizer, Austin, TX USA
 - Luciano Coggiola ([@tanoinc](https://github.com/tanoinc)), Full Stack Developer, Argentina
 - Mahbub Hasan Imon ([@mhimon](https://github.com/mhimon)), Full Stack Developer, Bangladesh 🇧🇩🇧🇩🇧🇩 Founder & Lead Developer of ultraDevs ([@ultraDevs](https://github.com/ultraDevs))
+- Mark Almadin ([@mrkalmdn](https://github.com/mrkalmdn)), Laravelist
 - Mark Kevin Besinga ([@besingamkb](https://github.com/besingamkb)), Software Engineer, Philippines
 - Matteo Martinelli ([@matteomartinelli](https://github.com/matteomartinelli)), Customerly Full Stack Developer, Italy
 - Mehdi "Arcanite" OUESLATI (https://github.com/Mihdi), Computer Science and Engineering student, Tunisia/France
