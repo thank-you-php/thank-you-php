@@ -6,7 +6,7 @@ and projects.
 We want to thank [Rasmus Lerdorf](https://github.com/rlerdorf), the
 [PHP group](https://php.net/credits.php), PHP core developers, contributors, and
 all the people involved in making the PHP language and its ecosystem a better
-place for developers.
+place for everyone.
 
 Thank you so much for all that you have done and do.
 
@@ -88,5 +88,7 @@ Signed,
 - Wasseem Khayrattee (aka **7PHP**) ([@7php](https://github.com/7php)), PHP fanboy from Mauritius island
 - Yinsee @ Daddycat ([@yinsee](https://github.com/yinsee)), Single core, Duo-core, Hardcore. PHP since 2006. Full stack, entrepreneur from <3 Penang, MY
 
-Inspired by the [Thank You Github](https://github.com/thank-you-github/thank-you-github),
-and [Thank You Laravel](https://github.com/thank-you-laravel/thank-you-laravel).
+Inspired by the
+[Thank You Github](https://github.com/thank-you-github/thank-you-github),
+[Thank You Laravel](https://github.com/thank-you-laravel/thank-you-laravel),
+and [Thank You Symfony](https://github.com/thank-you-symfony/thank-you-symfony).
