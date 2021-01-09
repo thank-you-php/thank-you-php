@@ -41,6 +41,7 @@ Signed,
 - Francis Gonzales ([@fragote](https://github.com/fragote)), Informatic Engineer, Peru
 - Garuba OLayemii ([@OLayemii](https://github.com/OLayemii)), PHP Lover <3 , Nigeria
 - Ghazi Khan ([@mgks](https://github.com/mgks)), Just another PHP disciple from India
+- Given Ncube [@slimgee](https://github.com/sligee), Full Stack Developer, Zimbabwe
 - Hendrik Eduard Kuiper ([@HendrikEduard](https://github.com/HendrikEduard)) Systems & DB Admin, Programmer and a whole lot more
 - Jeffery Hussin ([@JefferyHus](https://github.com/JefferyHus)), Full Stack Developer
 - Joel Reis ([@ElJoelReis](https://github.com/ElJoelReis)), Web Developer
