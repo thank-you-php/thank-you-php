@@ -30,6 +30,7 @@ Signed,
 - Benjamin Temitope ([@benjamintemitope](https://github.com/benjamintemitope)), Backend Developer, Nigeria
 - Benkoulal Abdelghani ([@AbdouGhani-Ben](https://github.com/AbdouGhani-Ben)), Full Stack Developer and Security engineer, Algeria
 - Carl Abraham ([@i22inc](https://github.com/i22inc)), Director [i22.in](https://i22.in)
+- Carlos Meneses (@mccarlosen), Full Stack Developer from Venezuela
 - Chris Kielholz ([@Enorion](https://github.com/Enorion)), PHP Evangelist
 - Chun-Sheng, Li ([@peter279k](https://github.com/peter279k)), PHP developer :), Taiwan
 - Corrado Modica ([@Corrado](https://github.com/CorradoModica)), Full Stack Developer, Italy
@@ -75,18 +76,17 @@ Signed,
 - Sandy Pérez Matamoros ([@sandypm007](https://github.com/sandypm007)), Fullstack Developer and Team Leader. PHP since 2004
 - Santosh Jung Shahi ([@beingjungshahi](https://github.com/beingjungshahi)), Backend Developer, Nepal
 - Sayed Muzammil ([@desidude03](https://github.com/desidude03)), devops engineer. Full Stack PHP Developer. Entrepreneur,Openstack community member, Playing with php since 2011
+- Sohaib Ilyas ([@sohaibilyas](https://github.com/sohaibilyas)), PHP & Laravel lover ❤️ from Pakistan 🇵🇰
 - Sushil Ale ([@msucil](https://github.com/msucil)) Web Application Developer/Data Engineer, Nepal
 - Tariqul Islam ([@ta-riq](https://github.com/ta-riq)), A Real PHP lover
 - Tasiu Kwaplong ([@tasiukwaplong](https://github.com/tasiukwaplong)), Laravel and PHP lover, Nigeria
 - Thomas Perez ([@ScullWM](https://github.com/scullwm)), Backend Developer, France
+- Vasilij Duško ([@StaffNowa](https://github.com/StaffNowa)), Web Developer, Lithuania
 - Vigikaran Vijayaratnam ([@vigikaran](https://github.com/vigikaran)), Full Stack Web Application developer / DevOps
 - Vikas Kapadiya ([@vikas5914](https://github.com/vikas5914)), Full Stack Developer, India
 - Vikrant Singh Chauhan ([@0xcrypto](https://github.com/0xcrypto)), Backend Developer, India
 - Wasseem Khayrattee (aka **7PHP**) ([@7php](https://github.com/7php)), PHP fanboy from Mauritius island
 - Yinsee @ Daddycat ([@yinsee](https://github.com/yinsee)), Single core, Duo-core, Hardcore. PHP since 2006. Full stack, entrepreneur from <3 Penang, MY
-- Sohaib Ilyas ([@sohaibilyas](https://github.com/sohaibilyas)), PHP & Laravel lover ❤️ from Pakistan 🇵🇰
-- Carlos Meneses (@mccarlosen), Full Stack Developer from Venezuela
-- Vasilij Duško ([@StaffNowa](https://github.com/StaffNowa)), Web Developer, Lithuania
 
 Inspired by the [Thank You Github](https://github.com/thank-you-github/thank-you-github),
 and [Thank You Laravel](https://github.com/thank-you-laravel/thank-you-laravel).
