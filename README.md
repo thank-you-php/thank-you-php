@@ -78,6 +78,7 @@ Signed,
 - Rumon ([@msrumon](https://github.com/msrumon)), Self-taught JS and PHP developer from Bangladesh
 - Safayat Mahmud ([@S4F4Y4T](https://github.com/S4F4Y4T)), Full Stack Developer From Bangladesh
 - Saif Eddin Gmati ([@azjezz](https://github.com/azjezz)), Back-End Web Developer, Tunisia
+- Sajith K ([@iamsajithk](https://github.com/iamsajithk)), From Kerala, India
 - Salvatore Cordiano ([@salvatorecordiano](https://github.com/salvatorecordiano)), Lead Developer, Italy
 - Samuel Adeshina ([@samshal](https://github.com/samshal)), Software Engineer, Nigeria
 - Sandy Pérez Matamoros ([@sandypm007](https://github.com/sandypm007)), Fullstack Developer and Team Leader. PHP since 2004
