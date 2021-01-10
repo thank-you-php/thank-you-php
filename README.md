@@ -61,6 +61,7 @@ Signed,
 - Matteo Martinelli ([@matteomartinelli](https://github.com/matteomartinelli)), Customerly Full Stack Developer, Italy
 - Mehdi "Arcanite" OUESLATI (https://github.com/Mihdi), Computer Science and Engineering student, Tunisia/France
 - Mikiyas Amdu ([@mikimaine](https://github.com/mikimaine)), Software Engineer, Ethiopia
+- Muhammad Javed ([@theahmadzai](https://github.com/theahmadzai)), PHP since school days, Full Stack Developer. Open source lover
 - MUHAMMAD Siyab ([@SiyabKhaksar](https://github.com/MUHAMMADSiyab)), Full Stack Web Developer, Karachi, Pakistan
 - Muhammad Tayyab Sheikh ([@cstayyab](http://github.com/cstayyab)) Full-Stack Web developer and Information Security Researcher
 - Napoleon Arouldas ([@neps-in](https://github.com/neps-in)), Full Stack Developer, Lead Developer [Rollout](https://grandappstudio.com/roll-out)
