@@ -126,6 +126,7 @@ Signed,
 - Ivan Dudarev ([@ddrv](https://github.com/ddrv)), Backend Developer, Russia 🤘
 - Andrey Iatsenko([@yzen.dev](https://github.com/yzen-dev)), Backend Developer. Russia, Krasnodar
 - Aram Baghdasaryan ([@jiromm](https://github.com/jiromm)), CTO @ ([@globbing-llc](https://github.com/globbing-llc)), Armenia
+- Timofey Zhiganov ([@zavodilo](https://github.com/zavodilo)) Backend Developer, Russia
 
 Inspired by the
 [Thank You Github](https://github.com/thank-you-github/thank-you-github),
