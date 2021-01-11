@@ -31,6 +31,7 @@ Signed,
 - Andrey Iatsenko([@yzen.dev](https://github.com/yzen-dev)), Backend Developer. Russia, Krasnodar
 - Andrey Ratushniy ([@agratushniy](https://github.com/agratushniy)), Backend Developer, Russia
 - Andry Pebrianto ([@andry-pebrianto](https://github.com/andry-pebrianto)), Web Developer, Indonesia
+- Andrii Lavryniuk ([@splaa](https://github.com/splaa)), Web Developer, Ukraine
 - Anton Khainak ([@aksafan](https://github.com/aksafan)), Backend Engineer, Ukraine
 - Aqib Rashid ([@aqib-git](https://github.com/aqib-git)), Web Developer, Kashmir
 - Aram Baghdasaryan ([@jiromm](https://github.com/jiromm)), CTO @ ([@globbing-llc](https://github.com/globbing-llc)), Armenia
