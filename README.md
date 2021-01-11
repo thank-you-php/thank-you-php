@@ -24,6 +24,7 @@ Signed,
 - Ammar Faizi ([@ammarfaizi2](https://github.com/ammarfaizi2)), Software Engineer, HPC Engineer, PHP Developer
 - Anar Samadov ([@anarsamadov](https://github.com/anarsamadov)), Full stack PHP developer, Azerbaijan
 - Andry Pebrianto ([@andry-pebrianto](https://github.com/andry-pebrianto)), Web Developer, Indonesia
+- Anton Khainak ([@aksafan](https://github.com/aksafan)), Backend Engineer, Ukraine
 - Aqib Rashid ([@aqib-git](https://github.com/aqib-git)), Web Developer, Kashmir
 - Arya Irama Wahono ([@aryairama](https://github.com/aryairama)), Web Developer, Indonesia
 - Avinash Nethala ([@avinashn](https://github.com/avinashn)), Full Stack Developer, India
