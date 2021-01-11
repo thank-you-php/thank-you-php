@@ -109,6 +109,7 @@ Signed,
 - Odole Olukayode ([@kaythinks](https://github.com/kaythinks)), Software Craftsman from Nigeria
 - Nikolay Zuev ([des1roer](https://github.com/des1roer)), Backend Developer, Russian Federation
 - Viktor Babanov ([@viktorprogger](https://github.com/viktorprogger)), PHP and Yii lover, backend developer, Russia
+- Oleg Mifle ([@olegmifle](https://github.com/olegmifle)), Backend Developer from Saint Petersburg, Russia
 
 Inspired by the
 [Thank You Github](https://github.com/thank-you-github/thank-you-github),
