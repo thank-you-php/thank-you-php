@@ -78,6 +78,7 @@ Signed,
 - Lyubomir Grozdanov ([@lubo13](https://github.com/lubo13)), Backend Developer (Symfony Certified Developer and Zend Certified Engineer (PHP 7)), Bulgaria
 - Mahbub Hasan Imon ([@mhimon](https://github.com/mhimon)), Full Stack Developer, Bangladesh 🇧🇩🇧🇩🇧🇩 Founder & Lead Developer of ultraDevs ([@ultraDevs](https://github.com/ultraDevs))
 - Maksim Ermakov ([@salfum](https://github.com/salfum)), Full Stack Developer, PHP and Laravel :heart:, Russia :ru:
+- Maksym Storchak ([@strorch](https://github.com/strorch)), Web developer, Ukraine
 - Mark Almadin ([@mrkalmdn](https://github.com/mrkalmdn)), Laravelist
 - Mark Kevin Besinga ([@besingamkb](https://github.com/besingamkb)), Software Engineer, Philippines
 - Matteo Martinelli ([@matteomartinelli](https://github.com/matteomartinelli)), Customerly Full Stack Developer, Italy
@@ -142,7 +143,6 @@ Signed,
 - Vitaly Artemev ([@VitalyArt](https://github.com/VitalyArt)), Backend Developer, Russia
 - Wasseem Khayrattee (aka **7PHP**) ([@7php](https://github.com/7php)), PHP fanboy from Mauritius island
 - Yinsee @ Daddycat ([@yinsee](https://github.com/yinsee)), Single core, Duo-core, Hardcore. PHP since 2006. Full stack, entrepreneur from <3 Penang, MY
-- Maksym Storchak ([@strorch](https://github.com/strorch)), Web developer, Ukraine
 
 Inspired by the
 [Thank You Github](https://github.com/thank-you-github/thank-you-github),
