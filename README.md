@@ -134,6 +134,7 @@ Signed,
 - Timofey Zhiganov ([@zavodilo](https://github.com/zavodilo)) Backend Developer, Russia
 - PHP Dagestan ([@phpdagestan](https://github.com/phpdagestan)), Open source repository php developers from Dagestan, Russia
 - Nikita Antonenko ([@nikita-antonenko](https://github.com/nikita-antonenko)), from Russia
+- Aleksandr Kvintilyanov ([@nowiko](https://github.com/mops1k)), Backend Developer, Russia
 
 Inspired by the
 [Thank You Github](https://github.com/thank-you-github/thank-you-github),
