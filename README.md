@@ -89,6 +89,7 @@ Signed,
 - Sandy Pérez Matamoros ([@sandypm007](https://github.com/sandypm007)), Fullstack Developer and Team Leader. PHP since 2004
 - Santosh Jung Shahi ([@beingjungshahi](https://github.com/beingjungshahi)), Backend Developer, Nepal
 - Sayed Muzammil ([@desidude03](https://github.com/desidude03)), devops engineer. Full Stack PHP Developer. Entrepreneur,Openstack community member, Playing with php since 2011
+- Sergey Malovichko ([@mrserg161](https://github.com/mrserg161)), Backend Developer, Russia
 - Sohaib Ilyas ([@sohaibilyas](https://github.com/sohaibilyas)), PHP & Laravel lover ❤️ from Pakistan 🇵🇰
 - Sushil Ale ([@msucil](https://github.com/msucil)) Web Application Developer/Data Engineer, Nepal
 - Tariqul Islam ([@ta-riq](https://github.com/ta-riq)), A Real PHP lover
