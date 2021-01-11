@@ -101,6 +101,7 @@ Signed,
 - Sanjar Umarov ([@usanjar](https://github.com/usanjar)), Back-end web developer, Uzbekistan
 - Sayed Muzammil ([@desidude03](https://github.com/desidude03)), devops engineer. Full Stack PHP Developer. Entrepreneur,Openstack community member, Playing with php since 2011
 - Sergei Kolesnikov ([@win0err](https://github.com/win0err)), Software Engineer, Russia
+- Sergey Malovichko ([@mrserg161](https://github.com/mrserg161)), Backend Developer, Russia
 - Sergei Shlokov ([@sergant210](https://github.com/sergant210)), A big PHP fan, Russia
 - Sohaib Ilyas ([@sohaibilyas](https://github.com/sohaibilyas)), PHP & Laravel lover ❤️ from Pakistan 🇵🇰
 - Sergey Panteleev ([@saundefined](https://github.com/saundefined)), PHP Developer️, Russia
