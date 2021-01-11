@@ -95,6 +95,7 @@ Signed,
 - Santosh Jung Shahi ([@beingjungshahi](https://github.com/beingjungshahi)), Backend Developer, Nepal
 - Sanjar Umarov ([@usanjar](https://github.com/usanjar)), Back-end web developer, Uzbekistan
 - Sayed Muzammil ([@desidude03](https://github.com/desidude03)), devops engineer. Full Stack PHP Developer. Entrepreneur,Openstack community member, Playing with php since 2011
+- Sergei Shlokov ([@sergant210](https://github.com/sergant210)), A big PHP fan, Russia
 - Sohaib Ilyas ([@sohaibilyas](https://github.com/sohaibilyas)), PHP & Laravel lover ❤️ from Pakistan 🇵🇰
 - Sushil Ale ([@msucil](https://github.com/msucil)) Web Application Developer/Data Engineer, Nepal
 - Shakhobiddin Urinbayev ([@shokhaa](https://github.com/shokhaa)), PHP Backend Developer, Uzbekistan
