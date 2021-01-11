@@ -135,6 +135,7 @@ Signed,
 - PHP Dagestan ([@phpdagestan](https://github.com/phpdagestan)), Open source repository php developers from Dagestan, Russia
 - Nikita Antonenko ([@nikita-antonenko](https://github.com/nikita-antonenko)), from Russia
 - Aleksandr Kvintilyanov ([@nowiko](https://github.com/mops1k)), Backend Developer, Russia
+- Alexey Paschenko ([@steamvis](https://github.com/steamvis)), Backend Developer, Russia
 
 Inspired by the
 [Thank You Github](https://github.com/thank-you-github/thank-you-github),
