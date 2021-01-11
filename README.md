@@ -149,6 +149,7 @@ Signed,
 - Vitaly Artemev ([@VitalyArt](https://github.com/VitalyArt)), Backend Developer, Russia
 - Wasseem Khayrattee (aka **7PHP**) ([@7php](https://github.com/7php)), PHP fanboy from Mauritius island
 - Yinsee @ Daddycat ([@yinsee](https://github.com/yinsee)), Single core, Duo-core, Hardcore. PHP since 2006. Full stack, entrepreneur from <3 Penang, MY
+- Oleksandr Roskovynskyi ([@oleksandr-roskovynskyi](https://github.com/oleksandr-roskovynskyi)), Backend Developer, Ukraine
 
 Inspired by the
 [Thank You Github](https://github.com/thank-you-github/thank-you-github),
