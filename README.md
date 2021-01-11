@@ -71,6 +71,7 @@ Signed,
 - Muhammad Tayyab Sheikh ([@cstayyab](http://github.com/cstayyab)) Full-Stack Web developer and Information Security Researcher
 - Napoleon Arouldas ([@neps-in](https://github.com/neps-in)), Full Stack Developer, Lead Developer [Rollout](https://grandappstudio.com/roll-out)
 - Nikesh Bahadur Adhikari ([@ariadoos](https://github.com/ariadoos)), Software Engineer, Nepal
+- Nikolay Ponich ([@ponich](https://github.com/ponich)), Software Engineer
 - Paulo Castro ([@planktonfun](https://github.com/planktonfun)), Just a Passer By
 - Peter Kokot ([@petk](https://github.com/petk)), PHP development team member
 - Priyatna ([@antayirp](https://github.com/antayirp)), Full Stack Developer, Indonesia & Switzerland
