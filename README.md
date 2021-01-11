@@ -112,6 +112,7 @@ Signed,
 - Viktor Babanov ([@viktorprogger](https://github.com/viktorprogger)), PHP and Yii lover, backend developer, Russia
 - Sergey Novikov ([@ohDaddyPlease](https://github.com/ohDaddyPlease)), started as PHP Junior, from Russia with Love <3
 - Ivan Dudarev ([@ddrv](https://github.com/ddrv)), Backend Developer, Russia 🤘
+- Andrey Iatsenko([@yzen.dev](https://github.com/yzen-dev)), Backend Developer. Russia, Krasnodar
 
 Inspired by the
 [Thank You Github](https://github.com/thank-you-github/thank-you-github),
