@@ -88,6 +88,7 @@ Signed,
 - Samuel Adeshina ([@samshal](https://github.com/samshal)), Software Engineer, Nigeria
 - Sandy Pérez Matamoros ([@sandypm007](https://github.com/sandypm007)), Fullstack Developer and Team Leader. PHP since 2004
 - Santosh Jung Shahi ([@beingjungshahi](https://github.com/beingjungshahi)), Backend Developer, Nepal
+- Sanjar Umarov ([@usanjar](https://github.com/usanjar)), Back-end web developer, Uzbekistan
 - Sayed Muzammil ([@desidude03](https://github.com/desidude03)), devops engineer. Full Stack PHP Developer. Entrepreneur,Openstack community member, Playing with php since 2011
 - Sohaib Ilyas ([@sohaibilyas](https://github.com/sohaibilyas)), PHP & Laravel lover ❤️ from Pakistan 🇵🇰
 - Sushil Ale ([@msucil](https://github.com/msucil)) Web Application Developer/Data Engineer, Nepal
