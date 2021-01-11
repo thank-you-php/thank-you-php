@@ -103,6 +103,7 @@ Signed,
 - Yinsee @ Daddycat ([@yinsee](https://github.com/yinsee)), Single core, Duo-core, Hardcore. PHP since 2006. Full stack, entrepreneur from <3 Penang, MY
 - Afolayan Stephen ([@jilh](https://github.com/jilh)), Community Organizer and Fullstack PHP Developer, Nigeria
 - Saiful Alam ([@4msar](https://github.com/4msar)), Fullstack PHP Developer, Bangladesh
+- Odole Olukayode ([@kaythinks](https://github.com/kaythinks)), Software Craftsman from Nigeria
 
 Inspired by the
 [Thank You Github](https://github.com/thank-you-github/thank-you-github),
