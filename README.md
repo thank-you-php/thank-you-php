@@ -19,6 +19,7 @@ Signed,
 - Ahmad Moussawi ([@ahmad-moussawi](https://github.com/ahmad-moussawi)), PHP and C# Web Developer, Beirut Lebanon
 - Ahmed Osama ([@Juvienelle](https://github.com/Juvienelle)), Full Stack Developer, Egypt
 - Alam Khan ([@moskan9595](https://github.com/moskan9595)), Half Stack Developer, Pak
+- Alex Pavlov ([@alexpts](https://github.com/alexpts)), Full Stack Developer, Russian
 - Alexey Pyltsyn ([@lex111](https://github.com/lex111)), Maintainer of PHP documentation on Russian
 - Ali Nabeel Ahmed ([@alinabeel](https://github.com/alinabeel)), Backend Developer, Lahore Pakistan
 - Ammar Faizi ([@ammarfaizi2](https://github.com/ammarfaizi2)), Software Engineer, HPC Engineer, PHP Developer
