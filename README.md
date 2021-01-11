@@ -133,6 +133,7 @@ Signed,
 - Aram Baghdasaryan ([@jiromm](https://github.com/jiromm)), CTO @ ([@globbing-llc](https://github.com/globbing-llc)), Armenia
 - Timofey Zhiganov ([@zavodilo](https://github.com/zavodilo)) Backend Developer, Russia
 - PHP Dagestan ([@phpdagestan](https://github.com/phpdagestan)), Open source repository php developers from Dagestan, Russia
+- Nikita Antonenko ([@nikita-antonenko](https://github.com/nikita-antonenko)), from Russia
 
 Inspired by the
 [Thank You Github](https://github.com/thank-you-github/thank-you-github),
