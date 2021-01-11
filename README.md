@@ -23,6 +23,7 @@ Signed,
 - Alam Khan ([@moskan9595](https://github.com/moskan9595)), Half Stack Developer, Pak
 - Aleksandr Kirshin ([@KirshinAlexander](https://github.com/KirshinAlexander)), Full Stack Developer, Russia
 - Aleksandr Kvintilyanov ([@nowiko](https://github.com/mops1k)), Backend Developer, Russia
+- Aleksei Gagarin ([@roxblnfk](https://github.com/roxblnfk)), PHP Developer, Russia
 - Alex Pavlov ([@alexpts](https://github.com/alexpts)), Full Stack Developer, Russian
 - Alexey Paschenko ([@steamvis](https://github.com/steamvis)), Backend Developer, Russia
 - Alexey Pyltsyn ([@lex111](https://github.com/lex111)), Maintainer of PHP documentation on Russian
