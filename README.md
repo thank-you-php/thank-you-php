@@ -102,6 +102,7 @@ Signed,
 - Sergei Kolesnikov ([@win0err](https://github.com/win0err)), Software Engineer, Russia
 - Sergei Shlokov ([@sergant210](https://github.com/sergant210)), A big PHP fan, Russia
 - Sohaib Ilyas ([@sohaibilyas](https://github.com/sohaibilyas)), PHP & Laravel lover ❤️ from Pakistan 🇵🇰
+- Sergey Panteleev ([@saundefined](https://github.com/saundefined)), PHP Developer️, Russia
 - Sushil Ale ([@msucil](https://github.com/msucil)) Web Application Developer/Data Engineer, Nepal
 - Shakhobiddin Urinbayev ([@shokhaa](https://github.com/shokhaa)), PHP Backend Developer, Uzbekistan
 - Tariqul Islam ([@ta-riq](https://github.com/ta-riq)), A Real PHP lover
