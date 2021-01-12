@@ -152,6 +152,7 @@ Signed,
 - Shakhobiddin Urinbayev ([@shokhaa](https://github.com/shokhaa)), PHP Backend Developer, Uzbekistan
 - Siarhei Bautrukevich ([@bautrukevich](https://github.com/bautrukevich)), Web Developer, Belarus
 - Sklyarov Alexey ([@sufir](https://github.com/sufir)), Back-End Web Developer, Russia
+- Slava Krampetz ([@slavakrampetz](https://github.com/slavakrampetz)), Web Developer, CTO, Online-media.ru, Tomsk, Russia
 - Smirnov Oleg ([@SoeSmile](https://github.com/SoeSmile)), Web Developer, Russia
 - Sohaib Ilyas ([@sohaibilyas](https://github.com/sohaibilyas)), PHP & Laravel lover ❤️ from Pakistan 🇵🇰
 - Sushil Ale ([@msucil](https://github.com/msucil)) Web Application Developer/Data Engineer, Nepal
