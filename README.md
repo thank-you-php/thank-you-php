@@ -168,6 +168,7 @@ Signed,
 - Sergey Kasatikoff ([@kasatikoff](https://github.com/kasatikoff)), Software Engineer, Russia
 - Roman Gorbatko ([@RomanGorbatko](https://github.com/RomanGorbatko)), Backend Engineer, Ukraine 🇺🇦
 - Sergey Fedosimov ([@sergey-fedosimov](https://github.com/sergey-fedosimov)), PHP Developer, Russia
+- Hamza Mughal ([@prodesquare](https://github.com/prodesquare)), Full Stack Developer, Faisalabad Pakistan
 
 Inspired by the
 [Thank You Github](https://github.com/thank-you-github/thank-you-github),
