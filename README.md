@@ -154,6 +154,7 @@ Signed,
 - Oleksandr Roskovynskyi ([@oleksandr-roskovynskyi](https://github.com/oleksandr-roskovynskyi)), Backend Developer, Ukraine
 - Aleksandr Zemlyanoy ([@Galamoon](https://github.com/Galamoon)), Web Developer, Russia
 - Siarhei Bautrukevich ([@bautrukevich](https://github.com/bautrukevich)), Web Developer, Belarus
+- Andrey Astashov ([@mvcaaa](https://github.com/mvcaaa)), Software Developer, Russia/Finland
 
 Inspired by the
 [Thank You Github](https://github.com/thank-you-github/thank-you-github),
