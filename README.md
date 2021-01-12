@@ -163,6 +163,7 @@ Signed,
 - Alexey Alexeev ([@greenkaktusx](https://github.com/greenkaktusx)), Backend Developer, Russia
 - Sergey Kasatikoff ([@kasatikoff](https://github.com/kasatikoff)), Software Engineer, Russia
 - Roman Gorbatko ([@RomanGorbatko](https://github.com/RomanGorbatko)), Backend Engineer, Ukraine 🇺🇦
+- Sergey Fedosimov ([@sergey-fedosimov](https://github.com/sergey-fedosimov)), PHP Developer, Russia
 
 Inspired by the
 [Thank You Github](https://github.com/thank-you-github/thank-you-github),
