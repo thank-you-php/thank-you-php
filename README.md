@@ -23,19 +23,22 @@ Signed,
 - Alam Khan ([@moskan9595](https://github.com/moskan9595)), Half Stack Developer, Pak
 - Aleksandr Kirshin ([@KirshinAlexander](https://github.com/KirshinAlexander)), Full Stack Developer, Russia
 - Aleksandr Kvintilyanov ([@nowiko](https://github.com/mops1k)), Backend Developer, Russia
+- Aleksandr Zemlyanoy ([@Galamoon](https://github.com/Galamoon)), Web Developer, Russia
 - Aleksei Gagarin ([@roxblnfk](https://github.com/roxblnfk)), PHP Developer, Russia
 - Alex Pavlov ([@alexpts](https://github.com/alexpts)), Full Stack Developer, Russian
 - Alex Teterin ([@errogaht](https://github.com/errogaht)), PHP Developer, Russia
+- Alexey Alexeev ([@greenkaktusx](https://github.com/greenkaktusx)), Backend Developer, Russia
 - Alexey Paschenko ([@steamvis](https://github.com/steamvis)), Backend Developer, Russia
 - Alexey Pyltsyn ([@lex111](https://github.com/lex111)), Maintainer of PHP documentation on Russian
 - Ali Nabeel Ahmed ([@alinabeel](https://github.com/alinabeel)), Backend Developer, Lahore Pakistan
 - Ammar Faizi ([@ammarfaizi2](https://github.com/ammarfaizi2)), Software Engineer, HPC Engineer, PHP Developer
 - Anar Samadov ([@anarsamadov](https://github.com/anarsamadov)), Full stack PHP developer, Azerbaijan
+- Andrey Astashov ([@mvcaaa](https://github.com/mvcaaa)), Software Developer, Russia/Finland
 - Andrey Iatsenko([@yzen.dev](https://github.com/yzen-dev)), Backend Developer. Russia, Krasnodar
 - Andrey Ratushniy ([@agratushniy](https://github.com/agratushniy)), Backend Developer, Russia
-- Andry Pebrianto ([@andry-pebrianto](https://github.com/andry-pebrianto)), Web Developer, Indonesia
-- Andriy Lutskevich ([@lutdev](https://github.com/lutdev)), Web Developer, Ukraine
 - Andrii Lavryniuk ([@splaa](https://github.com/splaa)), Web Developer, Ukraine
+- Andriy Lutskevich ([@lutdev](https://github.com/lutdev)), Web Developer, Ukraine
+- Andry Pebrianto ([@andry-pebrianto](https://github.com/andry-pebrianto)), Web Developer, Indonesia
 - Anton Khainak ([@aksafan](https://github.com/aksafan)), Backend Engineer, Ukraine
 - Aqib Rashid ([@aqib-git](https://github.com/aqib-git)), Web Developer, Kashmir
 - Aram Baghdasaryan ([@jiromm](https://github.com/jiromm)), CTO @ ([@globbing-llc](https://github.com/globbing-llc)), Armenia
@@ -60,6 +63,7 @@ Signed,
 - Erjan Kalybek ([@erjanmx](https://github.com/erjanmx)), Software Developer, Netherlands
 - Eugene Leonovich ([@rybakit](https://github.com/rybakit)), Backend Developer, Belarus/Netherlands
 - Eugene Ruban ([@ERuban](https://github.com/ERuban)), PHP Developer, Russia/Georgia
+- Evgeniy Prokhorov ([@evgwed](https://github.com/evgwed)), PHP Developer and founder PHP community in Ulyanovsk ([ulskPHP](https://t.me/ulskPHP)), Russia
 - Ezekiel Oladejo ([@iamwebwiz](https://github.com/iamwebwiz)), Full-Stack Software Engineer at [NoMore ApS](https://nomorehours.com), based in Lagos, Nigeria
 - Faizan Akram ([@faizanakram99](https://github.com/faizanakram99)), Software Engineer, Kashmir
 - Firi Ofek ([@fireworks9](https://github.com/fireworks9)), Amateur Developer
@@ -69,6 +73,7 @@ Signed,
 - George Zakharov ([@george-zakharov](https://github.com/george-zakharov)), PHP Backend Developer, Russia
 - Ghazi Khan ([@mgks](https://github.com/mgks)), Just another PHP disciple from India
 - Given Ncube [@slimgee](https://github.com/sligee), Full Stack Developer, Zimbabwe
+- Hamza Mughal ([@prodesquare](https://github.com/prodesquare)), Full Stack Developer, Faisalabad Pakistan
 - Hendrik Eduard Kuiper ([@HendrikEduard](https://github.com/HendrikEduard)) Systems & DB Admin, Programmer and a whole lot more
 - Ilya Sudakov ([@isudakoff](https://github.com/isudakoff)), Web Developer, Russia
 - Ivan Dudarev ([@ddrv](https://github.com/ddrv)), Backend Developer, Russia 🤘
@@ -78,6 +83,7 @@ Signed,
 - Josiah O.Yahaya ([@coderatio](https://github.com/coderatio)), Full Stack Developer
 - Kirill Baranov ([@u-mulder](https://github.com/u-mulder)), PHP Developer, Russia
 - Koldo Picaza ([@kpicaza](https://github.com/kpicaza)), PHP Developer, Barcelona
+- Kristijan Stipić ([@stipic](https://github.com/stipic)), PHP & Symfony ❤️ - Software Developer️, Croatia 🇭🇷
 - Leo Cavalcante ([@leocavalcante](https://github.com/leocavalcante)), Proud and Thankful PHP Developer, Swoole Enthusiast, Brazil
 - Leonardo Teixeira ([@LeonardoTeixeira](https://github.com/LeonardoTeixeira)), Software Engineer, Brazil
 - Leonid Pankov ([@lpnkv](https://github.com/lpnkv)), Backend Developer, Russia
@@ -91,6 +97,7 @@ Signed,
 - Mark Kevin Besinga ([@besingamkb](https://github.com/besingamkb)), Software Engineer, Philippines
 - Matteo Martinelli ([@matteomartinelli](https://github.com/matteomartinelli)), Customerly Full Stack Developer, Italy
 - Mehdi "Arcanite" OUESLATI (https://github.com/Mihdi), Computer Science and Engineering student, Tunisia/France
+- Mikail Huseynov ([@hose1021](https://github.com/hose1021)), Full Stack Developer, Laravel and PHP lover, Azerbaijan Baku
 - Mikhail Chuvashov ([@almadef](https://github.com/almadef)), Full-Stack Developer, Russia
 - Mikiyas Amdu ([@mikimaine](https://github.com/mikimaine)), Software Engineer, Ethiopia
 - Muhammad Abdullah ([@abdullahnaseer](https://github.com/abdullahnaseer)), PHP Developer, Founder [CodeCreatives](http://code-creatives.com/)
@@ -104,6 +111,7 @@ Signed,
 - Nikolay Zuev ([des1roer](https://github.com/des1roer)), Backend Developer, Russian Federation
 - Odole Olukayode ([@kaythinks](https://github.com/kaythinks)), Software Craftsman from Nigeria
 - Oleg Mifle ([@olegmifle](https://github.com/olegmifle)), Backend Developer from Saint Petersburg, Russia
+- Oleksandr Roskovynskyi ([@oleksandr-roskovynskyi](https://github.com/oleksandr-roskovynskyi)), Backend Developer, Ukraine
 - Paimon John ([@pa1m0n](https://github.com/pa1m0n)), Full Web Stack Developer, Belarus
 - Paulo Castro ([@planktonfun](https://github.com/planktonfun)), Just a Passer By
 - Peter Kokot ([@petk](https://github.com/petk)), PHP development team member
@@ -114,10 +122,12 @@ Signed,
 - Rio Astamal ([@rioastamal](https://github.com/rioastamal)), Loving PHP since 2003 and Cloud Computing Enthusiast, Indonesia
 - Robert Means ([@BoDonkey](https://github.com/BoDonkey)), Language Lover, USA
 - Rod Elias ([@chapeupreto](https://github.com/chapeupreto)), Backend Developer, Brazil
+- Roman Gorbatko ([@RomanGorbatko](https://github.com/RomanGorbatko)), Backend Engineer, Ukraine 🇺🇦
+- Roman Gulevskiy ([@RomanGulevskiy](https://github.com/RomanGulevskiy)), Back-end developer, Perm, Russia
 - Roman Nikiforov ([@xrezus](https://github.com/xrezus)), PHP Developer, Belarus
 - Roman Pronskiy ([@pronskiy](https://github.com/pronskiy)), PMM, PHP enthusiast, Ukraine
+- Roman Shvykov ([@shvykov](https://github.com/shvykov)), Backend Developer, Russia
 - Roman Varkuta ([@KartaviK](https://github.com/KartaviK)), Back-end developer, Ukraine
-- Roman Gulevskiy ([@RomanGulevskiy](https://github.com/RomanGulevskiy)), Back-end developer, Perm, Russia
 - Roshan Budhathoki ([@roshanbudhathoki](https://github.com/roshanbudhathoki)), Full Stack Developer, Nepal
 - Rumon ([@msrumon](https://github.com/msrumon)), Self-taught JS and PHP developer from Bangladesh
 - Safayat Mahmud ([@S4F4Y4T](https://github.com/S4F4Y4T)), Full Stack Developer From Bangladesh
@@ -132,12 +142,15 @@ Signed,
 - Sayed Muzammil ([@desidude03](https://github.com/desidude03)), devops engineer. Full Stack PHP Developer. Entrepreneur,Openstack community member, Playing with php since 2011
 - Sergei Kolesnikov ([@win0err](https://github.com/win0err)), Software Engineer, Russia
 - Sergei Shlokov ([@sergant210](https://github.com/sergant210)), A big PHP fan, Russia
+- Sergey Brovko ([@cyber01](https://github.com/cyber01)), PHP fan, Russia
+- Sergey Fedosimov ([@sergey-fedosimov](https://github.com/sergey-fedosimov)), PHP Developer, Russia
+- Sergey Kasatikoff ([@kasatikoff](https://github.com/kasatikoff)), Software Engineer, Russia
+- Sergey Lebedev ([@lebedevsergey](https://github.com/lebedevsergey)), Software Developer️, Russia
 - Sergey Malovichko ([@mrserg161](https://github.com/mrserg161)), Backend Developer, Russia
 - Sergey Novikov ([@ohDaddyPlease](https://github.com/ohDaddyPlease)), started as PHP Junior, from Russia with Love <3
 - Sergey Panteleev ([@saundefined](https://github.com/saundefined)), PHP Developer️, Russia
-- Sergey Lebedev ([@lebedevsergey](https://github.com/lebedevsergey)), Software Developer️, Russia
-- Sergey Brovko ([@cyber01](https://github.com/cyber01)), PHP fan, Russia
 - Shakhobiddin Urinbayev ([@shokhaa](https://github.com/shokhaa)), PHP Backend Developer, Uzbekistan
+- Siarhei Bautrukevich ([@bautrukevich](https://github.com/bautrukevich)), Web Developer, Belarus
 - Sklyarov Alexey ([@sufir](https://github.com/sufir)), Back-End Web Developer, Russia
 - Smirnov Oleg ([@SoeSmile](https://github.com/SoeSmile)), Web Developer, Russia
 - Sohaib Ilyas ([@sohaibilyas](https://github.com/sohaibilyas)), PHP & Laravel lover ❤️ from Pakistan 🇵🇰
@@ -155,24 +168,11 @@ Signed,
 - Vikrant Singh Chauhan ([@0xcrypto](https://github.com/0xcrypto)), Backend Developer, India
 - Viktor Babanov ([@viktorprogger](https://github.com/viktorprogger)), PHP and Yii lover, backend developer, Russia
 - Viktor Novikov ([@nowiko](https://github.com/nowiko)), Backend Developer, Ukraine
+- Vitalii Shkolin ([@shkolin](https://github.com/shkolin)), Backend Developer, Ukraine
 - Vitaly Artemev ([@VitalyArt](https://github.com/VitalyArt)), Backend Developer, Russia
 - Volodymyr Panivko ([@sveneld](https://github.com/sveneld)), Back-end developer, Ukraine
 - Wasseem Khayrattee (aka **7PHP**) ([@7php](https://github.com/7php)), PHP fanboy from Mauritius island
 - Yinsee @ Daddycat ([@yinsee](https://github.com/yinsee)), Single core, Duo-core, Hardcore. PHP since 2006. Full stack, entrepreneur from <3 Penang, MY
-- Mikail Huseynov ([@hose1021](https://github.com/hose1021)), Full Stack Developer, Laravel and PHP lover, Azerbaijan Baku
-- Oleksandr Roskovynskyi ([@oleksandr-roskovynskyi](https://github.com/oleksandr-roskovynskyi)), Backend Developer, Ukraine
-- Aleksandr Zemlyanoy ([@Galamoon](https://github.com/Galamoon)), Web Developer, Russia
-- Siarhei Bautrukevich ([@bautrukevich](https://github.com/bautrukevich)), Web Developer, Belarus
-- Roman Shvykov ([@shvykov](https://github.com/shvykov)), Backend Developer, Russia
-- Andrey Astashov ([@mvcaaa](https://github.com/mvcaaa)), Software Developer, Russia/Finland
-- Evgeniy Prokhorov ([@evgwed](https://github.com/evgwed)), PHP Developer and founder PHP community in Ulyanovsk ([ulskPHP](https://t.me/ulskPHP)), Russia
-- Kristijan Stipić ([@stipic](https://github.com/stipic)), PHP & Symfony ❤️ - Software Developer️, Croatia 🇭🇷
-- Alexey Alexeev ([@greenkaktusx](https://github.com/greenkaktusx)), Backend Developer, Russia
-- Sergey Kasatikoff ([@kasatikoff](https://github.com/kasatikoff)), Software Engineer, Russia
-- Roman Gorbatko ([@RomanGorbatko](https://github.com/RomanGorbatko)), Backend Engineer, Ukraine 🇺🇦
-- Sergey Fedosimov ([@sergey-fedosimov](https://github.com/sergey-fedosimov)), PHP Developer, Russia
-- Hamza Mughal ([@prodesquare](https://github.com/prodesquare)), Full Stack Developer, Faisalabad Pakistan
-- Vitalii Shkolin ([@shkolin](https://github.com/shkolin)), Backend Developer, Ukraine
 
 Inspired by the
 [Thank You Github](https://github.com/thank-you-github/thank-you-github),
