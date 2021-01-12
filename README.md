@@ -162,6 +162,7 @@ Signed,
 - Kristijan Stipić ([@stipic](https://github.com/stipic)), PHP & Symfony ❤️ - Software Developer️, Croatia 🇭🇷
 - Alexey Alexeev ([@greenkaktusx](https://github.com/greenkaktusx)), Backend Developer, Russia
 - Sergey Kasatikoff ([@kasatikoff](https://github.com/kasatikoff)), Software Engineer, Russia
+- Roman Gorbatko ([@RomanGorbatko](https://github.com/RomanGorbatko)), Backend Engineer, Ukraine 🇺🇦
 
 Inspired by the
 [Thank You Github](https://github.com/thank-you-github/thank-you-github),
