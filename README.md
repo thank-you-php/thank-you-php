@@ -25,6 +25,7 @@ Signed,
 - Aleksandr Kvintilyanov ([@nowiko](https://github.com/mops1k)), Backend Developer, Russia
 - Aleksei Gagarin ([@roxblnfk](https://github.com/roxblnfk)), PHP Developer, Russia
 - Alex Pavlov ([@alexpts](https://github.com/alexpts)), Full Stack Developer, Russian
+- Alex Teterin ([@errogaht](https://github.com/errogaht)), PHP Developer, Russia
 - Alexey Paschenko ([@steamvis](https://github.com/steamvis)), Backend Developer, Russia
 - Alexey Pyltsyn ([@lex111](https://github.com/lex111)), Maintainer of PHP documentation on Russian
 - Ali Nabeel Ahmed ([@alinabeel](https://github.com/alinabeel)), Backend Developer, Lahore Pakistan
