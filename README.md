@@ -33,6 +33,7 @@ Signed,
 - Andrey Iatsenko([@yzen.dev](https://github.com/yzen-dev)), Backend Developer. Russia, Krasnodar
 - Andrey Ratushniy ([@agratushniy](https://github.com/agratushniy)), Backend Developer, Russia
 - Andry Pebrianto ([@andry-pebrianto](https://github.com/andry-pebrianto)), Web Developer, Indonesia
+- Andriy Lutskevich ([@lutdev](https://github.com/lutdev)), Web Developer, Ukraine
 - Andrii Lavryniuk ([@splaa](https://github.com/splaa)), Web Developer, Ukraine
 - Anton Khainak ([@aksafan](https://github.com/aksafan)), Backend Engineer, Ukraine
 - Aqib Rashid ([@aqib-git](https://github.com/aqib-git)), Web Developer, Kashmir
@@ -114,6 +115,7 @@ Signed,
 - Roman Nikiforov ([@xrezus](https://github.com/xrezus)), PHP Developer, Belarus
 - Roman Pronskiy ([@pronskiy](https://github.com/pronskiy)), PMM, PHP enthusiast, Ukraine
 - Roman Varkuta ([@KartaviK](https://github.com/KartaviK)), Back-end developer, Ukraine
+- Roman Gulevskiy ([@RomanGulevskiy](https://github.com/RomanGulevskiy)), Back-end developer, Perm, Russia
 - Roshan Budhathoki ([@roshanbudhathoki](https://github.com/roshanbudhathoki)), Full Stack Developer, Nepal
 - Rumon ([@msrumon](https://github.com/msrumon)), Self-taught JS and PHP developer from Bangladesh
 - Safayat Mahmud ([@S4F4Y4T](https://github.com/S4F4Y4T)), Full Stack Developer From Bangladesh
@@ -132,6 +134,7 @@ Signed,
 - Sergey Novikov ([@ohDaddyPlease](https://github.com/ohDaddyPlease)), started as PHP Junior, from Russia with Love <3
 - Sergey Panteleev ([@saundefined](https://github.com/saundefined)), PHP Developer️, Russia
 - Sergey Lebedev ([@lebedevsergey](https://github.com/lebedevsergey)), Software Developer️, Russia
+- Sergey Brovko ([@cyber01](https://github.com/cyber01)), PHP fan, Russia
 - Shakhobiddin Urinbayev ([@shokhaa](https://github.com/shokhaa)), PHP Backend Developer, Uzbekistan
 - Sklyarov Alexey ([@sufir](https://github.com/sufir)), Back-End Web Developer, Russia
 - Sohaib Ilyas ([@sohaibilyas](https://github.com/sohaibilyas)), PHP & Laravel lover ❤️ from Pakistan 🇵🇰
@@ -150,15 +153,21 @@ Signed,
 - Viktor Babanov ([@viktorprogger](https://github.com/viktorprogger)), PHP and Yii lover, backend developer, Russia
 - Viktor Novikov ([@nowiko](https://github.com/nowiko)), Backend Developer, Ukraine
 - Vitaly Artemev ([@VitalyArt](https://github.com/VitalyArt)), Backend Developer, Russia
+- Volodymyr Panivko ([@sveneld](https://github.com/sveneld)), Back-end developer, Ukraine
 - Wasseem Khayrattee (aka **7PHP**) ([@7php](https://github.com/7php)), PHP fanboy from Mauritius island
 - Yinsee @ Daddycat ([@yinsee](https://github.com/yinsee)), Single core, Duo-core, Hardcore. PHP since 2006. Full stack, entrepreneur from <3 Penang, MY
 - Mikail Huseynov ([@hose1021](https://github.com/hose1021)), Full Stack Developer, Laravel and PHP lover, Azerbaijan Baku
 - Oleksandr Roskovynskyi ([@oleksandr-roskovynskyi](https://github.com/oleksandr-roskovynskyi)), Backend Developer, Ukraine
 - Aleksandr Zemlyanoy ([@Galamoon](https://github.com/Galamoon)), Web Developer, Russia
 - Siarhei Bautrukevich ([@bautrukevich](https://github.com/bautrukevich)), Web Developer, Belarus
+- Roman Shvykov ([@shvykov](https://github.com/shvykov)), Backend Developer, Russia
 - Andrey Astashov ([@mvcaaa](https://github.com/mvcaaa)), Software Developer, Russia/Finland
 - Evgeniy Prokhorov ([@evgwed](https://github.com/evgwed)), PHP Developer and founder PHP community in Ulyanovsk ([ulskPHP](https://t.me/ulskPHP)), Russia
 - Kristijan Stipić ([@stipic](https://github.com/stipic)), PHP & Symfony ❤️ - Software Developer️, Croatia 🇭🇷
+- Alexey Alexeev ([@greenkaktusx](https://github.com/greenkaktusx)), Backend Developer, Russia
+- Sergey Kasatikoff ([@kasatikoff](https://github.com/kasatikoff)), Software Engineer, Russia
+- Roman Gorbatko ([@RomanGorbatko](https://github.com/RomanGorbatko)), Backend Engineer, Ukraine 🇺🇦
+- Sergey Fedosimov ([@sergey-fedosimov](https://github.com/sergey-fedosimov)), PHP Developer, Russia
 - Hamza Mughal ([@prodesquare](https://github.com/prodesquare)), Full Stack Developer, Faisalabad Pakistan
 
 Inspired by the
