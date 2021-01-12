@@ -176,6 +176,7 @@ Signed,
 - Yinsee @ Daddycat ([@yinsee](https://github.com/yinsee)), Single core, Duo-core, Hardcore. PHP since 2006. Full stack, entrepreneur from <3 Penang, MY
 - Dorian Peregrim ([@DorianPeregrim](https://github.com/DorianPeregrim)), PHP Developer, Russia 🇷🇺
 - Dmitriy Zhuchkov ([@Xynobo](https://github.com/Xynobo)), PHP Developer, 🇷🇺 Russia
+- Ghazif Adeem ([@Ghazif](https://github.com/Ghazif-Adeem)), PHP/Laravel Developer, Pakistan
 
 Inspired by the
 [Thank You Github](https://github.com/thank-you-github/thank-you-github),
