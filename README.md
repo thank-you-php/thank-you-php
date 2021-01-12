@@ -114,6 +114,7 @@ Signed,
 - Roman Nikiforov ([@xrezus](https://github.com/xrezus)), PHP Developer, Belarus
 - Roman Pronskiy ([@pronskiy](https://github.com/pronskiy)), PMM, PHP enthusiast, Ukraine
 - Roman Varkuta ([@KartaviK](https://github.com/KartaviK)), Back-end developer, Ukraine
+- Roman Gulevskiy ([@RomanGulevskiy](https://github.com/RomanGulevskiy)), Back-end developer, Perm, Russia
 - Roshan Budhathoki ([@roshanbudhathoki](https://github.com/roshanbudhathoki)), Full Stack Developer, Nepal
 - Rumon ([@msrumon](https://github.com/msrumon)), Self-taught JS and PHP developer from Bangladesh
 - Safayat Mahmud ([@S4F4Y4T](https://github.com/S4F4Y4T)), Full Stack Developer From Bangladesh
