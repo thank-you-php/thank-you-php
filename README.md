@@ -56,6 +56,7 @@ Signed,
 - Egor Rudkov ([@gren236](https://github.com/gren236)), Backend Developer, Russia
 - Eliyas Hossain ([@eliyas5044](https://github.com/eliyas5044)), Full Stack Developer, Bangladesh
 - Erjan Kalybek ([@erjanmx](https://github.com/erjanmx)), Software Developer, Netherlands
+- Eugene Leonovich ([@rybakit](https://github.com/rybakit)), Backend Developer, Belarus/Netherlands
 - Eugene Ruban ([@ERuban](https://github.com/ERuban)), PHP Developer, Russia/Georgia
 - Ezekiel Oladejo ([@iamwebwiz](https://github.com/iamwebwiz)), Full-Stack Software Engineer at [NoMore ApS](https://nomorehours.com), based in Lagos, Nigeria
 - Faizan Akram ([@faizanakram99](https://github.com/faizanakram99)), Software Engineer, Kashmir
@@ -152,6 +153,7 @@ Signed,
 - Yinsee @ Daddycat ([@yinsee](https://github.com/yinsee)), Single core, Duo-core, Hardcore. PHP since 2006. Full stack, entrepreneur from <3 Penang, MY
 - Oleksandr Roskovynskyi ([@oleksandr-roskovynskyi](https://github.com/oleksandr-roskovynskyi)), Backend Developer, Ukraine
 - Aleksandr Zemlyanoy ([@Galamoon](https://github.com/Galamoon)), Web Developer, Russia
+- Siarhei Bautrukevich ([@bautrukevich](https://github.com/bautrukevich)), Web Developer, Belarus
 - Andrey Astashov ([@mvcaaa](https://github.com/mvcaaa)), Software Developer, Russia/Finland
 
 Inspired by the
