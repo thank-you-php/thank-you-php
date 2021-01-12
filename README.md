@@ -159,6 +159,7 @@ Signed,
 - Andrey Astashov ([@mvcaaa](https://github.com/mvcaaa)), Software Developer, Russia/Finland
 - Evgeniy Prokhorov ([@evgwed](https://github.com/evgwed)), PHP Developer and founder PHP community in Ulyanovsk ([ulskPHP](https://t.me/ulskPHP)), Russia
 - Kristijan Stipić ([@stipic](https://github.com/stipic)), PHP & Symfony ❤️ - Software Developer️, Croatia 🇭🇷
+- Hamza Mughal ([@prodesquare](https://github.com/prodesquare)), Full Stack Developer, Faisalabad Pakistan
 
 Inspired by the
 [Thank You Github](https://github.com/thank-you-github/thank-you-github),
