@@ -172,6 +172,7 @@ Signed,
 - Roman Gorbatko ([@RomanGorbatko](https://github.com/RomanGorbatko)), Backend Engineer, Ukraine 🇺🇦
 - Sergey Fedosimov ([@sergey-fedosimov](https://github.com/sergey-fedosimov)), PHP Developer, Russia
 - Hamza Mughal ([@prodesquare](https://github.com/prodesquare)), Full Stack Developer, Faisalabad Pakistan
+- Vitalii Shkolin ([@shkolin](https://github.com/shkolin)), Backend Developer, Ukraine
 
 Inspired by the
 [Thank You Github](https://github.com/thank-you-github/thank-you-github),
