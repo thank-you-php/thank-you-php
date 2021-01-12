@@ -164,3 +164,5 @@ Inspired by the
 [Thank You Github](https://github.com/thank-you-github/thank-you-github),
 [Thank You Laravel](https://github.com/thank-you-laravel/thank-you-laravel),
 and [Thank You Symfony](https://github.com/thank-you-symfony/thank-you-symfony).
+
+- Vitalii Shkolin ([@shkolin](https://github.com/shkolin)), Backend Developer, Ukraine
