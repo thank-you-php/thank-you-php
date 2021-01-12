@@ -67,6 +67,7 @@ Signed,
 - Ghazi Khan ([@mgks](https://github.com/mgks)), Just another PHP disciple from India
 - Given Ncube [@slimgee](https://github.com/sligee), Full Stack Developer, Zimbabwe
 - Hendrik Eduard Kuiper ([@HendrikEduard](https://github.com/HendrikEduard)) Systems & DB Admin, Programmer and a whole lot more
+- Ilya Sudakov ([@isudakoff](https://github.com/isudakoff)), Web Developer, Russia
 - Ivan Dudarev ([@ddrv](https://github.com/ddrv)), Backend Developer, Russia 🤘
 - Jeffery Hussin ([@JefferyHus](https://github.com/JefferyHus)), Full Stack Developer
 - Joel Reis ([@ElJoelReis](https://github.com/ElJoelReis)), Web Developer
