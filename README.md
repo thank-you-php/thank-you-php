@@ -192,6 +192,7 @@ Signed,
 - Oleksandr Barabolia ([@alexandrbarabolia](https://github.com/alexandrbarabolia)), Backend Engineer, Ukraine 🇺🇦
 - Tshiamo Bhuda ([@tshiamobhuda](https://github.com/tshiamobhuda)), PHP Developer, :south_africa: South Africa
 - Zain Mehdi ([@szainmehdi](https://github.com/szainmehdi)), Software Engineer, 🇺🇸 USA
+- Flávio Heleno ([@flavioheleno](https://github.com/flavioheleno)), Developer, Brazil
 
 Inspired by the
 [Thank You Github](https://github.com/thank-you-github/thank-you-github),
