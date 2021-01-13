@@ -90,6 +90,7 @@ Signed,
 - Igor Veselov ([@utz0r2](https://github.com/utz0r2)), Full Stack Developer, Ukraine
 - Ilya Sudakov ([@isudakoff](https://github.com/isudakoff)), Web Developer, Russia
 - Ivan Dudarev ([@ddrv](https://github.com/ddrv)), Backend Developer, Russia 🤘
+- Jacob Dreesen ([@jdreesen](https://github.com/jdreesen)), Web Developer
 - Jakub Caban ([@lustmored](https://github.com/lustmored)), Backend Developer, Poland, Head of [lockme](https://lock.me)
 - Javier Gil ([@FJavierGil](https://github.com/FJavierGil)), Software Engineer, Spain
 - Jeffery Hussin ([@JefferyHus](https://github.com/JefferyHus)), Full Stack Developer
