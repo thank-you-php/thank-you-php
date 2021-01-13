@@ -79,6 +79,7 @@ Signed,
 - Florian Bailly ([@florian-bailly](https://github.com/florian-bailly)), Backend Developer, France
 - Francis Gonzales ([@fragote](https://github.com/fragote)), Informatic Engineer, Peru
 - Garuba OLayemii ([@OLayemii](https://github.com/OLayemii)), PHP Lover <3 , Nigeria
+- Gennaro Landolfi ([@rinodrummer](https://github.com/rinodrummer)), PHP Enthusiast and Full-stack Web Developer, Italy
 - George Zakharov ([@george-zakharov](https://github.com/george-zakharov)), PHP Backend Developer, Russia
 - Ghazi Khan ([@mgks](https://github.com/mgks)), Just another PHP disciple from India
 - Ghazif Adeem ([@Ghazif](https://github.com/Ghazif-Adeem)), PHP/Laravel Developer, Pakistan
