@@ -173,6 +173,7 @@ Signed,
 - Vikas Kapadiya ([@vikas5914](https://github.com/vikas5914)), Full Stack Developer, India
 - Vikrant Singh Chauhan ([@0xcrypto](https://github.com/0xcrypto)), Backend Developer, India
 - Viktor Babanov ([@viktorprogger](https://github.com/viktorprogger)), PHP and Yii lover, backend developer, Russia
+- Victor Login ([@batazor](https://github.com/batazor)), Backend Developer, Russia
 - Viktor Novikov ([@nowiko](https://github.com/nowiko)), Backend Developer, Ukraine
 - Vitalii Shkolin ([@shkolin](https://github.com/shkolin)), Backend Developer, Ukraine
 - Vitaly Artemev ([@VitalyArt](https://github.com/VitalyArt)), Backend Developer, Russia
