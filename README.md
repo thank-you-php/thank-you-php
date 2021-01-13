@@ -189,6 +189,7 @@ Signed,
 - Ghazif Adeem ([@Ghazif](https://github.com/Ghazif-Adeem)), PHP/Laravel Developer, Pakistan
 - Sergey Sidorov ([@serjazz](https://github.com/serjazz)), PHP Developer, 🇷🇺 Russia
 - Araz Gholami ([@arazgholami](https://github.com/arazgholami)), Software Engineer, 🇹🇷 Turkey
+- Flávio Heleno ([@flavioheleno](https://github.com/flavioheleno)), Developer, Brazil
 
 Inspired by the
 [Thank You Github](https://github.com/thank-you-github/thank-you-github),
