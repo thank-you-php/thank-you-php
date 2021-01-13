@@ -94,6 +94,7 @@ Signed,
 - Jakub Caban ([@lustmored](https://github.com/lustmored)), Backend Developer, Poland, Head of [lockme](https://lock.me)
 - Javier Gil ([@FJavierGil](https://github.com/FJavierGil)), Software Engineer, Spain
 - Jeffery Hussin ([@JefferyHus](https://github.com/JefferyHus)), Full Stack Developer
+- Jim Wigginton ([@terrafrost](https://github.com/terrafrost)), Software Engineer, Austin, TX
 - Joel Reis ([@ElJoelReis](https://github.com/ElJoelReis)), Web Developer
 - Joseph Leedy ([@JosephLeedy](https://github.com/JosephLeedy)), Full Stack Magento Developer, Austin, TX USA, Technical Lead & Lead Magento Extension Developer for [Wagento](https://www.wagento.com)
 - Josiah O.Yahaya ([@coderatio](https://github.com/coderatio)), Full Stack Developer
