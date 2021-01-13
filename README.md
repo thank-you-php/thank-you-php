@@ -111,7 +111,7 @@ Signed,
 - Muhammad Tayyab Sheikh ([@cstayyab](http://github.com/cstayyab)) Full-Stack Web developer and Information Security Researcher
 - Napoleon Arouldas ([@neps-in](https://github.com/neps-in)), Full Stack Developer, Lead Developer [Rollout](https://grandappstudio.com/roll-out)
 - Nikesh Bahadur Adhikari ([@ariadoos](https://github.com/ariadoos)), Software Engineer, Nepal
-- Nikhil Ranka ([@qwertynik](https://github.com/qwertynik)), Building solutions using Tech, mainly PHP. From India.
+- Nikhil Ranka ([@qwertynik](https://github.com/qwertynik)), Building solutions using Tech, mainly PHP. From Chennai, India, Existence
 - Nikita Antonenko ([@nikita-antonenko](https://github.com/nikita-antonenko)), from Russia
 - Nikolay Ponich ([@ponich](https://github.com/ponich)), Software Engineer
 - Nikolay Zuev ([des1roer](https://github.com/des1roer)), Backend Developer, Russian Federation
