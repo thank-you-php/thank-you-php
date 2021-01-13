@@ -178,6 +178,7 @@ Signed,
 - Tariqul Islam ([@ta-riq](https://github.com/ta-riq)), A Real PHP lover
 - Tasiu Kwaplong ([@tasiukwaplong](https://github.com/tasiukwaplong)), Laravel and PHP lover, Nigeria
 - Thomas Perez ([@ScullWM](https://github.com/scullwm)), Backend Developer, France
+- Tomasz Kane ([@tomaszkane](https://github.com/tomaszkane)), Senior PHP Developer, Poland
 - Timofey Zhiganov ([@zavodilo](https://github.com/zavodilo)) Backend Developer, Russia
 - Tshiamo Bhuda ([@tshiamobhuda](https://github.com/tshiamobhuda)), PHP Developer, :south_africa: South Africa
 - Vadim Mazur([@mazurva](https://github.com/mazurva)) PHP since 2006. Full stack, Russia
