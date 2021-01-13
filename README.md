@@ -112,6 +112,7 @@ Signed,
 - Maksym Storchak ([@strorch](https://github.com/strorch)), Web developer, Ukraine
 - Mark Almadin ([@mrkalmdn](https://github.com/mrkalmdn)), Laravelist
 - Mark Kevin Besinga ([@besingamkb](https://github.com/besingamkb)), Software Engineer, Philippines
+- Martin Hlavac ([@mhlavac](https://github.com/mhlavac)), Software Engineer, Germany/Czech Republic
 - Matteo Martinelli ([@matteomartinelli](https://github.com/matteomartinelli)), Customerly Full Stack Developer, Italy
 - Mehdi "Arcanite" OUESLATI (https://github.com/Mihdi), Computer Science and Engineering student, Tunisia/France
 - Mikail Huseynov ([@hose1021](https://github.com/hose1021)), Full Stack Developer, Laravel and PHP lover, Azerbaijan Baku
