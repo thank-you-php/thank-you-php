@@ -112,6 +112,7 @@ Signed,
 - MUHAMMAD Siyab ([@SiyabKhaksar](https://github.com/MUHAMMADSiyab)), Full Stack Web Developer, Karachi, Pakistan
 - Muhammad Tayyab Sheikh ([@cstayyab](http://github.com/cstayyab)) Full-Stack Web developer and Information Security Researcher
 - Napoleon Arouldas ([@neps-in](https://github.com/neps-in)), Full Stack Developer, Lead Developer [Rollout](https://grandappstudio.com/roll-out)
+- Navarr Barnier ([@navarr](https://github.com/navarr)), Sr Magento Developer, Ohio, USA
 - Nikesh Bahadur Adhikari ([@ariadoos](https://github.com/ariadoos)), Software Engineer, Nepal
 - Nikhil Ranka ([@qwertynik](https://github.com/qwertynik)), Building solutions using Tech, mainly PHP. From Chennai, India, Existence
 - Nikita Antonenko ([@nikita-antonenko](https://github.com/nikita-antonenko)), from Russia
