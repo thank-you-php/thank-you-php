@@ -26,6 +26,7 @@ Signed,
 - Aleksandr Zemlyanoy ([@Galamoon](https://github.com/Galamoon)), Web Developer, Russia
 - Aleksei Gagarin ([@roxblnfk](https://github.com/roxblnfk)), PHP Developer, Russia
 - Alex Baletskyi ([@baletskyi](https://github.com/baletskyi)), Software Engineer, Canada
+- Alex Kalineskou ([@akalineskou](https://github.com/akalineskou)), Software Engineer, Greece
 - Alex Pavlov ([@alexpts](https://github.com/alexpts)), Full Stack Developer, Russian
 - Alex Teterin ([@errogaht](https://github.com/errogaht)), PHP Developer, Russia
 - Alexey Alexeev ([@greenkaktusx](https://github.com/greenkaktusx)), Backend Developer, Russia
