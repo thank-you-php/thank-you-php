@@ -73,6 +73,7 @@ Signed,
 - Eugene Leonovich ([@rybakit](https://github.com/rybakit)), Backend Developer, Belarus/Netherlands
 - Eugene Ruban ([@ERuban](https://github.com/ERuban)), PHP Developer, Russia/Georgia
 - Evgeniy Prokhorov ([@evgwed](https://github.com/evgwed)), PHP Developer and founder PHP community in Ulyanovsk ([ulskPHP](https://t.me/ulskPHP)), Russia
+- Ezekiel Motlana ([@mosekwa](https://github.com/mosekwa)), Software Developer, South Africa
 - Ezekiel Oladejo ([@iamwebwiz](https://github.com/iamwebwiz)), Full-Stack Software Engineer at [NoMore ApS](https://nomorehours.com), based in Lagos, Nigeria
 - Faizan Akram ([@faizanakram99](https://github.com/faizanakram99)), Software Engineer, Kashmir
 - Firi Ofek ([@fireworks9](https://github.com/fireworks9)), Amateur Developer
