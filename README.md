@@ -61,6 +61,7 @@ Signed,
 - Corrado Modica ([@Corrado](https://github.com/CorradoModica)), Full Stack Developer, Italy
 - David Jor Hpan ([@david-gnext](https://github.com/david-gnext)), Yangon , Myanmar
 - Denuwan Hettiarachchi ([@Denuwanhh](https://github.com/Denuwanhh)), Full Stack Developer, Sri Lanka
+- Diego Andrade de Mendonça ([@diego182](https://github.com/diego182)), Backend Developer, Brazil/Germany
 - Djo ([@northmule](https://github.com/northmule)), 🚀 PHP is life , Backend Developer, Russia 🇷🇺
 - Dmitriy Bespalov ([@superrosko](https://github.com/superrosko)), Backend Developer, Russia
 - Dmitriy Zhuchkov ([@Xynobo](https://github.com/Xynobo)), PHP Developer, 🇷🇺 Russia
