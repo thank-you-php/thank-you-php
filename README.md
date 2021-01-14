@@ -70,6 +70,7 @@ Signed,
 - Egor Rudkov ([@gren236](https://github.com/gren236)), Backend Developer, Russia
 - Eliyas Hossain ([@eliyas5044](https://github.com/eliyas5044)), Full Stack Developer, Bangladesh
 - Enes Kömür ([@eneskomur](https://github.com/eneskomur)), Web Developer, Turkey
+- Erick Rocha ([@erickpatrick](https://github.com/erickpatrick)), Software Architect/Team Lead, Brazil/Germany
 - Erjan Kalybek ([@erjanmx](https://github.com/erjanmx)), Software Developer, Netherlands
 - Eugene Leonovich ([@rybakit](https://github.com/rybakit)), Backend Developer, Belarus/Netherlands
 - Eugene Ruban ([@ERuban](https://github.com/ERuban)), PHP Developer, Russia/Georgia
