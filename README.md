@@ -121,12 +121,12 @@ Signed,
 - Martin Hlavac ([@mhlavac](https://github.com/mhlavac)), Software Engineer, Germany/Czech Republic
 - Matteo Martinelli ([@matteomartinelli](https://github.com/matteomartinelli)), Customerly Full Stack Developer, Italy
 - Mehdi "Arcanite" OUESLATI ([Mihdi](https://github.com/Mihdi)), Computer Science and Engineering student, Tunisia/France
-- Michael Pritchard ([@Pen-y-Fan](https://github.com/Pen-y-Fan)), Software developer, PHP lover, United Kindgom
 - Michael Beck ([@mambax7](https://github.com/mambax7)), Full-Stack Developer, PHP & [XOOPS](http://xoops.org/) ❤️, USA
-- Mmidori Kocak ([@mmidorikocak](https://github.com/midorikocak)), Senior Software Engineer, Prague/Czech Republic
+- Michael Pritchard ([@Pen-y-Fan](https://github.com/Pen-y-Fan)), Software developer, PHP lover, United Kindgom
 - Mikail Huseynov ([@hose1021](https://github.com/hose1021)), Full Stack Developer, Laravel and PHP lover, Azerbaijan Baku
 - Mikhail Chuvashov ([@almadef](https://github.com/almadef)), Full-Stack Developer, Russia
 - Mikiyas Amdu ([@mikimaine](https://github.com/mikimaine)), Software Engineer, Ethiopia
+- Mmidori Kocak ([@mmidorikocak](https://github.com/midorikocak)), Senior Software Engineer, Prague/Czech Republic
 - Muhammad Abdullah ([@abdullahnaseer](https://github.com/abdullahnaseer)), PHP Developer, Founder [CodeCreatives](http://code-creatives.com/)
 - Muhammad Javed ([@theahmadzai](https://github.com/theahmadzai)), PHP since school days, Full Stack Developer. Open source lover
 - MUHAMMAD Siyab ([@SiyabKhaksar](https://github.com/MUHAMMADSiyab)), Full Stack Web Developer, Karachi, Pakistan
@@ -191,12 +191,12 @@ Signed,
 - Tariqul Islam ([@ta-riq](https://github.com/ta-riq)), A Real PHP lover
 - Tasiu Kwaplong ([@tasiukwaplong](https://github.com/tasiukwaplong)), Laravel and PHP lover, Nigeria
 - Thomas Perez ([@ScullWM](https://github.com/scullwm)), Backend Developer, France
+- Timofey Zhiganov ([@zavodilo](https://github.com/zavodilo)) Backend Developer, Russia
 - Tomasz Kane ([@tomaszkane](https://github.com/tomaszkane)), Backend Developer, Poland
 - Tomasz Sawicki ([@Furgas](https://github.com/Furgas)), Software Developer and PHP Enthusiast since 2003, Poland
-- Timofey Zhiganov ([@zavodilo](https://github.com/zavodilo)) Backend Developer, Russia
 - Tshiamo Bhuda ([@tshiamobhuda](https://github.com/tshiamobhuda)), PHP Developer, :south_africa: South Africa
-- Vadim Mazur([@mazurva](https://github.com/mazurva)) PHP since 2006. Full stack, Russia
 - Umut Işık ([@umutphp](https://github.com/umutphp)) Software developer, :heart: PHP since 2000, 🇹🇷 Turkey
+- Vadim Mazur([@mazurva](https://github.com/mazurva)) PHP since 2006. Full stack, Russia
 - Valentin Nikolaev ([@ValentinNikolaev](https://github.com/ValentinNikolaev)), Backend Developer, Turkey/Ukraine/Russia
 - Valentin Udaltsov ([@vudaltsov](https://github.com/vudaltsov)), PHP Developer and Blogger ([Пых](https://t.me/phpyh), [PHP Point](https://youtube.com/PHPPoint)) from Russia 🇷🇺
 - Vasilij Duško ([@StaffNowa](https://github.com/StaffNowa)), Web Developer, Lithuania
