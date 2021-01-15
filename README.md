@@ -131,6 +131,7 @@ Signed,
 - Mikhail Chuvashov ([@almadef](https://github.com/almadef)), Full-Stack Developer, Russia
 - Mikiyas Amdu ([@mikimaine](https://github.com/mikimaine)), Software Engineer, Ethiopia
 - Mmidori Kocak ([@mmidorikocak](https://github.com/midorikocak)), Senior Software Engineer, Prague/Czech Republic
+- Muhaimenul Islam ([@muhaimenul](https://github.com/muhaimenul)), Software Engineer, Bangladesh
 - Muhammad Abdullah ([@abdullahnaseer](https://github.com/abdullahnaseer)), PHP Developer, Founder [CodeCreatives](http://code-creatives.com/)
 - Muhammad Javed ([@theahmadzai](https://github.com/theahmadzai)), PHP since school days, Full Stack Developer. Open source lover
 - MUHAMMAD Siyab ([@SiyabKhaksar](https://github.com/MUHAMMADSiyab)), Full Stack Web Developer, Karachi, Pakistan
