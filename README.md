@@ -139,6 +139,7 @@ Signed,
 - Mustafa Topcuogullari ([@mtopcu](http://github.com/mtopcu)) Software Quality Assurance Engineer, Behat-PhpUnit, Turkiye 🇹🇷
 - Napoleon Arouldas ([@neps-in](https://github.com/neps-in)), Full Stack Developer, Lead Developer [Rollout](https://grandappstudio.com/roll-out)
 - Navarr Barnier ([@navarr](https://github.com/navarr)), Sr Magento Developer, Ohio, USA
+- Nazar Samarets ([@unhappyby](https://github.com/unhappyby)), PHP Developer, Ukraine 🇺🇦
 - Nikesh Bahadur Adhikari ([@ariadoos](https://github.com/ariadoos)), Software Engineer, Nepal
 - Nikhil Ranka ([@qwertynik](https://github.com/qwertynik)), Building solutions using Tech, mainly PHP. From Chennai, India, Existence
 - Nikita Antonenko ([@nikita-antonenko](https://github.com/nikita-antonenko)), from Russia
