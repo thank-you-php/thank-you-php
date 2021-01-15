@@ -67,6 +67,7 @@ Signed,
 - Dmitriy Zhuchkov ([@Xynobo](https://github.com/Xynobo)), PHP Developer, 🇷🇺 Russia
 - Dmitry Derepko ([@xepozz](https://github.com/xepozz)), Just Dmitry 😉, Russia
 - Dmitry Polkhov ([@drholera](https://github.com/drholera)), Backend Developer, Ukraine 🇺🇦
+- Doqnach ([@Doqnach](https://github.com/Doqnach)), PHP Developer, The Netherlands
 - Dorian Peregrim ([@DorianPeregrim](https://github.com/DorianPeregrim)), PHP Developer, Russia 🇷🇺
 - Egor Rudkov ([@gren236](https://github.com/gren236)), Backend Developer, Russia
 - Eliyas Hossain ([@eliyas5044](https://github.com/eliyas5044)), Full Stack Developer, Bangladesh
