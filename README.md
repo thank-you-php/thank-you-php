@@ -183,6 +183,7 @@ Signed,
 - Sergey Novikov ([@ohDaddyPlease](https://github.com/ohDaddyPlease)), started as PHP Junior, from Russia with Love <3
 - Sergey Panteleev ([@saundefined](https://github.com/saundefined)), PHP Developer️, Russia
 - Sergey Sidorov ([@serjazz](https://github.com/serjazz)), PHP Developer, 🇷🇺 Russia
+- Sergey Tsyhankou ([@tsyhankou](https://github.com/tsyhankou)), Backend PHP Developer, Poland/Belarus
 - Shakhobiddin Urinbayev ([@shokhaa](https://github.com/shokhaa)), PHP Backend Developer, Uzbekistan
 - Siarhei Bautrukevich ([@bautrukevich](https://github.com/bautrukevich)), Web Developer, Belarus
 - Sklyarov Alexey ([@sufir](https://github.com/sufir)), Back-End Web Developer, Russia
