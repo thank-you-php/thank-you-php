@@ -109,6 +109,7 @@ Signed,
 - Kirill Baranov ([@u-mulder](https://github.com/u-mulder)), PHP Developer, Russia
 - Koldo Picaza ([@kpicaza](https://github.com/kpicaza)), PHP Developer, Barcelona
 - Kristijan Stipić ([@stipic](https://github.com/stipic)), PHP & Symfony ❤️ - Software Developer️, Croatia 🇭🇷
+- Kristiyan Vasilev ([@KriqN](https://github.com/KriqN)), Backend Developer, Bulgaria
 - Leo Cavalcante ([@leocavalcante](https://github.com/leocavalcante)), Proud and Thankful PHP Developer, Swoole Enthusiast, Brazil
 - Leonardo Teixeira ([@LeonardoTeixeira](https://github.com/LeonardoTeixeira)), Software Engineer, Brazil
 - Leonid Pankov ([@lpnkv](https://github.com/lpnkv)), Backend Developer, Russia
