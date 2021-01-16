@@ -53,6 +53,7 @@ Signed,
 - Bahyu Sanciko ([@bahyusanciko](https://github.com/bahyusanciko)), Full Stack Developer, Indonesia
 - Benjamin Temitope ([@benjamintemitope](https://github.com/benjamintemitope)), Backend Developer, Nigeria
 - Benkoulal Abdelghani ([@AbdouGhani-Ben](https://github.com/AbdouGhani-Ben)), Full Stack Developer and Security engineer, Algeria
+- Bondoux Nicolas ([@Nsbx](https://github.com/Nsbx)), Backend Developer, Php & Symfony Lover ❤, France
 - Brandon Kraft ([@kraftbj](https://github.com/kraftbj)), Core Contributor to [@WordPress](https://make.wordpress.org) and Lead at [@Automattic](https://github.com/automattic), Austin, Texas USA
 - Carl Abraham ([@i22inc](https://github.com/i22inc)), Director [i22.in](https://i22.in)
 - Carlos Meneses ([@mccarlosen](https://github.com/mccarlosen)), Full Stack Developer from Venezuela
