@@ -225,6 +225,7 @@ Signed,
 - Yinsee @ Daddycat ([@yinsee](https://github.com/yinsee)), Single core, Duo-core, Hardcore. PHP since 2006. Full stack, entrepreneur from <3 Penang, MY
 - Zain Mehdi ([@szainmehdi](https://github.com/szainmehdi)), Software Engineer, 🇺🇸 USA
 - Sergio de Candelario ([@sdecandelario](https://github.com/sdecandelario)), Software Engineer, Barcelona, Catalonia, Spain :)
+- José Manuel Casani Guerra ([@MrJmpl3](https://github.com/MrJmpl3)), PHP & Laravel Developer, Perú
 
 Inspired by the
 [Thank You Github](https://github.com/thank-you-github/thank-you-github),
