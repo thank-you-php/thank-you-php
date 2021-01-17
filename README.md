@@ -198,6 +198,7 @@ Signed,
 - Sklyarov Alexey ([@sufir](https://github.com/sufir)), Back-End Web Developer, Russia
 - Slava Krampetz ([@slavakrampetz](https://github.com/slavakrampetz)), Web Developer, CTO, Online-media.ru, Tomsk, Russia
 - Smirnov Oleg ([@SoeSmile](https://github.com/SoeSmile)), Web Developer, Russia
+- Steve Pavarno ([@pavarnos](https://github.com/pavarnos)), Full stack PHP since 2001, New Zealand
 - Sohaib Ilyas ([@sohaibilyas](https://github.com/sohaibilyas)), PHP & Laravel lover ❤️ from Pakistan 🇵🇰
 - Sushil Ale ([@msucil](https://github.com/msucil)) Web Application Developer/Data Engineer, Nepal
 - Tariqul Islam ([@ta-riq](https://github.com/ta-riq)), A Real PHP lover
