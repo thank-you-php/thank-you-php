@@ -68,6 +68,7 @@ Signed,
 - Dmitriy Bespalov ([@superrosko](https://github.com/superrosko)), Backend Developer, Russia
 - Dmitriy Zhuchkov ([@Xynobo](https://github.com/Xynobo)), PHP Developer, 🇷🇺 Russia
 - Dmitry Derepko ([@xepozz](https://github.com/xepozz)), Just Dmitry 😉, Russia
+- Dmitry Koshelenko ([@GomelHawk](https://github.com/GomelHawk)), PHP / Symfony Developer, Belarus
 - Dmitry Polkhov ([@drholera](https://github.com/drholera)), Backend Developer, Ukraine 🇺🇦
 - Doqnach ([@Doqnach](https://github.com/Doqnach)), PHP Developer, The Netherlands
 - Dorian Peregrim ([@DorianPeregrim](https://github.com/DorianPeregrim)), PHP Developer, Russia 🇷🇺
