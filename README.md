@@ -112,6 +112,7 @@ Signed,
 - Jim Wigginton ([@terrafrost](https://github.com/terrafrost)), Software Engineer, Austin, TX
 - Joel Reis ([@ElJoelReis](https://github.com/ElJoelReis)), Web Developer
 - José Manuel Casani Guerra ([@MrJmpl3](https://github.com/MrJmpl3)), PHP & Laravel Developer, Perú
+- Josef Sábl ([@josefsabl](https://github.com/josefsabl), Backend Developer, Czechia
 - Joseph Leedy ([@JosephLeedy](https://github.com/JosephLeedy)), Full Stack Magento Developer, Austin, TX USA, Technical Lead & Lead Magento Extension Developer for [Wagento](https://www.wagento.com)
 - Josiah O.Yahaya ([@coderatio](https://github.com/coderatio)), Full Stack Developer
 - Kirill Baranov ([@u-mulder](https://github.com/u-mulder)), PHP Developer, Russia
