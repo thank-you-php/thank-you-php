@@ -50,6 +50,7 @@ Signed,
 - Aram Baghdasaryan ([@jiromm](https://github.com/jiromm)), CTO @ ([@globbing-llc](https://github.com/globbing-llc)), Armenia
 - Araz Gholami ([@arazgholami](https://github.com/arazgholami)), Software Engineer, 🇹🇷 Turkey
 - Arya Irama Wahono ([@aryairama](https://github.com/aryairama)), Web Developer, Indonesia
+- Askar Fuzaylov ([@ARACOOOL](https://github.com/ARACOOOL)), Software engineer, Uzbekistan
 - Avinash Nethala ([@avinashn](https://github.com/avinashn)), Full Stack Developer, India
 - Babish Shrestha ([@babiz](https://github.com/babiz)), PHP believer since 2008, Entrepreneur, Nepal
 - Bahyu Sanciko ([@bahyusanciko](https://github.com/bahyusanciko)), Full Stack Developer, Indonesia
