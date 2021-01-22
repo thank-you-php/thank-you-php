@@ -208,6 +208,7 @@ Signed,
 - Sohaib Ilyas ([@sohaibilyas](https://github.com/sohaibilyas)), PHP & Laravel lover ❤️ from Pakistan 🇵🇰
 - Steve Pavarno ([@pavarnos](https://github.com/pavarnos)), Full stack PHP since 2001, New Zealand
 - Sushil Ale ([@msucil](https://github.com/msucil)) Web Application Developer/Data Engineer, Nepal
+- Dmitriy Fedosov ([@TheNord](https://github.com/TheNord)), Backend PHP Developer, Russia
 - Tariqul Islam ([@ta-riq](https://github.com/ta-riq)), A Real PHP lover
 - Tasiu Kwaplong ([@tasiukwaplong](https://github.com/tasiukwaplong)), Laravel and PHP lover, Nigeria
 - Thomas Perez ([@ScullWM](https://github.com/scullwm)), Backend Developer, France
