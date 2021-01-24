@@ -54,6 +54,7 @@ Signed,
 - Arya Irama Wahono ([@aryairama](https://github.com/aryairama)), Web Developer, Indonesia
 - Askar Fuzaylov ([@ARACOOOL](https://github.com/ARACOOOL)), Software engineer, Uzbekistan
 - Avinash Nethala ([@avinashn](https://github.com/avinashn)), Full Stack Developer, India
+- Aydarkhan Tsyrenzhapov ([@noweasily](https://github.com/noweasily)) Backend Developer, Russia
 - Babish Shrestha ([@babiz](https://github.com/babiz)), PHP believer since 2008, Entrepreneur, Nepal
 - Bahyu Sanciko ([@bahyusanciko](https://github.com/bahyusanciko)), Full Stack Developer, Indonesia
 - Benjamin Temitope ([@benjamintemitope](https://github.com/benjamintemitope)), Backend Developer, Nigeria
@@ -71,6 +72,7 @@ Signed,
 - Diego Andrade de Mendonça ([@diego182](https://github.com/diego182)), Backend Developer, Brazil/Germany
 - Djo ([@northmule](https://github.com/northmule)), 🚀 PHP is life , Backend Developer, Russia 🇷🇺
 - Dmitriy Bespalov ([@superrosko](https://github.com/superrosko)), Backend Developer, Russia
+- Dmitriy Fedosov ([@TheNord](https://github.com/TheNord)), Backend PHP Developer, Russia
 - Dmitriy Zhuchkov ([@Xynobo](https://github.com/Xynobo)), PHP Developer, 🇷🇺 Russia
 - Dmitry Derepko ([@xepozz](https://github.com/xepozz)), Just Dmitry 😉, Russia
 - Dmitry Koshelenko ([@GomelHawk](https://github.com/GomelHawk)), PHP / Symfony Developer, Belarus
@@ -211,7 +213,6 @@ Signed,
 - Sohaib Ilyas ([@sohaibilyas](https://github.com/sohaibilyas)), PHP & Laravel lover ❤️ from Pakistan 🇵🇰
 - Steve Pavarno ([@pavarnos](https://github.com/pavarnos)), Full stack PHP since 2001, New Zealand
 - Sushil Ale ([@msucil](https://github.com/msucil)) Web Application Developer/Data Engineer, Nepal
-- Dmitriy Fedosov ([@TheNord](https://github.com/TheNord)), Backend PHP Developer, Russia
 - Tariqul Islam ([@ta-riq](https://github.com/ta-riq)), A Real PHP lover
 - Tasiu Kwaplong ([@tasiukwaplong](https://github.com/tasiukwaplong)), Laravel and PHP lover, Nigeria
 - Thomas Perez ([@ScullWM](https://github.com/scullwm)), Backend Developer, France
@@ -239,7 +240,6 @@ Signed,
 - Wasseem Khayrattee (aka **7PHP**) ([@7php](https://github.com/7php)), PHP fanboy from Mauritius island
 - Yinsee @ Daddycat ([@yinsee](https://github.com/yinsee)), Single core, Duo-core, Hardcore. PHP since 2006. Full stack, entrepreneur from <3 Penang, MY
 - Zain Mehdi ([@szainmehdi](https://github.com/szainmehdi)), Software Engineer, 🇺🇸 USA
-- Aydarkhan Tsyrenzhapov ([@noweasily](https://github.com/noweasily)) Backend Developer, Russia
 
 Inspired by the
 [Thank You Github](https://github.com/thank-you-github/thank-you-github),
