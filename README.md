@@ -39,6 +39,7 @@ Signed,
 - Ammar Faizi ([@ammarfaizi2](https://github.com/ammarfaizi2)), Software Engineer, HPC Engineer, PHP Developer
 - Anar Samadov ([@anarsamadov](https://github.com/anarsamadov)), Full stack PHP developer, Azerbaijan
 - Anatoliy Poloz ([@tolyod](https://github.com/tolyod)), Software Engineer, Russia/Ukraine
+- Anatoly Chesneyshy ([@Pronik2009](https://github.com/Pronik2009)), Backend developer, ❤ PHP since 2012, Ukraine
 - Andre Polykanine ([@Menelion](https://github.com/Menelion)), Backend developer, ❤ PHP since 2007, Ukraine/Germany
 - Andrea Ruggiero ([@pupaxxo](https://github.com/pupaxxo)), Backend Developer, PHP & Symfony Lover, Italy
 - Andrey Astashov ([@mvcaaa](https://github.com/mvcaaa)), Software Developer, Russia/Finland
