@@ -124,6 +124,7 @@ Signed,
 - Joseph Leedy ([@JosephLeedy](https://github.com/JosephLeedy)), Full Stack Magento Developer, Austin, TX USA, Technical Lead & Lead Magento Extension Developer for [Wagento](https://www.wagento.com)
 - Josiah O.Yahaya ([@coderatio](https://github.com/coderatio)), Full Stack Developer
 - Julia Grabovskaya ([@julsuniverse](https://github.com/julsuniverse)), PHP Developer, Zaporizhzhya, Ukraine 🇺🇦
+- Julio Napurí ([@julionc](https://github.com/julionc)), Backend Developer, Perú 🇵🇪
 - Kirill Baranov ([@u-mulder](https://github.com/u-mulder)), PHP Developer, Russia
 - Koldo Picaza ([@kpicaza](https://github.com/kpicaza)), PHP Developer, Barcelona
 - Kristijan Stipić ([@stipic](https://github.com/stipic)), PHP & Symfony ❤️ - Software Developer️, Croatia 🇭🇷
