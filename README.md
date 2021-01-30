@@ -240,6 +240,7 @@ Signed,
 - Vitalii Shkolin ([@shkolin](https://github.com/shkolin)), Backend Developer, Ukraine
 - Vitaly Artemev ([@VitalyArt](https://github.com/VitalyArt)), Backend Developer, Russia
 - Vlad Olaru ([@vladolaru](https://github.com/vladolaru)), Co-founder and Web Developer at [Pixelgrade](https://pixelgrade.com), thinker and writer at [ThinkWriteCode.com](https://thinkwritecode.com), Romania
+- Vladimir Semenov ([@thesun2003](https://github.com/thesun2003)), Technical Lead / Senior Software Engineer ([Blog @ Medium](https://medium.com/@thesun2003)), Russia 🇷🇺 / New Zealand 🇳🇿
 - Vladimirs Nordholm ([@vladdeSV](https://github.com/vladdeSV)), Backend Developer, Sweden
 - Volodymyr Panivko ([@sveneld](https://github.com/sveneld)), Back-end developer, Ukraine
 - Wasseem Khayrattee (aka **7PHP**) ([@7php](https://github.com/7php)), PHP fanboy from Mauritius island
