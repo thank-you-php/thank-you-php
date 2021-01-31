@@ -153,6 +153,7 @@ Signed,
 - Mmidori Kocak ([@mmidorikocak](https://github.com/midorikocak)), Senior Software Engineer, Prague/Czech Republic
 - Muhaimenul Islam ([@muhaimenul](https://github.com/muhaimenul)), Software Engineer, Bangladesh
 - Muhammad Abdullah ([@abdullahnaseer](https://github.com/abdullahnaseer)), PHP Developer, Founder [CodeCreatives](http://code-creatives.com/)
+- Muhammad Fauzan ([@fauzan121002](https://github.com/fauzan121002)), Fullstack Web Developer, Open Source Enthusiast
 - Muhammad Javed ([@theahmadzai](https://github.com/theahmadzai)), PHP since school days, Full Stack Developer. Open source lover
 - MUHAMMAD Siyab ([@SiyabKhaksar](https://github.com/MUHAMMADSiyab)), Full Stack Web Developer, Karachi, Pakistan
 - Muhammad Tayyab Sheikh ([@cstayyab](http://github.com/cstayyab)) Full-Stack Web developer and Information Security Researcher
