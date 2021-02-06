@@ -22,6 +22,7 @@ Signed,
 - Ahmad Moussawi ([@ahmad-moussawi](https://github.com/ahmad-moussawi)), PHP and C# Web Developer, Beirut Lebanon
 - Ahmed Osama ([@Juvienelle](https://github.com/Juvienelle)), Full Stack Developer, Egypt
 - Alam Khan ([@moskan9595](https://github.com/moskan9595)), Half Stack Developer, Pak
+- Aleksandr Frolov ([@Philosoft](https://github.com/Philosoft)), PHP Developer, Russia
 - Aleksandr Kirshin ([@KirshinAlexander](https://github.com/KirshinAlexander)), Full Stack Developer, Russia
 - Aleksandr Kvintilyanov ([@nowiko](https://github.com/mops1k)), Backend Developer, Russia
 - Aleksandr Zemlyanoy ([@Galamoon](https://github.com/Galamoon)), Web Developer, Russia
