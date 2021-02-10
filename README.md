@@ -247,6 +247,7 @@ Signed,
 - Volodymyr Panivko ([@sveneld](https://github.com/sveneld)), Back-end developer, Ukraine
 - Wasseem Khayrattee (aka **7PHP**) ([@7php](https://github.com/7php)), PHP fanboy from Mauritius island
 - Yinsee @ Daddycat ([@yinsee](https://github.com/yinsee)), Single core, Duo-core, Hardcore. PHP since 2006. Full stack, entrepreneur from <3 Penang, MY
+- Yusuf Ardi ([@yusufthedragon](https://github.com/yusufthedragon)), Backend Developer, Indonesia
 - Zain Mehdi ([@szainmehdi](https://github.com/szainmehdi)), Software Engineer, 🇺🇸 USA
 - Luuk Verhoeven ([@luukverhoeven](https://github.com/luukverhoeven)),  Senior Software Engineer / Moodle expert , 🇳🇱 Netherlands
 
