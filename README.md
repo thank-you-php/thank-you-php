@@ -135,6 +135,7 @@ Signed,
 - Leonid Pankov ([@lpnkv](https://github.com/lpnkv)), Backend Developer, Russia
 - Logan Lindquist ([@llbbl](https://github.com/llbbl)), Organizer, Austin, TX USA
 - Luciano Coggiola ([@tanoinc](https://github.com/tanoinc)), Full Stack Developer, Argentina
+- Luuk Verhoeven ([@luukverhoeven](https://github.com/luukverhoeven)),  Senior Software Engineer / Moodle expert , 🇳🇱 Netherlands
 - Lyubomir Grozdanov ([@lubo13](https://github.com/lubo13)), Backend Developer (Symfony Certified Developer and Zend Certified Engineer (PHP 7)), Bulgaria
 - Mahbub Hasan Imon ([@mhimon](https://github.com/mhimon)), Full Stack Developer, Bangladesh 🇧🇩🇧🇩🇧🇩 Founder & Lead Developer of ultraDevs ([@ultraDevs](https://github.com/ultraDevs))
 - Maksim Ermakov ([@salfum](https://github.com/salfum)), Full Stack Developer, PHP and Laravel :heart:, Russia :ru:
@@ -249,8 +250,6 @@ Signed,
 - Yinsee @ Daddycat ([@yinsee](https://github.com/yinsee)), Single core, Duo-core, Hardcore. PHP since 2006. Full stack, entrepreneur from <3 Penang, MY
 - Yusuf Ardi ([@yusufthedragon](https://github.com/yusufthedragon)), Backend Developer, Indonesia
 - Zain Mehdi ([@szainmehdi](https://github.com/szainmehdi)), Software Engineer, 🇺🇸 USA
-- Luuk Verhoeven ([@luukverhoeven](https://github.com/luukverhoeven)),  Senior Software Engineer / Moodle expert , 🇳🇱 Netherlands
-
 
 Inspired by the
 [Thank You Github](https://github.com/thank-you-github/thank-you-github),
