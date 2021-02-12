@@ -3,7 +3,8 @@ Dear PHP,
 PHP changed the way we develop web applications and influenced many developers
 and projects.
 
-We want to thank [Rasmus Lerdorf](https://github.com/rlerdorf), the
+We want to thank [Rasmus Lerdorf](https://github.com/rlerdorf),
+[Zeev Suraski](https://github.com/zsuraski), the
 [PHP group](https://php.net/credits.php), PHP core developers, contributors, and
 all the people involved in making the PHP language and its ecosystem a better
 place for everyone.
