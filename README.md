@@ -174,6 +174,7 @@ Signed,
 - Oleksandr Barabolia ([@alexandrbarabolia](https://github.com/alexandrbarabolia)), Backend Engineer, Ukraine 🇺🇦
 - Oleksandr Roskovynskyi ([@oleksandr-roskovynskyi](https://github.com/oleksandr-roskovynskyi)), Backend Developer, Ukraine
 - Paimon John ([@pa1m0n](https://github.com/pa1m0n)), Full Web Stack Developer, Belarus
+- Paul Messina([@paulrm](https://github.com/paulrm)), DevOps Engineer - 🤟 PHP since 3.0, 🇦🇷 Argentina
 - Paulo Castro ([@planktonfun](https://github.com/planktonfun)), Just a Passer By
 - Peter Kokot ([@petk](https://github.com/petk)), PHP development team member
 - PHP Dagestan ([@phpdagestan](https://github.com/phpdagestan)), Open source repository php developers from Dagestan, Russia
