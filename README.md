@@ -28,6 +28,7 @@ Signed,
 - Aleksandr Kvintilyanov ([@nowiko](https://github.com/mops1k)), Backend Developer, Russia
 - Aleksandr Zemlyanoy ([@Galamoon](https://github.com/Galamoon)), Web Developer, Russia
 - Aleksei Gagarin ([@roxblnfk](https://github.com/roxblnfk)), PHP Developer, Russia
+- Aleksei Krichevsky ([@kricha](https://github.com/kricha)), Software Engineer, 🇺🇦 Ukraine
 - Alex Baletskyi ([@baletskyi](https://github.com/baletskyi)), Software Engineer, Canada
 - Alex Hackney ([@alexhackney](https://github.com/alexhackney)), Software Engineer, USA
 - Alex Kalineskou ([@akalineskou](https://github.com/akalineskou)), Software Engineer, Greece
