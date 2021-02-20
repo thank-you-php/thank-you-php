@@ -34,6 +34,7 @@ Signed,
 - Alex Kalineskou ([@akalineskou](https://github.com/akalineskou)), Software Engineer, Greece
 - Alex Pavlov ([@alexpts](https://github.com/alexpts)), Full Stack Developer, Russian
 - Alex Teterin ([@errogaht](https://github.com/errogaht)), PHP Developer, Russia
+- Alexandr Chernyaev ([@tabuna](https://github.com/tabuna)), Backend Developer, Russia
 - Alexander Dubinin ([@a-dubinin](https://github.com/a-dubinin)), Software Engineer, USA
 - Alexander Semikashev ([@verng95](https://github.com/verng95)), Backend Developer, Russia
 - Alexey Alexeev ([@greenkaktusx](https://github.com/greenkaktusx)), Backend Developer, Russia
