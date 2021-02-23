@@ -19,6 +19,7 @@ Signed,
 - Abijah Johnnie (aka LJTWP) ([@abdegenius](https://github.com/abdegenius)), Web Developer, Lover of PHP since 2016
 - Adem Ali Durmuş ([@ademalidurmus](https://github.com/ademalidurmus)), Backend Developer, 🇹🇷 Turkey
 - Afanasev Pavel ([@bupyc9](https://github.com/bupyc9)), Backend developer, Russian
+- Afdhalul Ichsan Yourdan ([@ShennBoku](https://github.com/ShennBoku)), Web Developer, Indonesia 
 - Afolayan Stephen ([@jilh](https://github.com/jilh)), Community Organizer and Fullstack PHP Developer, Nigeria
 - Ahmad Moussawi ([@ahmad-moussawi](https://github.com/ahmad-moussawi)), PHP and C# Web Developer, Beirut Lebanon
 - Ahmed Osama ([@Juvienelle](https://github.com/Juvienelle)), Full Stack Developer, Egypt
@@ -114,7 +115,7 @@ Signed,
 - Hendrik Eduard Kuiper ([@HendrikEduard](https://github.com/HendrikEduard)) Systems & DB Admin, Programmer and a whole lot more
 - Igor Veselov ([@utz0r2](https://github.com/utz0r2)), Full Stack Developer, Ukraine
 - Ilya Sudakov ([@isudakoff](https://github.com/isudakoff)), Web Developer, Russia
-- Indrawan ([@sinkaroid](https://github.com/sinkaroid)), Full Stack Developer, Indonesia
+- Indrawan ([@sinkaroid](https://github.com/sinkaroid)), Full Stack Developer, 
 - Ivan Dudarev ([@ddrv](https://github.com/ddrv)), Backend Developer, Russia 🤘
 - Jacob Dreesen ([@jdreesen](https://github.com/jdreesen)), Web Developer
 - Jakub Caban ([@lustmored](https://github.com/lustmored)), Backend Developer, Poland, Head of [lockme](https://lock.me)
