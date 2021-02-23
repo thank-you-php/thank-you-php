@@ -19,6 +19,7 @@ Signed,
 - Abijah Johnnie (aka LJTWP) ([@abdegenius](https://github.com/abdegenius)), Web Developer, Lover of PHP since 2016
 - Adem Ali Durmuş ([@ademalidurmus](https://github.com/ademalidurmus)), Backend Developer, 🇹🇷 Turkey
 - Afanasev Pavel ([@bupyc9](https://github.com/bupyc9)), Backend developer, Russian
+- Afdhalul Ichsan Yourdan ([@ShennBoku](https://github.com/ShennBoku)), Web Developer, Indonesia 
 - Afolayan Stephen ([@jilh](https://github.com/jilh)), Community Organizer and Fullstack PHP Developer, Nigeria
 - Ahmad Moussawi ([@ahmad-moussawi](https://github.com/ahmad-moussawi)), PHP and C# Web Developer, Beirut Lebanon
 - Ahmed Osama ([@Juvienelle](https://github.com/Juvienelle)), Full Stack Developer, Egypt
