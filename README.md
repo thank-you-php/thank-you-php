@@ -19,7 +19,7 @@ Signed,
 - Abijah Johnnie (aka LJTWP) ([@abdegenius](https://github.com/abdegenius)), Web Developer, Lover of PHP since 2016
 - Adem Ali Durmuş ([@ademalidurmus](https://github.com/ademalidurmus)), Backend Developer, 🇹🇷 Turkey
 - Afanasev Pavel ([@bupyc9](https://github.com/bupyc9)), Backend developer, Russian
-- Afdhalul Ichsan Yourdan ([@ShennBoku](https://github.com/ShennBoku)), Web Developer, Indonesia 
+- Afdhalul Ichsan Yourdan ([@ShennBoku](https://github.com/ShennBoku)), Web Developer, Indonesia
 - Afolayan Stephen ([@jilh](https://github.com/jilh)), Community Organizer and Fullstack PHP Developer, Nigeria
 - Ahmad Moussawi ([@ahmad-moussawi](https://github.com/ahmad-moussawi)), PHP and C# Web Developer, Beirut Lebanon
 - Ahmed Osama ([@Juvienelle](https://github.com/Juvienelle)), Full Stack Developer, Egypt
@@ -257,6 +257,7 @@ Signed,
 - Yinsee @ Daddycat ([@yinsee](https://github.com/yinsee)), Single core, Duo-core, Hardcore. PHP since 2006. Full stack, entrepreneur from <3 Penang, MY
 - Yusuf Ardi ([@yusufthedragon](https://github.com/yusufthedragon)), Backend Developer, Indonesia
 - Zain Mehdi ([@szainmehdi](https://github.com/szainmehdi)), Software Engineer, 🇺🇸 USA
+- Dave Hornigan ([@DaveHornigan](https://github.com/DaveHornigan)), Backend PHP Software Engineer, Ukraine / Russia
 
 Inspired by the
 [Thank You Github](https://github.com/thank-you-github/thank-you-github),
