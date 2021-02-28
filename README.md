@@ -35,9 +35,9 @@ Signed,
 - Alex Kalineskou ([@akalineskou](https://github.com/akalineskou)), Software Engineer, Greece
 - Alex Pavlov ([@alexpts](https://github.com/alexpts)), Full Stack Developer, Russian
 - Alex Teterin ([@errogaht](https://github.com/errogaht)), PHP Developer, Russia
-- Alexandr Chernyaev ([@tabuna](https://github.com/tabuna)), Backend Developer, Russia
 - Alexander Dubinin ([@a-dubinin](https://github.com/a-dubinin)), Software Engineer, USA
 - Alexander Semikashev ([@verng95](https://github.com/verng95)), Backend Developer, Russia
+- Alexandr Chernyaev ([@tabuna](https://github.com/tabuna)), Backend Developer, Russia
 - Alexey Alexeev ([@greenkaktusx](https://github.com/greenkaktusx)), Backend Developer, Russia
 - Alexey Paschenko ([@steamvis](https://github.com/steamvis)), Backend Developer, Russia
 - Alexey Pyltsyn ([@lex111](https://github.com/lex111)), Maintainer of PHP documentation on Russian
@@ -74,6 +74,7 @@ Signed,
 - Chun-Sheng, Li ([@peter279k](https://github.com/peter279k)), PHP developer :), Taiwan
 - Corrado Modica ([@Corrado](https://github.com/CorradoModica)), Full Stack Developer, Italy
 - Dario Rigolin ([@drigolin](https://github.com/drigolin)), PHP Developer, Italy
+- Dave Hornigan ([@DaveHornigan](https://github.com/DaveHornigan)), Backend PHP Software Engineer, Ukraine / Russia
 - David Jor Hpan ([@david-gnext](https://github.com/david-gnext)), Yangon , Myanmar
 - Denuwan Hettiarachchi ([@Denuwanhh](https://github.com/Denuwanhh)), Full Stack Developer, Sri Lanka
 - Diego Andrade de Mendonça ([@diego182](https://github.com/diego182)), Backend Developer, Brazil/Germany
@@ -257,7 +258,6 @@ Signed,
 - Yinsee @ Daddycat ([@yinsee](https://github.com/yinsee)), Single core, Duo-core, Hardcore. PHP since 2006. Full stack, entrepreneur from <3 Penang, MY
 - Yusuf Ardi ([@yusufthedragon](https://github.com/yusufthedragon)), Backend Developer, Indonesia
 - Zain Mehdi ([@szainmehdi](https://github.com/szainmehdi)), Software Engineer, 🇺🇸 USA
-- Dave Hornigan ([@DaveHornigan](https://github.com/DaveHornigan)), Backend PHP Software Engineer, Ukraine / Russia
 
 Inspired by the
 [Thank You Github](https://github.com/thank-you-github/thank-you-github),
