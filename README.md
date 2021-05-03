@@ -190,6 +190,7 @@ Signed,
 - Rahadiana Nugraha ([@rahadiana](https://github.com/rahadiana)), Full Stack Developer, Indonesia
 - Reyad Khan ([@reyadkhan](https://github.com/reyadkhan)), Full Stack Developer
 - Rio Astamal ([@rioastamal](https://github.com/rioastamal)), Loving PHP since 2003 and Cloud Computing Enthusiast, Indonesia
+- Rizky Tegar Pratama ([@rizkytegar](https://github.com/rizkytegar)), Full stack web developer, Indonesia
 - Robert Means ([@BoDonkey](https://github.com/BoDonkey)), Language Lover, USA
 - Rod Elias ([@chapeupreto](https://github.com/chapeupreto)), Backend Developer, Brazil
 - Roman Gorbatko ([@RomanGorbatko](https://github.com/RomanGorbatko)), Backend Engineer, Ukraine 🇺🇦
