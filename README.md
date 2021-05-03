@@ -55,6 +55,7 @@ Signed,
 - Andriy Lutskevich ([@lutdev](https://github.com/lutdev)), Web Developer, Ukraine
 - Andry Pebrianto ([@andry-pebrianto](https://github.com/andry-pebrianto)), Web Developer, Indonesia
 - Anton Khainak ([@aksafan](https://github.com/aksafan)), Backend Engineer, Ukraine
+- Anton Mashletov ([@mashletov](https://github.com/mashletov)), Backend Developer, Russia
 - Aqib Rashid ([@aqib-git](https://github.com/aqib-git)), Web Developer, Kashmir
 - Aram Baghdasaryan ([@jiromm](https://github.com/jiromm)), CTO @ ([@globbing-llc](https://github.com/globbing-llc)), Armenia
 - Araz Gholami ([@arazgholami](https://github.com/arazgholami)), Software Engineer, 🇹🇷 Turkey
