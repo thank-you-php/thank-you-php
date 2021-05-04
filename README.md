@@ -194,6 +194,7 @@ Signed,
 - Rizky Tegar Pratama ([@rizkytegar](https://github.com/rizkytegar)), Full stack web developer, Indonesia
 - Robert Means ([@BoDonkey](https://github.com/BoDonkey)), Language Lover, USA
 - Rod Elias ([@chapeupreto](https://github.com/chapeupreto)), Backend Developer, Brazil
+- RogerTM ([@rogertm](https://github.com/rogertm)), Full Stack Web Developer, PHP & WordPress lover since 2005. 🇨🇺 Cuba.
 - Roman Gorbatko ([@RomanGorbatko](https://github.com/RomanGorbatko)), Backend Engineer, Ukraine 🇺🇦
 - Roman Gulevskiy ([@RomanGulevskiy](https://github.com/RomanGulevskiy)), Back-end developer, Perm, Russia
 - Roman Nikiforov ([@xrezus](https://github.com/xrezus)), PHP Developer, Belarus
