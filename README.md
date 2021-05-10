@@ -124,6 +124,7 @@ Signed,
 - Jakub Caban ([@lustmored](https://github.com/lustmored)), Backend Developer, Poland, Head of [lockme](https://lock.me)
 - Javier Gil ([@FJavierGil](https://github.com/FJavierGil)), Software Engineer, Spain
 - Jawira Portugal ([@jawira](https://github.com/jawira)), Software Engineer, Bolivia & Belgium
+- Jean Melo ([@jeanmamelo](https://github.com/jeanmamelo)), Full Stack Developer, Brazil
 - Jeffery Hussin ([@JefferyHus](https://github.com/JefferyHus)), Full Stack Developer
 - Jim Wigginton ([@terrafrost](https://github.com/terrafrost)), Software Engineer, Austin, TX
 - Joel Reis ([@ElJoelReis](https://github.com/ElJoelReis)), Web Developer
