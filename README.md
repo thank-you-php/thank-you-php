@@ -108,6 +108,7 @@ Signed,
 - Flávio Heleno ([@flavioheleno](https://github.com/flavioheleno)), Developer, Brazil
 - Florian Bailly ([@florian-bailly](https://github.com/florian-bailly)), Backend Developer, France
 - Francis Gonzales ([@fragote](https://github.com/fragote)), Informatic Engineer, Peru
+- Gabriel Alejandro López López ([@glpzzz](https://github.com/glpzzz)), Software Engineer at [daxslab](www.daxslab.com), Cuba
 - Garuba OLayemii ([@OLayemii](https://github.com/OLayemii)), PHP Lover <3 , Nigeria
 - Gennaro Landolfi ([@rinodrummer](https://github.com/rinodrummer)), PHP Enthusiast and Full-stack Web Developer, Italy
 - George Zakharov ([@george-zakharov](https://github.com/george-zakharov)), PHP Backend Developer, Russia
