@@ -157,6 +157,7 @@ Signed,
 - Martin Hlavac ([@mhlavac](https://github.com/mhlavac)), Software Engineer, Germany/Czech Republic
 - Matteo Martinelli ([@matteomartinelli](https://github.com/matteomartinelli)), Customerly Full Stack Developer, Italy
 - Mattias Sandström ([@tangix](https://github.com/tangix)), Full Stack Developer, Sweden 🇸🇪
+- Max Base ([@BaseMax](https://github.com/BaseMax)), Software Engineer, PHP Lover :heart:
 - Maxim Sukhov ([@tierko](https://github.com/tierko)), Backend Developer, PHP Lover :heart:, Russia, Tula :ru:
 - Mehdi "Arcanite" OUESLATI ([Mihdi](https://github.com/Mihdi)), Computer Science and Engineering student, Tunisia/France
 - Michael Beck ([@mambax7](https://github.com/mambax7)), Full-Stack Developer, PHP & [XOOPS](http://xoops.org/) ❤️, USA
