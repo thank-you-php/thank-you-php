@@ -272,6 +272,8 @@ Signed,
 - Yinsee @ Daddycat ([@yinsee](https://github.com/yinsee)), Single core, Duo-core, Hardcore. PHP since 2006. Full stack, entrepreneur from <3 Penang, MY
 - Yusuf Ardi ([@yusufthedragon](https://github.com/yusufthedragon)), Backend Developer, Indonesia
 - Zain Mehdi ([@szainmehdi](https://github.com/szainmehdi)), Software Engineer, 🇺🇸 USA
+- Yi Zou ([@php-cpm](https://github.com/php-cpm)), PHP since 2007. Full stack, Software Architect, 🇨🇳 China
+
 
 Inspired by the
 [Thank You Github](https://github.com/thank-you-github/thank-you-github),
