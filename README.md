@@ -114,6 +114,7 @@ Signed,
 - Garuba OLayemii ([@OLayemii](https://github.com/OLayemii)), PHP Lover <3 , Nigeria
 - Gennaro Landolfi ([@rinodrummer](https://github.com/rinodrummer)), PHP Enthusiast and Full-stack Web Developer, Italy
 - George Zakharov ([@george-zakharov](https://github.com/george-zakharov)), PHP Backend Developer, Russia
+- Georgi Georgiev ([@vuryss](https://github.com/vuryss)), PHP Developer, Bulgaria
 - Ghazi Khan ([@mgks](https://github.com/mgks)), Just another PHP disciple from India
 - Ghazif Adeem ([@Ghazif](https://github.com/Ghazif-Adeem)), PHP/Laravel Developer, Pakistan
 - Given Ncube [@slimgee](https://github.com/sligee), Full Stack Developer, Zimbabwe
