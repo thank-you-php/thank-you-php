@@ -275,6 +275,7 @@ Signed,
 - Zain Mehdi ([@szainmehdi](https://github.com/szainmehdi)), Software Engineer, 🇺🇸 USA
 - Yi Zou ([@php-cpm](https://github.com/php-cpm)), PHP since 2007. Full stack, Software Architect, 🇨🇳 China
 - Gentrit Abazi ([@gentritabazi01](https://github.com/gentritabazi01)), Backend Developer, 🇽🇰 Kosovo
+- Guoxiao Bao ([@mowangjuanzi](https://github.com/mowangjuanzi)) Software Engineer, 🇨🇳 China
 
 
 Inspired by the
