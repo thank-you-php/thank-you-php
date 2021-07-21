@@ -177,6 +177,7 @@ Signed,
 - Muhammad Umer Farooq ([@lablnet](https://github.com/lablnet)), Software Developer, PHP lover, Pakistan
 - Mustafa Topcuogullari ([@mtopcu](http://github.com/mtopcu)) Software Quality Assurance Engineer, Behat-PhpUnit, Turkiye 🇹🇷
 - Napoleon Arouldas ([@neps-in](https://github.com/neps-in)), Full Stack Developer, Lead Developer [Rollout](https://grandappstudio.com/roll-out)
+- Nathaniel Ajayi Adewale ([@nathanielajayi7](https://github.com/nathanielajayi7)), PHP Developer, Lagos, Nigeria
 - Navarr Barnier ([@navarr](https://github.com/navarr)), Sr Magento Developer, Ohio, USA
 - Nazar Samarets ([@unhappyby](https://github.com/unhappyby)), PHP Developer, Ukraine 🇺🇦
 - Nicholai Bush ([@cykonetic](https://github.com/cykonetic)), PHP Developer since PHP 3.0, (before MySQL supportted InnoDB), Saint Petersburg, FL, USA
