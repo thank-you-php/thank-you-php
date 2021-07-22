@@ -279,6 +279,7 @@ Signed,
 - Yi Zou ([@php-cpm](https://github.com/php-cpm)), PHP since 2007. Full stack, Software Architect, 🇨🇳 China
 - Gentrit Abazi ([@gentritabazi01](https://github.com/gentritabazi01)), Backend Developer, 🇽🇰 Kosovo
 - Guoxiao Bao ([@mowangjuanzi](https://github.com/mowangjuanzi)) Software Engineer, 🇨🇳 China
+- Aurimas Pauga ([@lietuviz](https://github.com/lietuviz/), CIO & co-founder at Inbalance grid, 🇱🇹, Lithuania
 
 
 Inspired by the
