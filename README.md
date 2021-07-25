@@ -127,6 +127,7 @@ Signed,
 - Ivan Dudarev ([@ddrv](https://github.com/ddrv)), Backend Developer, Russia 🤘
 - Jacob Dreesen ([@jdreesen](https://github.com/jdreesen)), Web Developer
 - Jakub Caban ([@lustmored](https://github.com/lustmored)), Backend Developer, Poland, Head of [lockme](https://lock.me)
+- James Walston ([@goverfl0w](https://github.com/goverfl0w)), Top.gg Library Developer, Backend Engineer at [digicale](https://digicale.com)
 - Javier Gil ([@FJavierGil](https://github.com/FJavierGil)), Software Engineer, Spain
 - Jawira Portugal ([@jawira](https://github.com/jawira)), Software Engineer, Bolivia & Belgium
 - Jean Melo ([@jeanmamelo](https://github.com/jeanmamelo)), Full Stack Developer, Brazil
