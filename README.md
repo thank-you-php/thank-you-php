@@ -204,6 +204,7 @@ Signed,
 - Rahadiana Nugraha ([@rahadiana](https://github.com/rahadiana)), Full Stack Developer, Indonesia
 - Renato Nascimento ([@Goodnato](https://github.com/Goodnato)), Full Stack Developer. Thanks PHP, my favorite language ❤️. From Brazil 🇧🇷
 - Reyad Khan ([@reyadkhan](https://github.com/reyadkhan)), Full Stack Developer
+- Ricardo Rentería ([@rrenteria-dev](https://github.com/rrenteria-dev)), Full Stack Developer. Thanks for everything PHP. From México 🇲🇽
 - Rio Astamal ([@rioastamal](https://github.com/rioastamal)), Loving PHP since 2003 and Cloud Computing Enthusiast, Indonesia
 - Rizky Tegar Pratama ([@rizkytegar](https://github.com/rizkytegar)), Full stack web developer, Indonesia
 - Robert Means ([@BoDonkey](https://github.com/BoDonkey)), Language Lover, USA
