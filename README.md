@@ -178,6 +178,7 @@ Signed,
 - Muhammad Tayyab Sheikh ([@cstayyab](http://github.com/cstayyab)) Full-Stack Web developer and Information Security Researcher
 - Muhammad Umer Farooq ([@lablnet](https://github.com/lablnet)), Software Developer, PHP lover, Pakistan
 - Mustafa Topcuogullari ([@mtopcu](http://github.com/mtopcu)) Software Quality Assurance Engineer, Behat-PhpUnit, Turkiye 🇹🇷
+- Nabiel Omar Syarif ([@kbiits](https://github.com/kbiits)) PHP and Laravel Lover, Palembang, Indonesia
 - Napoleon Arouldas ([@neps-in](https://github.com/neps-in)), Full Stack Developer, Lead Developer [Rollout](https://grandappstudio.com/roll-out)
 - Nathaniel Ajayi Adewale ([@nathanielajayi7](https://github.com/nathanielajayi7)), PHP Developer, Lagos, Nigeria
 - Navarr Barnier ([@navarr](https://github.com/navarr)), Sr Magento Developer, Ohio, USA
