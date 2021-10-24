@@ -290,6 +290,7 @@ Signed,
 - Guoxiao Bao ([@mowangjuanzi](https://github.com/mowangjuanzi)) Software Engineer, 🇨🇳 China
 - Aurimas Pauga ([@lietuviz](https://github.com/lietuviz/), CIO & co-founder at Inbalance grid, 🇱🇹, Lithuania
 - Habibun Noby ([@habibun](https://github.com/habibun), Symfony Developer, 🇧🇩 Bangladesh
+- Muhamad Ramdani ([@dannsdb](https://github.com/dannsdb)), Web Developer, Indonesia
 
 Inspired by the
 [Thank You Github](https://github.com/thank-you-github/thank-you-github),
