@@ -85,6 +85,7 @@ Signed,
 - Diego Andrade de Mendonça ([@diego182](https://github.com/diego182)), Backend Developer, Brazil/Germany
 - Djo ([@northmule](https://github.com/northmule)), 🚀 PHP is life , Backend Developer, Russia 🇷🇺
 - Dmitriy Bespalov ([@superrosko](https://github.com/superrosko)), Backend Developer, Russia
+- Dmitriy Demidovich ([@demidovich](https://github.com/demidovich)), Backend Developer, Russia
 - Dmitriy Fedosov ([@TheNord](https://github.com/TheNord)), Backend PHP Developer, Russia
 - Dmitriy Zhuchkov ([@Xynobo](https://github.com/Xynobo)), PHP Developer, 🇷🇺 Russia
 - Dmitry Derepko ([@xepozz](https://github.com/xepozz)), Just Dmitry 😉, Russia
