@@ -81,6 +81,7 @@ Signed,
 - Dario Rigolin ([@drigolin](https://github.com/drigolin)), PHP Developer, Italy
 - Dave Hornigan ([@DaveHornigan](https://github.com/DaveHornigan)), Backend PHP Software Engineer, Ukraine / Russia
 - David Jor Hpan ([@david-gnext](https://github.com/david-gnext)), Yangon , Myanmar
+- Delyan Marinov ([@delyan1914](https://github.com/delian1986)), PHP Developer, Bulgaria 🇧🇬
 - Denuwan Hettiarachchi ([@Denuwanhh](https://github.com/Denuwanhh)), Full Stack Developer, Sri Lanka
 - Diego Andrade de Mendonça ([@diego182](https://github.com/diego182)), Backend Developer, Brazil/Germany
 - Djo ([@northmule](https://github.com/northmule)), 🚀 PHP is life , Backend Developer, Russia 🇷🇺
