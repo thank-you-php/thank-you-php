@@ -297,6 +297,7 @@ Signed,
 - Habibun Noby ([@habibun](https://github.com/habibun), Symfony Developer, 🇧🇩 Bangladesh
 - Muhamad Ramdani ([@dannsdb](https://github.com/dannsdb)), Web Developer, Indonesia
 - Joaquin 'JkDev' Centurion ([@jkdevarg](https://github.com/jkdevarg)), PHP Since 2011, PHP Lover, Cyber Security, Argentina
+- Tran Nguyen Thuong Truong ([@thuongtruong1009](https://github.com/thuongtruong1009))
 
 Inspired by the
 [Thank You Github](https://github.com/thank-you-github/thank-you-github),
