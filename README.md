@@ -115,6 +115,7 @@ Signed,
 - Francis Gonzales ([@fragote](https://github.com/fragote)), Informatic Engineer, Peru
 - Fynn Tang ([@fynntang](https://github.com/fynntang)), PHP Developer, 🇨🇳 China
 - Gabriel Alejandro López López ([@glpzzz](https://github.com/glpzzz)), Software Engineer at [daxslab](www.daxslab.com), Cuba
+- Gabriel Anhaia ([@gabrielanhaia](http://github.com/gabrielanhaia)), Senior Software Engineer,📍 Germany 🇩🇪 / Ireland 🇮🇪 / Brazil 🇧🇷 🇪
 - Garuba OLayemii ([@OLayemii](https://github.com/OLayemii)), PHP Lover <3 , Nigeria
 - Gennaro Landolfi ([@rinodrummer](https://github.com/rinodrummer)), PHP Enthusiast and Full-stack Web Developer, Italy
 - George Zakharov ([@george-zakharov](https://github.com/george-zakharov)), PHP Backend Developer, Russia
@@ -295,7 +296,8 @@ Signed,
 - Aurimas Pauga ([@lietuviz](https://github.com/lietuviz/), CIO & co-founder at Inbalance grid, 🇱🇹, Lithuania
 - Habibun Noby ([@habibun](https://github.com/habibun), Symfony Developer, 🇧🇩 Bangladesh
 - Muhamad Ramdani ([@dannsdb](https://github.com/dannsdb)), Web Developer, Indonesia
-- [Tran Nguyen Thuong Truong(https://github.com/thuongtruong1009)
+- Joaquin 'JkDev' Centurion ([@jkdevarg](https://github.com/jkdevarg)), PHP Since 2011, PHP Lover, Cyber Security, Argentina
+- Tran Nguyen Thuong Truong ([@thuongtruong1009](https://github.com/thuongtruong1009))
 
 Inspired by the
 [Thank You Github](https://github.com/thank-you-github/thank-you-github),
