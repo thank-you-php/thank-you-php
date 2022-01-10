@@ -300,6 +300,7 @@ Signed,
 - Joaquin 'JkDev' Centurion ([@jkdevarg](https://github.com/jkdevarg)), PHP Since 2011, PHP Lover, Cyber Security, Argentina
 - Tran Nguyen Thuong Truong ([@thuongtruong1009](https://github.com/thuongtruong1009))
 - Jayant Goel ([@JayantGoel001](https://github.com/JayantGoel001)), India.
+- Nguyen Thanh Nhan ([@tuinhanne]), Software Engineering, 🇻🇳 Viet Nam.
 - Tran Xuan Thanh ([@ging-dev](https://github.com/ging-dev)), Web Developer, Vietnam
 
 Inspired by the
