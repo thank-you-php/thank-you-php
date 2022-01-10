@@ -306,6 +306,7 @@ Signed,
 - Tran Xuan Thanh ([@ging-dev](https://github.com/ging-dev)), Web Developer, Vietnam
 - Bhargav Bhandari ([@BhargavBhandari90](https://github.com/BhargavBhandari90)), Web Developer, India
 - Hafiz Ramadhan ([@rmdhfz](https://github.com/rmdhfz)), PHP Since 2016, Cyber Security, Indonesia
+- Artem Trokhymchuk ([@trokhymchuk](https://github.com/trokhymchuk)) Developer
 
 Inspired by the
 [Thank You Github](https://github.com/thank-you-github/thank-you-github),
