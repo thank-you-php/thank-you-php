@@ -302,6 +302,7 @@ Signed,
 - Jayant Goel ([@JayantGoel001](https://github.com/JayantGoel001)), India.
 - Nguyen Thanh Nhan ([@tuinhanne]), Software Engineering, 🇻🇳 Viet Nam.
 - Tran Xuan Thanh ([@ging-dev](https://github.com/ging-dev)), Web Developer, Vietnam
+- Bhargav Bhandari ([@BhargavBhandari90](https://github.com/BhargavBhandari90)), Web Developer, India
 
 Inspired by the
 [Thank You Github](https://github.com/thank-you-github/thank-you-github),
