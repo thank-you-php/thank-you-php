@@ -307,6 +307,7 @@ Signed,
 - Bhargav Bhandari ([@BhargavBhandari90](https://github.com/BhargavBhandari90)), Web Developer, India
 - Hafiz Ramadhan ([@rmdhfz](https://github.com/rmdhfz)), PHP Since 2016, Cyber Security, Indonesia
 - Artem Trokhymchuk ([@trokhymchuk](https://github.com/trokhymchuk)) Developer
+- Kholiqov Buzurgmehr ([@Buzurgmehr](https://github.com/Buzurgmehr)) Web Developer, Tajikistan
 
 Inspired by the
 [Thank You Github](https://github.com/thank-you-github/thank-you-github),
