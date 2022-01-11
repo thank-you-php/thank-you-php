@@ -69,7 +69,7 @@ Signed,
 - Aydarkhan Tsyrenzhapov ([@noweasily](https://github.com/noweasily)) Backend Developer, Russia
 - Babish Shrestha ([@babiz](https://github.com/babiz)), PHP believer since 2008, Entrepreneur, Nepal
 - Bahyu Sanciko ([@bahyusanciko](https://github.com/bahyusanciko)), Full Stack Developer, Indonesia
-- Bakhtiyor Bahritidinov @[@bakhtiyor](https://github.com/bakhtiyor) Full Stack Developer since 2002, 🇹🇯 Tajikistan
+- Bakhtiyor Bahritidinov (@[@bakhtiyor](https://github.com/bakhtiyor)), Full Stack Developer since 2002, 🇹🇯 Tajikistan
 - Bayu Rifki Alghifari ([@BayuRifkiAlghifari](https://github.com/BayuRifkiAlghifari)), Backend Developer, Indonesia
 - Benjamin Temitope ([@benjamintemitope](https://github.com/benjamintemitope)), Backend Developer, Nigeria
 - Benkoulal Abdelghani ([@AbdouGhani-Ben](https://github.com/AbdouGhani-Ben)), Full Stack Developer and Security engineer, Algeria
