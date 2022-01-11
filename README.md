@@ -194,6 +194,7 @@ Signed,
 - Navarr Barnier ([@navarr](https://github.com/navarr)), Sr Magento Developer, Ohio, USA
 - Nazar Samarets ([@unhappyby](https://github.com/unhappyby)), PHP Developer, Ukraine 🇺🇦
 - Nicholai Bush ([@cykonetic](https://github.com/cykonetic)), PHP Developer since PHP 3.0, (before MySQL supportted InnoDB), Saint Petersburg, FL, USA
+- Nicollas Feitosa ([@nicollasfeitosa](https://github.com/nicollasfeitosa)), Full Stack Developer, São Paulo, BR
 - Nikesh Bahadur Adhikari ([@ariadoos](https://github.com/ariadoos)), Software Engineer, Nepal
 - Nikhil Ranka ([@qwertynik](https://github.com/qwertynik)), Building solutions using Tech, mainly PHP. From Chennai, India, Existence
 - Nikita Antonenko ([@nikita-antonenko](https://github.com/nikita-antonenko)), from Russia
