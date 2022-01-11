@@ -312,6 +312,7 @@ Signed,
 - Hafiz Ramadhan ([@rmdhfz](https://github.com/rmdhfz)), PHP Since 2016, Cyber Security, Indonesia
 - Artem Trokhymchuk ([@trokhymchuk](https://github.com/trokhymchuk)) Developer
 - Salim Ibrohimi ([@salimibrohimi](https://github.com/salimibrohimi)) PHP since 2014, Software Engineer, Tojikiston
+- Bakhtiyor Bahritidinov @[@bakhtiyor](https://github.com/bakhtiyor) Full Stack Developer since 2002, 🇹🇯 Tajikistan
 
 Inspired by the
 [Thank You Github](https://github.com/thank-you-github/thank-you-github),
