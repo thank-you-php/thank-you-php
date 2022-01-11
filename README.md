@@ -166,6 +166,7 @@ Signed,
 - Maksim Ermakov ([@salfum](https://github.com/salfum)), Full Stack Developer, PHP and Laravel :heart:, Russia :ru:
 - Maksym Storchak ([@strorch](https://github.com/strorch)), Web developer, Ukraine
 - Mark Almadin ([@mrkalmdn](https://github.com/mrkalmdn)), Laravelist
+- Mark Armstrong ([@mark1282](https://github.com/mark1282)), Lead Web Developer, The Insights Family
 - Mark Kevin Besinga ([@besingamkb](https://github.com/besingamkb)), Software Engineer, Philippines
 - Martin Hlavac ([@mhlavac](https://github.com/mhlavac)), Software Engineer, Germany/Czech Republic
 - Matteo Martinelli ([@matteomartinelli](https://github.com/matteomartinelli)), Customerly Full Stack Developer, Italy
