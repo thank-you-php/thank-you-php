@@ -211,6 +211,7 @@ Signed,
 - PHP Dagestan ([@phpdagestan](https://github.com/phpdagestan)), Open source repository php developers from Dagestan, Russia
 - Priyatna ([@antayirp](https://github.com/antayirp)), Full Stack Developer, Indonesia & Switzerland
 - QinQiangWu ([@wuqinqiang](https://github.com/wuqinqiang)),PHP was the beginning of everything for me
+- Quentin Pautrat ([@qpautrat](https://github.com/qpautrat)),I grew up alongside PHP and I like what it has become
 - Rahadiana Nugraha ([@rahadiana](https://github.com/rahadiana)), Full Stack Developer, Indonesia
 - Renato Nascimento ([@Goodnato](https://github.com/Goodnato)), Full Stack Developer. Thanks PHP, my favorite language ❤️. From Brazil 🇧🇷
 - Reyad Khan ([@reyadkhan](https://github.com/reyadkhan)), Full Stack Developer
