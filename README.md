@@ -174,7 +174,6 @@ Signed,
 - Luffy ([@sy-records](https://github.com/sy-records)), PHP Developer, China
 - Luuk Verhoeven ([@luukverhoeven](https://github.com/luukverhoeven)),  Senior Software Engineer / Moodle expert , 🇳🇱 Netherlands
 - Lyubomir Grozdanov ([@lubo13](https://github.com/lubo13)), Backend Developer (Symfony Certified Developer and Zend Certified Engineer (PHP 7)), Bulgaria
-- MUHAMMAD Siyab ([@SiyabKhaksar](https://github.com/MUHAMMADSiyab)), Full Stack Web Developer, Karachi, Pakistan
 - Mahbub Hasan Imon ([@mhimon](https://github.com/mhimon)), Full Stack Developer, Bangladesh 🇧🇩🇧🇩🇧🇩 Founder & Lead Developer of ultraDevs ([@ultraDevs](https://github.com/ultraDevs))
 - Maksim Ermakov ([@salfum](https://github.com/salfum)), Full Stack Developer, PHP and Laravel :heart:, Russia :ru:
 - Maksym Storchak ([@strorch](https://github.com/strorch)), Web developer, Ukraine
@@ -198,6 +197,7 @@ Signed,
 - Muhammad Abdullah ([@abdullahnaseer](https://github.com/abdullahnaseer)), PHP Developer, Founder [CodeCreatives](http://code-creatives.com/)
 - Muhammad Fauzan ([@fauzan121002](https://github.com/fauzan121002)), Fullstack Web Developer, Open Source Enthusiast
 - Muhammad Javed ([@theahmadzai](https://github.com/theahmadzai)), PHP since school days, Full Stack Developer. Open source lover
+- MUHAMMAD Siyab ([@SiyabKhaksar](https://github.com/MUHAMMADSiyab)), Full Stack Web Developer, Karachi, Pakistan
 - Muhammad Tayyab Sheikh ([@cstayyab](http://github.com/cstayyab)) Full-Stack Web developer and Information Security Researcher
 - Muhammad Umer Farooq ([@lablnet](https://github.com/lablnet)), Software Developer, PHP lover, Pakistan
 - Mustafa Topcuogullari ([@mtopcu](http://github.com/mtopcu)) Software Quality Assurance Engineer, Behat-PhpUnit, Turkiye 🇹🇷
@@ -221,11 +221,11 @@ Signed,
 - Oleksandr Barabolia ([@alexandrbarabolia](https://github.com/alexandrbarabolia)), Backend Engineer, Ukraine 🇺🇦
 - Oleksandr Roskovynskyi ([@oleksandr-roskovynskyi](https://github.com/oleksandr-roskovynskyi)), Backend Developer, Ukraine
 - Omar Villafuerte ([@ovillafuerte94](https://github.com/ovillafuerte94)), Full Stack Developer, Cuba
-- PHP Dagestan ([@phpdagestan](https://github.com/phpdagestan)), Open source repository php developers from Dagestan, Russia
 - Paimon John ([@pa1m0n](https://github.com/pa1m0n)), Full Web Stack Developer, Belarus
 - Paul Messina([@paulrm](https://github.com/paulrm)), DevOps Engineer - 🤟 PHP since 3.0, 🇦🇷 Argentina
 - Paulo Castro ([@planktonfun](https://github.com/planktonfun)), Just a Passer By
 - Peter Kokot ([@petk](https://github.com/petk)), PHP development team member
+- PHP Dagestan ([@phpdagestan](https://github.com/phpdagestan)), Open source repository php developers from Dagestan, Russia
 - Priyatna ([@antayirp](https://github.com/antayirp)), Full Stack Developer, Indonesia & Switzerland
 - QinQiangWu ([@wuqinqiang](https://github.com/wuqinqiang)),PHP was the beginning of everything for me
 - Quentin Pautrat ([@qpautrat](https://github.com/qpautrat)),I grew up alongside PHP and I like what it has become
