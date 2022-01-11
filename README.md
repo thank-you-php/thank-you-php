@@ -166,6 +166,7 @@ Signed,
 - Koldo Picaza ([@kpicaza](https://github.com/kpicaza)), PHP Developer, Barcelona
 - Kristijan Stipić ([@stipic](https://github.com/stipic)), PHP & Symfony ❤️ - Software Developer️, Croatia 🇭🇷
 - Kristiyan Vasilev ([@KriqN](https://github.com/KriqN)), Backend Developer, Bulgaria
+- Lars Moelleken ([@voku](https://github.com/voku)), PHP Developer, 🇩🇪 Germany
 - Leo Cavalcante ([@leocavalcante](https://github.com/leocavalcante)), Proud and Thankful PHP Developer, Swoole Enthusiast, Brazil
 - Leonardo Teixeira ([@LeonardoTeixeira](https://github.com/LeonardoTeixeira)), Software Engineer, Brazil
 - Leonid Pankov ([@lpnkv](https://github.com/lpnkv)), Backend Developer, Russia
