@@ -55,6 +55,7 @@ Signed,
 - Andriy Lutskevich ([@lutdev](https://github.com/lutdev)), Web Developer, Ukraine
 - Andry Pebrianto ([@andry-pebrianto](https://github.com/andry-pebrianto)), Web Developer, Indonesia
 - Anil Chaudhari ([@imanilchaudhari](https://github.com/imanilchaudhari)), Web Developer, 🇳🇵 Nepal
+- Antoine Lépée ([@alepee](https://github.com/alepee)), a developer who learned to like PHP recently, 🇫🇷 France
 - Anton Khainak ([@aksafan](https://github.com/aksafan)), Backend Engineer, Ukraine
 - Anton Mashletov ([@mashletov](https://github.com/mashletov)), Backend Developer, Russia
 - Aqib Rashid ([@aqib-git](https://github.com/aqib-git)), Web Developer, Kashmir
