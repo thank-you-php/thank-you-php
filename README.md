@@ -166,6 +166,7 @@ Signed,
 - Maksim Ermakov ([@salfum](https://github.com/salfum)), Full Stack Developer, PHP and Laravel :heart:, Russia :ru:
 - Maksym Storchak ([@strorch](https://github.com/strorch)), Web developer, Ukraine
 - Mark Almadin ([@mrkalmdn](https://github.com/mrkalmdn)), Laravelist
+- Mark Armstrong ([@mark1282](https://github.com/mark1282)), Lead Web Developer, The Insights Family
 - Mark Kevin Besinga ([@besingamkb](https://github.com/besingamkb)), Software Engineer, Philippines
 - Martin Hlavac ([@mhlavac](https://github.com/mhlavac)), Software Engineer, Germany/Czech Republic
 - Matteo Martinelli ([@matteomartinelli](https://github.com/matteomartinelli)), Customerly Full Stack Developer, Italy
@@ -193,11 +194,13 @@ Signed,
 - Navarr Barnier ([@navarr](https://github.com/navarr)), Sr Magento Developer, Ohio, USA
 - Nazar Samarets ([@unhappyby](https://github.com/unhappyby)), PHP Developer, Ukraine 🇺🇦
 - Nicholai Bush ([@cykonetic](https://github.com/cykonetic)), PHP Developer since PHP 3.0, (before MySQL supportted InnoDB), Saint Petersburg, FL, USA
+- Nicollas Feitosa ([@nicollasfeitosa](https://github.com/nicollasfeitosa)), Full Stack Developer, São Paulo, BR
 - Nikesh Bahadur Adhikari ([@ariadoos](https://github.com/ariadoos)), Software Engineer, Nepal
 - Nikhil Ranka ([@qwertynik](https://github.com/qwertynik)), Building solutions using Tech, mainly PHP. From Chennai, India, Existence
 - Nikita Antonenko ([@nikita-antonenko](https://github.com/nikita-antonenko)), from Russia
 - Nikolay Ponich ([@ponich](https://github.com/ponich)), Software Engineer
 - Nikolay Zuev ([des1roer](https://github.com/des1roer)), Backend Developer, Russian Federation
+- Norio Suzuki ([@suzuki](https://github.com/suzuki)), Software Engineer, Japan 🇯🇵
 - Nwankwo Samuel ([saminwankwo](https://github.com/saminwankwo)), Backend Developer, Nigeria
 - Odole Olukayode ([@kaythinks](https://github.com/kaythinks)), Software Craftsman from Nigeria
 - Oleg Mifle ([@olegmifle](https://github.com/olegmifle)), Backend Developer from Saint Petersburg, Russia
@@ -211,6 +214,7 @@ Signed,
 - PHP Dagestan ([@phpdagestan](https://github.com/phpdagestan)), Open source repository php developers from Dagestan, Russia
 - Priyatna ([@antayirp](https://github.com/antayirp)), Full Stack Developer, Indonesia & Switzerland
 - QinQiangWu ([@wuqinqiang](https://github.com/wuqinqiang)),PHP was the beginning of everything for me
+- Quentin Pautrat ([@qpautrat](https://github.com/qpautrat)),I grew up alongside PHP and I like what it has become
 - Rahadiana Nugraha ([@rahadiana](https://github.com/rahadiana)), Full Stack Developer, Indonesia
 - Renato Nascimento ([@Goodnato](https://github.com/Goodnato)), Full Stack Developer. Thanks PHP, my favorite language ❤️. From Brazil 🇧🇷
 - Reyad Khan ([@reyadkhan](https://github.com/reyadkhan)), Full Stack Developer
@@ -307,6 +311,8 @@ Signed,
 - Bhargav Bhandari ([@BhargavBhandari90](https://github.com/BhargavBhandari90)), Web Developer, India
 - Hafiz Ramadhan ([@rmdhfz](https://github.com/rmdhfz)), PHP Since 2016, Cyber Security, Indonesia
 - Artem Trokhymchuk ([@trokhymchuk](https://github.com/trokhymchuk)) Developer
+- Salim Ibrohimi ([@salimibrohimi](https://github.com/salimibrohimi)) PHP since 2014, Software Engineer, Tojikiston
+- Bakhtiyor Bahritidinov @[@bakhtiyor](https://github.com/bakhtiyor) Full Stack Developer since 2002, 🇹🇯 Tajikistan
 - Kholiqov Buzurgmehr ([@Buzurgmehr](https://github.com/Buzurgmehr)) Web Developer, Tajikistan
 
 Inspired by the
