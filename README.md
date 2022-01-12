@@ -221,6 +221,7 @@ Signed,
 - Nikolay Ponich ([@ponich](https://github.com/ponich)), Software Engineer
 - Nikolay Zuev ([des1roer](https://github.com/des1roer)), Backend Developer, Russian Federation
 - Norio Suzuki ([@suzuki](https://github.com/suzuki)), Software Engineer, Japan 🇯🇵
+- Ntabethemba ManezaF8 Mabetshe ([@manezaf8](https://github.com/manezaf8)), Magento Developer, South Africa
 - Nwankwo Samuel ([saminwankwo](https://github.com/saminwankwo)), Backend Developer, Nigeria
 - Odole Olukayode ([@kaythinks](https://github.com/kaythinks)), Software Craftsman from Nigeria
 - Oleg Mifle ([@olegmifle](https://github.com/olegmifle)), Backend Developer from Saint Petersburg, Russia
@@ -326,7 +327,6 @@ Signed,
 - Yuheni Pinchuk ([@Yudgin888](https://github.com/Yudgin888)), PHP Developer and Zend Certified Engineer, Belarus
 - Yusuf Ardi ([@yusufthedragon](https://github.com/yusufthedragon)), Backend Developer, Indonesia
 - Zain Mehdi ([@szainmehdi](https://github.com/szainmehdi)), Software Engineer, 🇺🇸 USA
-- Ntabethemba ManezaF8 Mabetshe ([@manezaf8](https://github.com/manezaf8)), Magento Developer, South Africa
 
 Inspired by the
 [Thank You Github](https://github.com/thank-you-github/thank-you-github),
