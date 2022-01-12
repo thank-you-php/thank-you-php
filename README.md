@@ -274,6 +274,7 @@ Signed,
 - Sergey Malovichko ([@mrserg161](https://github.com/mrserg161)), Backend Developer, Russia
 - Sergey Novikov ([@ohDaddyPlease](https://github.com/ohDaddyPlease)), started as PHP Junior, from Russia with Love <3
 - Sergey Panteleev ([@saundefined](https://github.com/saundefined)), PHP Developer️, Russia
+- Sergey Romanenko ([@awilum](https://github.com/awilum)), Fullstack Developer️, 🇷🇺 Russia
 - Sergey Sidorov ([@serjazz](https://github.com/serjazz)), PHP Developer, 🇷🇺 Russia
 - Sergey Tsyhankou ([@tsyhankou](https://github.com/tsyhankou)), Backend PHP Developer, Poland/Belarus
 - Sergio de Candelario ([@sdecandelario](https://github.com/sdecandelario)), Software Engineer, Barcelona, Catalonia, Spain :)
