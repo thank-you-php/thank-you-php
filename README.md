@@ -60,7 +60,7 @@ Signed,
 - Antoine Lépée ([@alepee](https://github.com/alepee)), a developer who learned to like PHP recently, 🇫🇷 France
 - Anton Khainak ([@aksafan](https://github.com/aksafan)), Backend Engineer, Ukraine
 - Anton Mashletov ([@mashletov](https://github.com/mashletov)), Backend Developer, Russia
-- Anton Zabolotskiy ([@azabolo](https://github.com/azabolo)), Web Developer, 🇷🇺 Russia
+- Anton Zabolotskiy ([@azabolo](https://github.com/azabolo)), Web Developer [azago](https://azago.ru), :heart: PHP since 2003, 🇷🇺 Russia
 - Aqib Rashid ([@aqib-git](https://github.com/aqib-git)), Web Developer, Kashmir
 - Aram Baghdasaryan ([@jiromm](https://github.com/jiromm)), CTO @ ([@globbing-llc](https://github.com/globbing-llc)), Armenia
 - Araz Gholami ([@arazgholami](https://github.com/arazgholami)), Software Engineer, 🇹🇷 Turkey
