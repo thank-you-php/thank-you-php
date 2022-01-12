@@ -284,6 +284,7 @@ Signed,
 - Tasiu Kwaplong ([@tasiukwaplong](https://github.com/tasiukwaplong)), Laravel and PHP lover, Nigeria
 - Thomas Perez ([@ScullWM](https://github.com/scullwm)), Backend Developer, France
 - Timofey Zhiganov ([@zavodilo](https://github.com/zavodilo)) Backend Developer, Russia
+- Tomas Norre Mikkelsen ([@tomasnorre](https://github.com/tomasnorre)), ❤️ PHP Since 1998, 🇩🇰 Denmark
 - Tomasz Kane ([@tomaszkane](https://github.com/tomaszkane)), Backend Developer, Poland
 - Tomasz Sawicki ([@Furgas](https://github.com/Furgas)), Software Developer and PHP Enthusiast since 2003, Poland
 - Tran Nguyen Thuong Truong ([@thuongtruong1009](https://github.com/thuongtruong1009))
