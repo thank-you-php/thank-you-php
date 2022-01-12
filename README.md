@@ -227,6 +227,7 @@ Signed,
 - Paul Messina([@paulrm](https://github.com/paulrm)), DevOps Engineer - 🤟 PHP since 3.0, 🇦🇷 Argentina
 - Paulo Castro ([@planktonfun](https://github.com/planktonfun)), Just a Passer By
 - Peter Kokot ([@petk](https://github.com/petk)), PHP development team member
+- Philip Weinke ([@weph](https://github.com/weph)), Professional code slinger, :heart: PHP since 2000, :de: Germany
 - PHP Dagestan ([@phpdagestan](https://github.com/phpdagestan)), Open source repository php developers from Dagestan, Russia
 - Priyatna ([@antayirp](https://github.com/antayirp)), Full Stack Developer, Indonesia & Switzerland
 - QinQiangWu ([@wuqinqiang](https://github.com/wuqinqiang)),PHP was the beginning of everything for me
