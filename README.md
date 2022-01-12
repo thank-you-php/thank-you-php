@@ -239,6 +239,7 @@ Signed,
 - QinQiangWu ([@wuqinqiang](https://github.com/wuqinqiang)),PHP was the beginning of everything for me
 - Quentin Pautrat ([@qpautrat](https://github.com/qpautrat)),I grew up alongside PHP and I like what it has become
 - Rahadiana Nugraha ([@rahadiana](https://github.com/rahadiana)), Full Stack Developer, Indonesia
+- Ram Ratan Maurya ([@mauryaratan](https://github.com/mauryaratan)), WordPress Developer, Side hustler. From India 🇮🇳
 - Renato Nascimento ([@Goodnato](https://github.com/Goodnato)), Full Stack Developer. Thanks PHP, my favorite language ❤️. From Brazil 🇧🇷
 - Reyad Khan ([@reyadkhan](https://github.com/reyadkhan)), Full Stack Developer
 - Ricardo Rentería ([@rrenteria-dev](https://github.com/rrenteria-dev)), Full Stack Developer. Thanks for everything PHP. From México 🇲🇽
