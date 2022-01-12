@@ -152,6 +152,7 @@ Signed,
 - Jayant Goel ([@JayantGoel001](https://github.com/JayantGoel001)), India.
 - Jean Melo ([@jeanmamelo](https://github.com/jeanmamelo)), Full Stack Developer, Brazil
 - Jeffery Hussin ([@JefferyHus](https://github.com/JefferyHus)), Full Stack Developer
+- Jez Emery ([@jezemery](https://github.com/jezemery)), Software Engineer, UK
 - Jim Wigginton ([@terrafrost](https://github.com/terrafrost)), Software Engineer, Austin, TX
 - Joaquin 'JkDev' Centurion ([@jkdevarg](https://github.com/jkdevarg)), PHP Since 2011, PHP Lover, Cyber Security, Argentina
 - Joel Reis ([@ElJoelReis](https://github.com/ElJoelReis)), Web Developer
