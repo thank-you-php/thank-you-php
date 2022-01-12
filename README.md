@@ -326,6 +326,7 @@ Signed,
 - Yuheni Pinchuk ([@Yudgin888](https://github.com/Yudgin888)), PHP Developer and Zend Certified Engineer, Belarus
 - Yusuf Ardi ([@yusufthedragon](https://github.com/yusufthedragon)), Backend Developer, Indonesia
 - Zain Mehdi ([@szainmehdi](https://github.com/szainmehdi)), Software Engineer, 🇺🇸 USA
+- Ntabethemba ManezaF8 Mabetshe ([@manezaf8](https://github.com/manezaf8)), Magento Developer, South Africa
 
 Inspired by the
 [Thank You Github](https://github.com/thank-you-github/thank-you-github),
