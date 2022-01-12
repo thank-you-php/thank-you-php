@@ -67,6 +67,7 @@ Signed,
 - Aurimas Pauga ([@lietuviz](https://github.com/lietuviz/), CIO & co-founder at Inbalance grid, 🇱🇹, Lithuania
 - Avinash Nethala ([@avinashn](https://github.com/avinashn)), Full Stack Developer, India
 - Aydarkhan Tsyrenzhapov ([@noweasily](https://github.com/noweasily)) Backend Developer, Russia
+- Ayesh Karunaratne ([@Ayesh](https://github.com/ayesh)) PHP Developer and author at [PHP.Watch](https://php.watch)
 - Babish Shrestha ([@babiz](https://github.com/babiz)), PHP believer since 2008, Entrepreneur, Nepal
 - Bahyu Sanciko ([@bahyusanciko](https://github.com/bahyusanciko)), Full Stack Developer, Indonesia
 - Bakhtiyor Bahritidinov (@[@bakhtiyor](https://github.com/bakhtiyor)), Full Stack Developer since 2002, 🇹🇯 Tajikistan
