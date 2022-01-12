@@ -67,6 +67,7 @@ Signed,
 - Arya Irama Wahono ([@aryairama](https://github.com/aryairama)), Web Developer, Indonesia
 - Askar Fuzaylov ([@ARACOOOL](https://github.com/ARACOOOL)), Software engineer, Uzbekistan
 - Aurimas Pauga ([@lietuviz](https://github.com/lietuviz/), CIO & co-founder at Inbalance grid, 🇱🇹, Lithuania
+- Austin Passy ([@thefrosty](https://github.com/thefrosty/), Software Engineer & WordPress Professional ❤️‍🔥, USA
 - Avinash Nethala ([@avinashn](https://github.com/avinashn)), Full Stack Developer, India
 - Aydarkhan Tsyrenzhapov ([@noweasily](https://github.com/noweasily)) Backend Developer, Russia
 - Ayesh Karunaratne ([@Ayesh](https://github.com/ayesh)) PHP Developer and author at [PHP.Watch](https://php.watch)
