@@ -141,6 +141,7 @@ Signed,
 - Hatice Ergün ([@hadeyici](https://github.com/hadeyici)), Backend developer, from Turkey
 - Hein Thant Maung Maung ([@heinthanth](https://github.com/heinthanth)) Full Stack Developer, Myanmar
 - Hendrik Eduard Kuiper ([@HendrikEduard](https://github.com/HendrikEduard)) Systems & DB Admin, Programmer and a whole lot more
+- Hendrik Luehrsen ([@luehrsen](https://github.com/luehrsen)), CEO of [Luehrsen // Heinrich](https://www.luehrsen-heinrich.de), PHP Developer, Munich / Germany
 - Igor Veselov ([@utz0r2](https://github.com/utz0r2)), Full Stack Developer, Ukraine
 - Ilya Bakhlin ([@ilyabakhlin](https://github.com/ilyabakhlin)), Web Developer, Spain
 - Ilya Sudakov ([@isudakoff](https://github.com/isudakoff)), Web Developer, Russia
