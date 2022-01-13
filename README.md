@@ -60,6 +60,7 @@ Signed,
 - Antoine Lépée ([@alepee](https://github.com/alepee)), a developer who learned to like PHP recently, 🇫🇷 France
 - Anton Khainak ([@aksafan](https://github.com/aksafan)), Backend Engineer, Ukraine
 - Anton Mashletov ([@mashletov](https://github.com/mashletov)), Backend Developer, Russia
+- Anton Zabolotskiy ([@azabolo](https://github.com/azabolo)), Web Developer [azago](https://azago.ru), :heart: PHP since 2003, 🇷🇺 Russia
 - Aqib Rashid ([@aqib-git](https://github.com/aqib-git)), Web Developer, Kashmir
 - Aram Baghdasaryan ([@jiromm](https://github.com/jiromm)), CTO @ ([@globbing-llc](https://github.com/globbing-llc)), Armenia
 - Araz Gholami ([@arazgholami](https://github.com/arazgholami)), Software Engineer, 🇹🇷 Turkey
@@ -67,6 +68,7 @@ Signed,
 - Arya Irama Wahono ([@aryairama](https://github.com/aryairama)), Web Developer, Indonesia
 - Askar Fuzaylov ([@ARACOOOL](https://github.com/ARACOOOL)), Software engineer, Uzbekistan
 - Aurimas Pauga ([@lietuviz](https://github.com/lietuviz/), CIO & co-founder at Inbalance grid, 🇱🇹, Lithuania
+- Austin Passy ([@thefrosty](https://github.com/thefrosty/), Software Engineer & WordPress Professional ❤️‍🔥, USA
 - Avinash Nethala ([@avinashn](https://github.com/avinashn)), Full Stack Developer, India
 - Aydarkhan Tsyrenzhapov ([@noweasily](https://github.com/noweasily)) Backend Developer, Russia
 - Ayesh Karunaratne ([@Ayesh](https://github.com/ayesh)) PHP Developer and author at [PHP.Watch](https://php.watch)
@@ -86,8 +88,10 @@ Signed,
 - Chris Kielholz ([@Enorion](https://github.com/Enorion)), PHP Evangelist
 - Chun-Sheng, Li ([@peter279k](https://github.com/peter279k)), PHP developer :), Taiwan
 - Corrado Modica ([@Corrado](https://github.com/CorradoModica)), Full Stack Developer, Italy
+- Dan Jones ([@goodevilgenius](https://github.com/goodevilgenius)), 🖖 Full Stack Developer (since 2005), United States 🇺🇸
 - Dario Rigolin ([@drigolin](https://github.com/drigolin)), PHP Developer, Italy
 - Dave Hornigan ([@DaveHornigan](https://github.com/DaveHornigan)), Backend PHP Software Engineer, Ukraine / Russia
+- Dave Lin ([@davelin10017](https://github.com/davelin10017)), Full Stack Software Architect, Cleveland, OH / USA
 - David Jor Hpan ([@david-gnext](https://github.com/david-gnext)), Yangon , Myanmar
 - Delyan Marinov ([@delyan1914](https://github.com/delian1986)), PHP Developer, Bulgaria 🇧🇬
 - Denuwan Hettiarachchi ([@Denuwanhh](https://github.com/Denuwanhh)), Full Stack Developer, Sri Lanka
@@ -141,6 +145,7 @@ Signed,
 - Hatice Ergün ([@hadeyici](https://github.com/hadeyici)), Backend developer, from Turkey
 - Hein Thant Maung Maung ([@heinthanth](https://github.com/heinthanth)) Full Stack Developer, Myanmar
 - Hendrik Eduard Kuiper ([@HendrikEduard](https://github.com/HendrikEduard)) Systems & DB Admin, Programmer and a whole lot more
+- Hendrik Luehrsen ([@luehrsen](https://github.com/luehrsen)), CEO of [Luehrsen // Heinrich](https://www.luehrsen-heinrich.de), PHP Developer, Munich / Germany
 - Igor Veselov ([@utz0r2](https://github.com/utz0r2)), Full Stack Developer, Ukraine
 - Ilya Bakhlin ([@ilyabakhlin](https://github.com/ilyabakhlin)), Web Developer, Spain
 - Ilya Sudakov ([@isudakoff](https://github.com/isudakoff)), Web Developer, Russia
@@ -239,6 +244,7 @@ Signed,
 - QinQiangWu ([@wuqinqiang](https://github.com/wuqinqiang)),PHP was the beginning of everything for me
 - Quentin Pautrat ([@qpautrat](https://github.com/qpautrat)),I grew up alongside PHP and I like what it has become
 - Rahadiana Nugraha ([@rahadiana](https://github.com/rahadiana)), Full Stack Developer, Indonesia
+- Ram Ratan Maurya ([@mauryaratan](https://github.com/mauryaratan)), WordPress Developer, Side hustler. From India 🇮🇳
 - Renato Nascimento ([@Goodnato](https://github.com/Goodnato)), Full Stack Developer. Thanks PHP, my favorite language ❤️. From Brazil 🇧🇷
 - Reyad Khan ([@reyadkhan](https://github.com/reyadkhan)), Full Stack Developer
 - Ricardo Rentería ([@rrenteria-dev](https://github.com/rrenteria-dev)), Full Stack Developer. Thanks for everything PHP. From México 🇲🇽
@@ -302,12 +308,14 @@ Signed,
 - Tshiamo Bhuda ([@tshiamobhuda](https://github.com/tshiamobhuda)), PHP Developer, :south_africa: South Africa
 - Umut Işık ([@umutphp](https://github.com/umutphp)) Software developer, :heart: PHP since 2000, 🇹🇷 Turkey
 - Vadim Filimonov([@vadimfilimonov](https://github.com/vadimfilimonov)), Software Engineer, Russia
+- Sergei Deriabin ([@DeryabinSergey](https://github.com/DeryabinSergey)), Backend developer, Germany / Russia
 - Vadim Mazur([@mazurva](https://github.com/mazurva)) PHP since 2006. Full stack, Russia
 - Vadym Trofymenko [@vadymtrofymeko](https://github.com/VadymTrofymenko), Backend Developer, Ukraine
 - Valentin Nikolaev ([@ValentinNikolaev](https://github.com/ValentinNikolaev)), Backend Developer, Turkey/Ukraine/Russia
 - Valentin Udaltsov ([@vudaltsov](https://github.com/vudaltsov)), PHP Developer and Blogger ([Пых](https://t.me/phpyh), [PHP Point](https://youtube.com/PHPPoint)) from Russia 🇷🇺
 - Vasilij Duško ([@StaffNowa](https://github.com/StaffNowa)), Web Developer, Lithuania
 - Victor Login ([@batazor](https://github.com/batazor)), Backend Developer, Russia
+- Victoria Anzhaurova ([@anzhaurova])(https://github.com/anzhaurova)), Backend Developer, Russia
 - Vigikaran Vijayaratnam ([@vigikaran](https://github.com/vigikaran)), Full Stack Web Application developer / DevOps
 - Vikas Kapadiya ([@vikas5914](https://github.com/vikas5914)), Full Stack Developer, India
 - Vikrant Singh Chauhan ([@0xcrypto](https://github.com/0xcrypto)), Backend Developer, India
@@ -327,6 +335,7 @@ Signed,
 - Yuheni Pinchuk ([@Yudgin888](https://github.com/Yudgin888)), PHP Developer and Zend Certified Engineer, Belarus
 - Yusuf Ardi ([@yusufthedragon](https://github.com/yusufthedragon)), Backend Developer, Indonesia
 - Zain Mehdi ([@szainmehdi](https://github.com/szainmehdi)), Software Engineer, 🇺🇸 USA
+- Darsono ([@darsono72](https://github.com/Darsono72)),Full-stack Developer, Software Engineer, idn Indonesia 
 - Nguyen An Hung ([@nguyenanhung](https://github.com/nguyenanhung)), PHP since 2008, Software Engineer, Vietnam
 
 Inspired by the
