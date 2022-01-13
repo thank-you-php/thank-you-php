@@ -304,6 +304,7 @@ Signed,
 - Tshiamo Bhuda ([@tshiamobhuda](https://github.com/tshiamobhuda)), PHP Developer, :south_africa: South Africa
 - Umut Işık ([@umutphp](https://github.com/umutphp)) Software developer, :heart: PHP since 2000, 🇹🇷 Turkey
 - Vadim Filimonov([@vadimfilimonov](https://github.com/vadimfilimonov)), Software Engineer, Russia
+- Sergei Deriabin ([@DeryabinSergey](https://github.com/DeryabinSergey)), Backend developer, Germany / Russia
 - Vadim Mazur([@mazurva](https://github.com/mazurva)) PHP since 2006. Full stack, Russia
 - Vadym Trofymenko [@vadymtrofymeko](https://github.com/VadymTrofymenko), Backend Developer, Ukraine
 - Valentin Nikolaev ([@ValentinNikolaev](https://github.com/ValentinNikolaev)), Backend Developer, Turkey/Ukraine/Russia
