@@ -88,6 +88,7 @@ Signed,
 - Chris Kielholz ([@Enorion](https://github.com/Enorion)), PHP Evangelist
 - Chun-Sheng, Li ([@peter279k](https://github.com/peter279k)), PHP developer :), Taiwan
 - Corrado Modica ([@Corrado](https://github.com/CorradoModica)), Full Stack Developer, Italy
+- Dan Jones ([@goodevilgenius](https://github.com/goodevilgenius)), 🖖 Full Stack Developer (since 2005), United States 🇺🇸
 - Dario Rigolin ([@drigolin](https://github.com/drigolin)), PHP Developer, Italy
 - Dave Hornigan ([@DaveHornigan](https://github.com/DaveHornigan)), Backend PHP Software Engineer, Ukraine / Russia
 - David Jor Hpan ([@david-gnext](https://github.com/david-gnext)), Yangon , Myanmar
