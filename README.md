@@ -319,7 +319,7 @@ Signed,
 - Vallabh Kansagara ([@vrkansagara](https://github.com/vrkansagara)), Technical Leader | NOSQL | SQL | AWS | PHP | Angular | LINUX | CRM | Business intelligence. From India 🇮🇳
 - Vasilij Duško ([@StaffNowa](https://github.com/StaffNowa)), Web Developer, Lithuania
 - Victor Login ([@batazor](https://github.com/batazor)), Backend Developer, Russia
-- Victoria Anzhaurova ([@anzhaurova])(https://github.com/anzhaurova)), Backend Developer, Russia
+- Victoria Anzhaurova ([@anzhaurova](https://github.com/anzhaurova)), Backend Developer, Russia
 - Vigikaran Vijayaratnam ([@vigikaran](https://github.com/vigikaran)), Full Stack Web Application developer / DevOps
 - Vikas Kapadiya ([@vikas5914](https://github.com/vikas5914)), Full Stack Developer, India
 - Vikrant Singh Chauhan ([@0xcrypto](https://github.com/0xcrypto)), Backend Developer, India
