@@ -230,6 +230,7 @@ Signed,
 - Nikolay Ponich ([@ponich](https://github.com/ponich)), Software Engineer
 - Nikolay Zuev ([des1roer](https://github.com/des1roer)), Backend Developer, Russian Federation
 - Norio Suzuki ([@suzuki](https://github.com/suzuki)), Software Engineer, Japan 🇯🇵
+- Noval Ramdhani ([@novalramdhani](https://github.com/novalramdhani)), Back End Developer, Indonesia
 - Ntabethemba ManezaF8 Mabetshe ([@manezaf8](https://github.com/manezaf8)), Magento Developer, South Africa
 - Nwankwo Samuel ([saminwankwo](https://github.com/saminwankwo)), Backend Developer, Nigeria
 - Odole Olukayode ([@kaythinks](https://github.com/kaythinks)), Software Craftsman from Nigeria
