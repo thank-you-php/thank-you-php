@@ -190,6 +190,7 @@ Signed,
 - Lyubomir Grozdanov ([@lubo13](https://github.com/lubo13)), Backend Developer (Symfony Certified Developer and Zend Certified Engineer (PHP 7)), Bulgaria
 - Mahbub Hasan Imon ([@mhimon](https://github.com/mhimon)), Full Stack Developer, Bangladesh 🇧🇩🇧🇩🇧🇩 Founder & Lead Developer of ultraDevs ([@ultraDevs](https://github.com/ultraDevs))
 - Maksim Ermakov ([@salfum](https://github.com/salfum)), Full Stack Developer, PHP and Laravel :heart:, Russia :ru:
+- Maksym Rudenko ([@rudenko-programmer](https://github.com/rudenko-programmer)), Backend Developer, PHP and Laravel :heart:, Ukraine
 - Maksym Storchak ([@strorch](https://github.com/strorch)), Web developer, Ukraine
 - Mark Almadin ([@mrkalmdn](https://github.com/mrkalmdn)), Laravelist
 - Mark Armstrong ([@mark1282](https://github.com/mark1282)), Lead Web Developer, The Insights Family
