@@ -254,7 +254,7 @@ Signed,
 - Reyad Khan ([@reyadkhan](https://github.com/reyadkhan)), Full Stack Developer
 - Ricardo Rentería ([@rrenteria-dev](https://github.com/rrenteria-dev)), Full Stack Developer. Thanks for everything PHP. From México 🇲🇽
 - Rio Astamal ([@rioastamal](https://github.com/rioastamal)), Loving PHP since 2003 and Cloud Computing Enthusiast, Indonesia
-- Rizky Tegar Pratama ([@rizkytegar](https://github.com/rizkytegar)), Full stack web developer, Indonesia
+- Rizky Tegar Pratama ([@rizkytegar](https://github.com/rizkytegar)), Senior Back End Developer, Indonesia
 - Robert Means ([@BoDonkey](https://github.com/BoDonkey)), Language Lover, USA
 - Rod Elias ([@chapeupreto](https://github.com/chapeupreto)), Backend Developer, Brazil
 - RogerTM ([@rogertm](https://github.com/rogertm)), Full Stack Web Developer, PHP & WordPress lover since 2005. 🇨🇺 Cuba.
