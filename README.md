@@ -152,6 +152,7 @@ Signed,
 - Ilya Bakhlin ([@ilyabakhlin](https://github.com/ilyabakhlin)), Web Developer, Spain
 - Ilya Sudakov ([@isudakoff](https://github.com/isudakoff)), Web Developer, Russia
 - Indrawan ([@sinkaroid](https://github.com/sinkaroid)), Full Stack Developer, Indonesia
+- Irsyad Maulana ([@ID-sweet](https://github.com/ID-sweet)), Web Developer, Indonesia
 - Isfer Hossain ([@isferhossain](https://github.com/isferhossain)), Indie Game Developer, Experience in Web Development, Pixel artist. 
 - Ivan Dudarev ([@ddrv](https://github.com/ddrv)), Backend Developer, Russia 🤘
 - Ivo Vicente ([@ivolvicente](https://github.com/ivolvicente)), PHP Developer, Portugal
