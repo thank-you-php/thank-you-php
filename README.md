@@ -209,6 +209,7 @@ Signed,
 - Mikhail Chuvashov ([@almadef](https://github.com/almadef)), Full-Stack Developer, Russia
 - Mikiyas Amdu ([@mikimaine](https://github.com/mikimaine)), Software Engineer, Ethiopia
 - Mmidori Kocak ([@mmidorikocak](https://github.com/midorikocak)), Senior Software Engineer, Prague/Czech Republic
+- Mohamed Elidrissi ([@elidrissidev](https://github.com/elidrissidev)), Full-Stack Developer and [OpenMage](https://github.com/OpenMage/magento-lts) contributor, Morocco 🇲🇦.
 - Muhaimenul Islam ([@muhaimenul](https://github.com/muhaimenul)), Software Engineer, Bangladesh
 - Muhamad Ramdani ([@dannsdb](https://github.com/dannsdb)), Web Developer, Indonesia
 - Muhammad Abdullah ([@abdullahnaseer](https://github.com/abdullahnaseer)), PHP Developer, Founder [CodeCreatives](http://code-creatives.com/)
