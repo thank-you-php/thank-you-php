@@ -302,6 +302,7 @@ Signed,
 - Siarhei Bautrukevich ([@bautrukevich](https://github.com/bautrukevich)), Web Developer, Belarus
 - Sklyarov Alexey ([@sufir](https://github.com/sufir)), Back-End Web Developer, Russia
 - Slava Krampetz ([@slavakrampetz](https://github.com/slavakrampetz)), Web Developer, CTO, Online-media.ru, Tomsk, Russia
+- Shuvo Goswami ([@rawscripter](https://github.com/rawscripter)), Fullstack Developer and Team Leader, Bangladesh
 - Smirnov Oleg ([@SoeSmile](https://github.com/SoeSmile)), Web Developer, Russia
 - Sobhan Sharifi ([@50bhan](https://github.com/50bhan)), :fire: PHP Enthusiast, Iran
 - Sohaib Ilyas ([@sohaibilyas](https://github.com/sohaibilyas)), PHP & Laravel lover ❤️ from Pakistan 🇵🇰
