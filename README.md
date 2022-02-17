@@ -254,6 +254,7 @@ Signed,
 - Putu Deva Jayantha ([@devajayantha](https://github.com/devajayantha)), Backend Developer from Bali Indonesia
 - QinQiangWu ([@wuqinqiang](https://github.com/wuqinqiang)),PHP was the beginning of everything for me
 - Quentin Pautrat ([@qpautrat](https://github.com/qpautrat)),I grew up alongside PHP and I like what it has become
+- Rafael Franco (@rafaelfranco) (https://github.com/rafaelfranco)), PHP is my first love since 2001. From Brazil 🇧🇷  
 - Rahadiana Nugraha ([@rahadiana](https://github.com/rahadiana)), Full Stack Developer, Indonesia
 - Ram Ratan Maurya ([@mauryaratan](https://github.com/mauryaratan)), WordPress Developer, Side hustler. From India 🇮🇳
 - Renato Nascimento ([@Goodnato](https://github.com/Goodnato)), Full Stack Developer. Thanks PHP, my favorite language ❤️. From Brazil 🇧🇷
