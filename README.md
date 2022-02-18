@@ -314,6 +314,7 @@ Signed,
 - Taichi Inaba (aka chatii) ([@chatii](https://github.com/chatii)) Fullstack Web Developer, Japan 🇯🇵
 - Tariqul Islam ([@ta-riq](https://github.com/ta-riq)), A Real PHP lover
 - Tasiu Kwaplong ([@tasiukwaplong](https://github.com/tasiukwaplong)), Laravel and PHP lover, Nigeria
+- Thomas Hauschild ([@Morgy93](https://github.com/Morgy93)), Developer, Germany
 - Thomas Perez ([@ScullWM](https://github.com/scullwm)), Backend Developer, France
 - Timofey Zhiganov ([@zavodilo](https://github.com/zavodilo)) Backend Developer, Russia
 - Tomas Norre Mikkelsen ([@tomasnorre](https://github.com/tomasnorre)), ❤️ PHP Since 1998, 🇩🇰 Denmark
