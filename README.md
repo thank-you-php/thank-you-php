@@ -17,6 +17,7 @@ Signed,
 - Abdullah Hejazi ([@Abdullah-Hejazi](https://github.com/Abdullah-Hejazi)), Full Stack Web Developer, Cairo, Egypt
 - Abdullah Ramzan ([@abdullah1908](https://github.com/abdullah1908)), WP Expert, Lahore Pakistan
 - Abijah Johnnie (aka LJTWP) ([@abdegenius](https://github.com/abdegenius)), Web Developer, Lover of PHP since 2016
+- Achmad Rivaldi ([@mrtampan](https://github.com/mrtampan)), Web Developer, Indonesia
 - Adem Ali Durmuş ([@ademalidurmus](https://github.com/ademalidurmus)), Backend Developer, 🇹🇷 Turkey
 - Adil Moughal ([@mohammed-adil-moughal](https://github.com/mohammed-adil-moughal)), Backend Developer, Kenya
 - Afanasev Pavel ([@bupyc9](https://github.com/bupyc9)), Backend developer, Russian
