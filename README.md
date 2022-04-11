@@ -355,6 +355,7 @@ Signed,
 - Zain Mehdi ([@szainmehdi](https://github.com/szainmehdi)), Software Engineer, 🇺🇸 USA
 - Peter Rusin ([@peter-rusin](https://github.com/peter-rusin)), Magento Developer, [LinkedIn](https://www.linkedin.com/in/peter-rusin/) Creator, 🇵🇱 Poland
 - Luis Felipe ([@ludovici-philippus](https://github.com/ludovici-philippus)), PHP is my favorite language. Full Stack, thanks PHP, From Brazil 🇧🇷
+- Ernest Beginov ([@wayheming](https://github.com/wayheming)), PHP WordPress Developer, 🇺🇦 Ukraine
 
 Inspired by the
 [Thank You Github](https://github.com/thank-you-github/thank-you-github),
