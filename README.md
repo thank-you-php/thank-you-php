@@ -112,6 +112,7 @@ Signed,
 - Dorian Peregrim ([@DorianPeregrim](https://github.com/DorianPeregrim)), PHP Developer, Russia 🇷🇺
 - Dzmitry Bekish ([@SofWar](https://github.com/sofwar)), Full Stack Developer, Belarus
 - Eder Soares ([@edersoares](https://github.com/edersoares)), Software Engineer, Brazil 🇧🇷
+- Eduardo Dias ([@edurodriguesdias](https://github.com/edurodriguesdias)), Software Engineer, Brazil 🇧🇷
 - Egor Rudkov ([@gren236](https://github.com/gren236)), Backend Developer, Russia
 - Eliyas Hossain ([@eliyas5044](https://github.com/eliyas5044)), Full Stack Developer, Bangladesh
 - Enes Kömür ([@eneskomur](https://github.com/eneskomur)), Web Developer, Turkey
