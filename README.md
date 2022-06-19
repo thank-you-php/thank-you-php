@@ -360,6 +360,8 @@ Signed,
 - Luis Felipe ([@ludovici-philippus](https://github.com/ludovici-philippus)), PHP is my favorite language. Full Stack, thanks PHP, From Brazil 🇧🇷
 - Ernest Beginov ([@wayheming](https://github.com/wayheming)), PHP WordPress Developer, 🇺🇦 Ukraine
 - Dinush Chathurya ([@dinushchathurya](https://github.com/dinushchathurya)), Full Stack Engineer, PHP lover!. Sri Lanka.
+- Ajith Jojo ([@ajithjojo](https://github.com/ajithjojo)), Full Stack Developer, Kerala - India
+
 
 Inspired by the
 [Thank You Github](https://github.com/thank-you-github/thank-you-github),
