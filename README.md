@@ -76,6 +76,7 @@ Signed,
 - Aydarkhan Tsyrenzhapov ([@noweasily](https://github.com/noweasily)) Backend Developer, Russia
 - Ayesh Karunaratne ([@Ayesh](https://github.com/ayesh)) PHP Developer and author at [PHP.Watch](https://php.watch)
 - Babish Shrestha ([@babiz](https://github.com/babiz)), PHP believer since 2008, Entrepreneur, Nepal
+- Baharsah ([@baharsah](https://github.com/baharsah)), PHP Developer since 2013, Full Stack since 2019, Indonesia
 - Bahyu Sanciko ([@bahyusanciko](https://github.com/bahyusanciko)), Full Stack Developer, Indonesia
 - Bakhtiyor Bahritidinov (@[@bakhtiyor](https://github.com/bakhtiyor)), Full Stack Developer since 2002, 🇹🇯 Tajikistan
 - Bayu Rifki Alghifari ([@BayuRifkiAlghifari](https://github.com/BayuRifkiAlghifari)), Backend Developer, Indonesia
