@@ -250,6 +250,7 @@ Signed,
 - Oleksandr Kozhoma ([@akozhoma](https://github.com/AKozhoma)), Software Engineer, Ukraine
 - Oleksandr Roskovynskyi ([@oleksandr-roskovynskyi](https://github.com/oleksandr-roskovynskyi)), Backend Developer, Ukraine
 - Omar Villafuerte ([@ovillafuerte94](https://github.com/ovillafuerte94)), Full Stack Developer, Cuba
+- Overtrue ([@overtrue](https://github.com/overtrue)), Full Stack Web Developer. 🇨🇳
 - Pablo Lozano ([@plozmun](https://github.com/plozmun)), Senior Back End Developer, Spain
 - Paimon John ([@pa1m0n](https://github.com/pa1m0n)), Full Web Stack Developer, Belarus
 - Paul Messina([@paulrm](https://github.com/paulrm)), DevOps Engineer - 🤟 PHP since 3.0, 🇦🇷 Argentina
