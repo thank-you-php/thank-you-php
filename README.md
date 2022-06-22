@@ -41,6 +41,7 @@ Signed,
 - Alex Teterin ([@errogaht](https://github.com/errogaht)), PHP Developer, Russia
 - Alexander Dubinin ([@a-dubinin](https://github.com/a-dubinin)), Software Engineer, USA
 - Alexander Semikashev ([@verng95](https://github.com/verng95)), Backend Developer, Russia
+- Alexander Tebiev ([@beeyev](https://github.com/beeyev)), Technical Leader, Georgia
 - Alexandr Chernyaev ([@tabuna](https://github.com/tabuna)), Backend Developer, Russia
 - Alexey Alexeev ([@greenkaktusx](https://github.com/greenkaktusx)), Backend Developer, Russia
 - Alexey Paschenko ([@steamvis](https://github.com/steamvis)), Backend Developer, Russia
