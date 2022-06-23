@@ -25,6 +25,7 @@ Signed,
 - Afdhalul Ichsan Yourdan ([@ShennBoku](https://github.com/ShennBoku)), Web Developer, Indonesia
 - Afolayan Stephen ([@jilh](https://github.com/jilh)), Community Organizer and Fullstack PHP Developer, Nigeria
 - Ahmad Moussawi ([@ahmad-moussawi](https://github.com/ahmad-moussawi)), PHP and C# Web Developer, Beirut Lebanon
+- Ahmad Mustapha ([@ahmard](https://github.com/ahmard)), Software Engineer, all things PHP, Nigeria
 - Ahmed Osama ([@Juvienelle](https://github.com/Juvienelle)), Full Stack Developer, Egypt
 - Akhil E M ([@Akhil-EM](https://github.com/Akhil-EM)), Full Stack Web Developer. Thanks PHP,love from India ❤️.  
 - Alam Khan ([@moskan9595](https://github.com/moskan9595)), Half Stack Developer, Pak
