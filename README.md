@@ -174,6 +174,7 @@ Signed,
 - Jean Melo ([@jeanmamelo](https://github.com/jeanmamelo)), Full Stack Developer, Brazil
 - Jeffery Hussin ([@JefferyHus](https://github.com/JefferyHus)), Full Stack Developer
 - Jez Emery ([@jezemery](https://github.com/jezemery)), Software Engineer, UK
+- Jesse Donat ([@donatj](https://github.com/donatj)), Full Stack Developer, PHP since 2001, Minneapolis, MN USA
 - Jim Wigginton ([@terrafrost](https://github.com/terrafrost)), Software Engineer, Austin, TX
 - Joaquin 'JkDev' Centurion ([@jkdevarg](https://github.com/jkdevarg)), PHP Since 2011, PHP Lover, Cyber Security, Argentina
 - Joel Reis ([@ElJoelReis](https://github.com/ElJoelReis)), Web Developer
