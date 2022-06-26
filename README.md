@@ -371,7 +371,8 @@ Signed,
 - Dinush Chathurya ([@dinushchathurya](https://github.com/dinushchathurya)), Full Stack Engineer, PHP lover!. Sri Lanka.
 - Ajith Jojo ([@ajithjojo](https://github.com/ajithjojo)), Full Stack Developer, Kerala - India
 - Shakil Ahmmed([@ShakilAhmmed](https://github.com/ShakilAhmmed)), , Software Engineer , 🇧🇩 Bangladesh
-- Shahadat Hossain Hridoy ([@HridoyHazard](https://github.com/HridoyHazard)), Mern Stack Developer , Bangladesh 
+- Shahadat Hossain Hridoy ([@HridoyHazard](https://github.com/HridoyHazard)), Mern Stack Developer , Bangladesh
+- Sunxyw ([@sunxyw](https://github.com/sunxyw)), Full Stack Developer, 🇭🇰 Hong Kong - China
 
 
 Inspired by the
