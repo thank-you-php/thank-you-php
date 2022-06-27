@@ -372,6 +372,7 @@ Signed,
 - Ajith Jojo ([@ajithjojo](https://github.com/ajithjojo)), Full Stack Developer, Kerala - India
 - Shakil Ahmmed([@ShakilAhmmed](https://github.com/ShakilAhmmed)), , Software Engineer , 🇧🇩 Bangladesh
 - Shahadat Hossain Hridoy ([@HridoyHazard](https://github.com/HridoyHazard)), Mern Stack Developer , Bangladesh 
+- Simon ([@Simoon-F](https://github.com/Simoon-F)), Full Stack Web Developer. 🇨🇳
 
 
 Inspired by the
