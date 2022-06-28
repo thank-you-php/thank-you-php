@@ -27,7 +27,7 @@ Signed,
 - Ahmad Moussawi ([@ahmad-moussawi](https://github.com/ahmad-moussawi)), PHP and C# Web Developer, Beirut Lebanon
 - Ahmad Mustapha ([@ahmard](https://github.com/ahmard)), Software Engineer, all things PHP, Nigeria
 - Ahmed Osama ([@Juvienelle](https://github.com/Juvienelle)), Full Stack Developer, Egypt
-- Ahu ([@ahu](https://github.com/ahu)), Full Stack Web Developer. 🇨🇳
+- Ahu ([@ahu](https://github.com/ahu)), Full Stack Developer, a PHP developer since 2000. 🇨🇳
 - Akhil E M ([@Akhil-EM](https://github.com/Akhil-EM)), Full Stack Web Developer. Thanks PHP,love from India ❤️.  
 - Alam Khan ([@moskan9595](https://github.com/moskan9595)), Half Stack Developer, Pak
 - Aleksandr Frolov ([@Philosoft](https://github.com/Philosoft)), PHP Developer, Russia
