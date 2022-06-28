@@ -28,6 +28,7 @@ Signed,
 - Ahmad Mustapha ([@ahmard](https://github.com/ahmard)), Software Engineer, all things PHP, Nigeria
 - Ahmed Osama ([@Juvienelle](https://github.com/Juvienelle)), Full Stack Developer, Egypt
 - Ahu ([@ahu](https://github.com/ahu)), Full Stack Developer, a PHP developer since 2000. 🇨🇳
+- Ajith Jojo ([@ajithjojo](https://github.com/ajithjojo)), Full Stack Developer, Kerala - India
 - Akhil E M ([@Akhil-EM](https://github.com/Akhil-EM)), Full Stack Web Developer. Thanks PHP,love from India ❤️.  
 - Alam Khan ([@moskan9595](https://github.com/moskan9595)), Half Stack Developer, Pak
 - Aleksandr Frolov ([@Philosoft](https://github.com/Philosoft)), PHP Developer, Russia
@@ -107,6 +108,7 @@ Signed,
 - Denis Waleev ([@waleev](https://github.com/waleev)), Full Stack Developer, Russia 🇷🇺
 - Denuwan Hettiarachchi ([@Denuwanhh](https://github.com/Denuwanhh)), Full Stack Developer, Sri Lanka
 - Diego Andrade de Mendonça ([@diego182](https://github.com/diego182)), Backend Developer, Brazil/Germany
+- Dinush Chathurya ([@dinushchathurya](https://github.com/dinushchathurya)), Full Stack Engineer, PHP lover!. Sri Lanka.
 - Djo ([@northmule](https://github.com/northmule)), 🚀 PHP is life , Backend Developer, Russia 🇷🇺
 - Dmitriy Bespalov ([@superrosko](https://github.com/superrosko)), Backend Developer, Russia
 - Dmitriy Demidovich ([@demidovich](https://github.com/demidovich)), Backend Developer, Russia
@@ -126,6 +128,7 @@ Signed,
 - Enes Turan ([@devenes](https://github.com/devenes)), DevOps Engineer, ☸️ Developer, Istanbul, Turkey
 - Erick Rocha ([@erickpatrick](https://github.com/erickpatrick)), Software Architect/Team Lead, Brazil/Germany
 - Erjan Kalybek ([@erjanmx](https://github.com/erjanmx)), Software Developer, Netherlands
+- Ernest Beginov ([@wayheming](https://github.com/wayheming)), PHP WordPress Developer, 🇺🇦 Ukraine
 - Eugene Leonovich ([@rybakit](https://github.com/rybakit)), Backend Developer, Belarus/Netherlands
 - Eugene Ruban ([@ERuban](https://github.com/ERuban)), PHP Developer, Russia/Georgia
 - Evgenii Bobkov ([@esbobkov](https://github.com/esbobkov)), PHP Developer, 🇷🇺 Russia
@@ -152,6 +155,7 @@ Signed,
 - Ghazif Adeem ([@Ghazif](https://github.com/Ghazif-Adeem)), PHP/Laravel Developer, Pakistan
 - Given Ncube [@slimgee](https://github.com/sligee), Full Stack Developer, Zimbabwe
 - Guoxiao Bao ([@mowangjuanzi](https://github.com/mowangjuanzi)) Software Engineer, 🇨🇳 China
+- H M Maruf ([@themaruf](https://github.com/themaruf)), Full Stack Web Developer, Bangladesh
 - Habibun Noby ([@habibun](https://github.com/habibun), Symfony Developer, 🇧🇩 Bangladesh
 - Hafiz Ramadhan ([@rmdhfz](https://github.com/rmdhfz)), PHP Since 2016, Cyber Security, Indonesia
 - Hamza Mughal ([@prodesquare](https://github.com/prodesquare)), Full Stack Developer, Faisalabad Pakistan
@@ -159,7 +163,6 @@ Signed,
 - Hein Thant Maung Maung ([@heinthanth](https://github.com/heinthanth)) Full Stack Developer, Myanmar
 - Hendrik Eduard Kuiper ([@HendrikEduard](https://github.com/HendrikEduard)) Systems & DB Admin, Programmer and a whole lot more
 - Hendrik Luehrsen ([@luehrsen](https://github.com/luehrsen)), CEO of [Luehrsen // Heinrich](https://www.luehrsen-heinrich.de), PHP Developer, Munich / Germany
-- H M Maruf ([@themaruf](https://github.com/themaruf)), Full Stack Web Developer, Bangladesh
 - Igor Veselov ([@utz0r2](https://github.com/utz0r2)), Full Stack Developer, Ukraine
 - Ilya Bakhlin ([@ilyabakhlin](https://github.com/ilyabakhlin)), Web Developer, Spain
 - Ilya Sudakov ([@isudakoff](https://github.com/isudakoff)), Web Developer, Russia
@@ -177,8 +180,8 @@ Signed,
 - Jayant Goel ([@JayantGoel001](https://github.com/JayantGoel001)), India.
 - Jean Melo ([@jeanmamelo](https://github.com/jeanmamelo)), Full Stack Developer, Brazil
 - Jeffery Hussin ([@JefferyHus](https://github.com/JefferyHus)), Full Stack Developer
-- Jez Emery ([@jezemery](https://github.com/jezemery)), Software Engineer, UK
 - Jesse Donat ([@donatj](https://github.com/donatj)), Full Stack Developer, PHP since 2001, Minneapolis, MN USA
+- Jez Emery ([@jezemery](https://github.com/jezemery)), Software Engineer, UK
 - Jim Wigginton ([@terrafrost](https://github.com/terrafrost)), Software Engineer, Austin, TX
 - Joaquin 'JkDev' Centurion ([@jkdevarg](https://github.com/jkdevarg)), PHP Since 2011, PHP Lover, Cyber Security, Argentina
 - Joel Reis ([@ElJoelReis](https://github.com/ElJoelReis)), Web Developer
@@ -204,6 +207,7 @@ Signed,
 - Logan Lindquist ([@llbbl](https://github.com/llbbl)), Organizer, Austin, TX USA
 - Luciano Coggiola ([@tanoinc](https://github.com/tanoinc)), Full Stack Developer, Argentina
 - Luffy ([@sy-records](https://github.com/sy-records)), PHP Developer, China
+- Luis Felipe ([@ludovici-philippus](https://github.com/ludovici-philippus)), PHP is my favorite language. Full Stack, thanks PHP, From Brazil 🇧🇷
 - Luuk Verhoeven ([@luukverhoeven](https://github.com/luukverhoeven)),  Senior Software Engineer / Moodle expert , 🇳🇱 Netherlands
 - Lyubomir Grozdanov ([@lubo13](https://github.com/lubo13)), Backend Developer (Symfony Certified Developer and Zend Certified Engineer (PHP 7)), Bulgaria
 - Mahbub Hasan Imon ([@mhimon](https://github.com/mhimon)), Full Stack Developer, Bangladesh 🇧🇩🇧🇩🇧🇩 Founder & Lead Developer of ultraDevs ([@ultraDevs](https://github.com/ultraDevs))
@@ -266,6 +270,7 @@ Signed,
 - Paul Messina([@paulrm](https://github.com/paulrm)), DevOps Engineer - 🤟 PHP since 3.0, 🇦🇷 Argentina
 - Paulo Castro ([@planktonfun](https://github.com/planktonfun)), Just a Passer By
 - Peter Kokot ([@petk](https://github.com/petk)), PHP development team member
+- Peter Rusin ([@peter-rusin](https://github.com/peter-rusin)), Magento Developer, [LinkedIn](https://www.linkedin.com/in/peter-rusin/) Creator, 🇵🇱 Poland
 - Philip Weinke ([@weph](https://github.com/weph)), Professional code slinger, :heart: PHP since 2000, :de: Germany
 - PHP Dagestan ([@phpdagestan](https://github.com/phpdagestan)), Open source repository php developers from Dagestan, Russia
 - Priyatna ([@antayirp](https://github.com/antayirp)), Full Stack Developer, Indonesia & Switzerland
@@ -318,15 +323,18 @@ Signed,
 - Sergey Sidorov ([@serjazz](https://github.com/serjazz)), PHP Developer, 🇷🇺 Russia
 - Sergey Tsyhankou ([@tsyhankou](https://github.com/tsyhankou)), Backend PHP Developer, Poland/Belarus
 - Sergio de Candelario ([@sdecandelario](https://github.com/sdecandelario)), Software Engineer, Barcelona, Catalonia, Spain :)
+- Shahadat Hossain Hridoy ([@HridoyHazard](https://github.com/HridoyHazard)), Mern Stack Developer , Bangladesh
 - Shakhobiddin Urinbayev ([@shokhaa](https://github.com/shokhaa)), PHP Backend Developer, Uzbekistan
+- Shakil Ahmmed([@ShakilAhmmed](https://github.com/ShakilAhmmed)), , Software Engineer , 🇧🇩 Bangladesh
+- Shuvo Goswami ([@rawscripter](https://github.com/rawscripter)), Fullstack Developer and Team Leader, Bangladesh
 - Siarhei Bautrukevich ([@bautrukevich](https://github.com/bautrukevich)), Web Developer, Belarus
 - Sklyarov Alexey ([@sufir](https://github.com/sufir)), Back-End Web Developer, Russia
 - Slava Krampetz ([@slavakrampetz](https://github.com/slavakrampetz)), Web Developer, CTO, Online-media.ru, Tomsk, Russia
-- Shuvo Goswami ([@rawscripter](https://github.com/rawscripter)), Fullstack Developer and Team Leader, Bangladesh
 - Smirnov Oleg ([@SoeSmile](https://github.com/SoeSmile)), Web Developer, Russia
 - Sobhan Sharifi ([@50bhan](https://github.com/50bhan)), :fire: PHP Enthusiast, Iran
 - Sohaib Ilyas ([@sohaibilyas](https://github.com/sohaibilyas)), PHP & Laravel lover ❤️ from Pakistan 🇵🇰
 - Steve Pavarno ([@pavarnos](https://github.com/pavarnos)), Full stack PHP since 2001, New Zealand
+- Sunxyw ([@sunxyw](https://github.com/sunxyw)), Full Stack Developer, 🇭🇰 Hong Kong - China
 - Sushil Ale ([@msucil](https://github.com/msucil)) Web Application Developer/Data Engineer, Nepal
 - Taichi Inaba (aka chatii) ([@chatii](https://github.com/chatii)) Fullstack Web Developer, Japan 🇯🇵
 - Tariqul Islam ([@ta-riq](https://github.com/ta-riq)), A Real PHP lover
@@ -347,8 +355,8 @@ Signed,
 - Valentin Nikolaev ([@ValentinNikolaev](https://github.com/ValentinNikolaev)), Backend Developer, Turkey/Ukraine/Russia
 - Valentin Udaltsov ([@vudaltsov](https://github.com/vudaltsov)), PHP Developer and Blogger ([Пых](https://t.me/phpyh), [PHP Point](https://youtube.com/PHPPoint)) from Russia 🇷🇺
 - Vallabh Kansagara ([@vrkansagara](https://github.com/vrkansagara)), Technical Leader | NOSQL | SQL | AWS | PHP | Angular | LINUX | CRM | Business intelligence. From India 🇮🇳
-- Vasilij Duško ([@StaffNowa](https://github.com/StaffNowa)), Web Developer, Lithuania
 - Vasileios Kerasiotis ([@basdog22](https://github.com/basdog22), PHP developer. PHP, Laravel, CS-Cart, WordPress in no particular order, Greece 
+- Vasilij Duško ([@StaffNowa](https://github.com/StaffNowa)), Web Developer, Lithuania
 - Victor Login ([@batazor](https://github.com/batazor)), Backend Developer, Russia
 - Victoria Anzhaurova ([@anzhaurova](https://github.com/anzhaurova)), Backend Developer, Russia
 - Vigikaran Vijayaratnam ([@vigikaran](https://github.com/vigikaran)), Full Stack Web Application developer / DevOps
@@ -370,13 +378,6 @@ Signed,
 - Yuheni Pinchuk ([@Yudgin888](https://github.com/Yudgin888)), PHP Developer and Zend Certified Engineer, Belarus
 - Yusuf Ardi ([@yusufthedragon](https://github.com/yusufthedragon)), Backend Developer, Indonesia
 - Zain Mehdi ([@szainmehdi](https://github.com/szainmehdi)), Software Engineer, 🇺🇸 USA
-- Peter Rusin ([@peter-rusin](https://github.com/peter-rusin)), Magento Developer, [LinkedIn](https://www.linkedin.com/in/peter-rusin/) Creator, 🇵🇱 Poland
-- Luis Felipe ([@ludovici-philippus](https://github.com/ludovici-philippus)), PHP is my favorite language. Full Stack, thanks PHP, From Brazil 🇧🇷
-- Ernest Beginov ([@wayheming](https://github.com/wayheming)), PHP WordPress Developer, 🇺🇦 Ukraine
-- Dinush Chathurya ([@dinushchathurya](https://github.com/dinushchathurya)), Full Stack Engineer, PHP lover!. Sri Lanka.
-- Ajith Jojo ([@ajithjojo](https://github.com/ajithjojo)), Full Stack Developer, Kerala - India
-- Shakil Ahmmed([@ShakilAhmmed](https://github.com/ShakilAhmmed)), , Software Engineer , 🇧🇩 Bangladesh
-- Shahadat Hossain Hridoy ([@HridoyHazard](https://github.com/HridoyHazard)), Mern Stack Developer , Bangladesh 
 
 
 Inspired by the
