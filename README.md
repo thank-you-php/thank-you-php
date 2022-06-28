@@ -27,6 +27,7 @@ Signed,
 - Ahmad Moussawi ([@ahmad-moussawi](https://github.com/ahmad-moussawi)), PHP and C# Web Developer, Beirut Lebanon
 - Ahmad Mustapha ([@ahmard](https://github.com/ahmard)), Software Engineer, all things PHP, Nigeria
 - Ahmed Osama ([@Juvienelle](https://github.com/Juvienelle)), Full Stack Developer, Egypt
+- Ahu ([@ahu](https://github.com/ahu)), Full Stack Developer, a PHP developer since 2000. 🇨🇳
 - Ajith Jojo ([@ajithjojo](https://github.com/ajithjojo)), Full Stack Developer, Kerala - India
 - Akhil E M ([@Akhil-EM](https://github.com/Akhil-EM)), Full Stack Web Developer. Thanks PHP,love from India ❤️.  
 - Alam Khan ([@moskan9595](https://github.com/moskan9595)), Half Stack Developer, Pak
@@ -104,6 +105,7 @@ Signed,
 - Dave Lin ([@davelin10017](https://github.com/davelin10017)), Full Stack Software Architect, Cleveland, OH / USA
 - David Jor Hpan ([@david-gnext](https://github.com/david-gnext)), Yangon , Myanmar
 - Delyan Marinov ([@delyan1914](https://github.com/delian1986)), PHP Developer, Bulgaria 🇧🇬
+- Denis Waleev ([@waleev](https://github.com/waleev)), Full Stack Developer, Russia 🇷🇺
 - Denuwan Hettiarachchi ([@Denuwanhh](https://github.com/Denuwanhh)), Full Stack Developer, Sri Lanka
 - Diego Andrade de Mendonça ([@diego182](https://github.com/diego182)), Backend Developer, Brazil/Germany
 - Dinush Chathurya ([@dinushchathurya](https://github.com/dinushchathurya)), Full Stack Engineer, PHP lover!. Sri Lanka.
@@ -167,6 +169,7 @@ Signed,
 - Indrawan ([@sinkaroid](https://github.com/sinkaroid)), Full Stack Developer, Indonesia
 - Irsyad Maulana ([@ID-sweet](https://github.com/ID-sweet)), Web Developer, Indonesia
 - Isfer Hossain ([@isferhossain](https://github.com/isferhossain)), Indie Game Developer, Experience in Web Development, Pixel artist. 
+- Md. Ismail Hossain ([@ismailreformed](https://github.com/ismailreformed)), PHP Developer, Bangladesh
 - Ivan Dudarev ([@ddrv](https://github.com/ddrv)), Backend Developer, Russia 🤘
 - Ivo Vicente ([@ivolvicente](https://github.com/ivolvicente)), PHP Developer, Portugal
 - Jacob Dreesen ([@jdreesen](https://github.com/jdreesen)), Web Developer
@@ -182,7 +185,9 @@ Signed,
 - Jim Wigginton ([@terrafrost](https://github.com/terrafrost)), Software Engineer, Austin, TX
 - Joaquin 'JkDev' Centurion ([@jkdevarg](https://github.com/jkdevarg)), PHP Since 2011, PHP Lover, Cyber Security, Argentina
 - Joel Reis ([@ElJoelReis](https://github.com/ElJoelReis)), Web Developer
+- Jon Henderson ([@henderjon](https://github.com/henderjon)), Web Developer, PHP since 2003, MN USA
 - Jonathan Bossenger([@jonathanbossenger](https://github.com/jonathanbossenger)), Developer and Technical Writer, Cape Town, South Africa
+- Jorge Ribeiro ([@jorgeribeiro](https://github.com/jorgeribeiro)), Software Engineer, Brazil
 - Josef Sábl ([@josefsabl](https://github.com/josefsabl), Backend Developer, Czechia
 - Joseph Leedy ([@JosephLeedy](https://github.com/JosephLeedy)), Full Stack Magento Developer, Austin, TX USA, Technical Lead & Lead Magento Extension Developer for [Wagento](https://www.wagento.com)
 - Josiah O.Yahaya ([@coderatio](https://github.com/coderatio)), Full Stack Developer
