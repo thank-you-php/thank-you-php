@@ -378,6 +378,7 @@ Signed,
 - Yuheni Pinchuk ([@Yudgin888](https://github.com/Yudgin888)), PHP Developer and Zend Certified Engineer, Belarus
 - Yusuf Ardi ([@yusufthedragon](https://github.com/yusufthedragon)), Backend Developer, Indonesia
 - Zain Mehdi ([@szainmehdi](https://github.com/szainmehdi)), Software Engineer, 🇺🇸 USA
+- Simon ([@Simoon-F](https://github.com/Simoon-F)), Full Stack Web Developer. 🇨🇳
 
 
 Inspired by the
