@@ -86,6 +86,7 @@ Signed,
 - Bahyu Sanciko ([@bahyusanciko](https://github.com/bahyusanciko)), Full Stack Developer, Indonesia
 - Bakhtiyor Bahritidinov (@[@bakhtiyor](https://github.com/bakhtiyor)), Full Stack Developer since 2002, 🇹🇯 Tajikistan
 - Bayu Rifki Alghifari ([@BayuRifkiAlghifari](https://github.com/BayuRifkiAlghifari)), Backend Developer, Indonesia
+- Ben Ramsey ([@ramsey](https://github.com/ramsey)), Software Engineer, Open Source Developer, Nashville, Tennessee, USA
 - Benjamin Temitope ([@benjamintemitope](https://github.com/benjamintemitope)), Backend Developer, Nigeria
 - Benkoulal Abdelghani ([@AbdouGhani-Ben](https://github.com/AbdouGhani-Ben)), Full Stack Developer and Security engineer, Algeria
 - Bhargav Bhandari ([@BhargavBhandari90](https://github.com/BhargavBhandari90)), Web Developer, India
