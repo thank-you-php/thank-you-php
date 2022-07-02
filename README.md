@@ -330,6 +330,7 @@ Signed,
 - Shakil Ahmmed([@ShakilAhmmed](https://github.com/ShakilAhmmed)), , Software Engineer , 🇧🇩 Bangladesh
 - Shuvo Goswami ([@rawscripter](https://github.com/rawscripter)), Fullstack Developer and Team Leader, Bangladesh
 - Siarhei Bautrukevich ([@bautrukevich](https://github.com/bautrukevich)), Web Developer, Belarus
+- Simon ([@Simoon-F](https://github.com/Simoon-F)), Full Stack Web Developer. 🇨🇳
 - Sklyarov Alexey ([@sufir](https://github.com/sufir)), Back-End Web Developer, Russia
 - Slava Krampetz ([@slavakrampetz](https://github.com/slavakrampetz)), Web Developer, CTO, Online-media.ru, Tomsk, Russia
 - Smirnov Oleg ([@SoeSmile](https://github.com/SoeSmile)), Web Developer, Russia
@@ -380,7 +381,6 @@ Signed,
 - Yuheni Pinchuk ([@Yudgin888](https://github.com/Yudgin888)), PHP Developer and Zend Certified Engineer, Belarus
 - Yusuf Ardi ([@yusufthedragon](https://github.com/yusufthedragon)), Backend Developer, Indonesia
 - Zain Mehdi ([@szainmehdi](https://github.com/szainmehdi)), Software Engineer, 🇺🇸 USA
-- Simon ([@Simoon-F](https://github.com/Simoon-F)), Full Stack Web Developer. 🇨🇳
 
 Inspired by the
 [Thank You Github](https://github.com/thank-you-github/thank-you-github),
