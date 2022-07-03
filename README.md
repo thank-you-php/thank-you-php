@@ -352,6 +352,7 @@ Signed,
 - Tran Nguyen Thuong Truong ([@thuongtruong1009](https://github.com/thuongtruong1009))
 - Tran Xuan Thanh ([@ging-dev](https://github.com/ging-dev)), Web Developer, Vietnam
 - Tshiamo Bhuda ([@tshiamobhuda](https://github.com/tshiamobhuda)), PHP Developer, :south_africa: South Africa
+- Tuan Pham ([@tuanpht](https://github.com/tuanpht)), Full-stack Developer, :heart: PHP since 2015, 🇻🇳 Vietnam
 - Umut Işık ([@umutphp](https://github.com/umutphp)) Software developer, :heart: PHP since 2000, 🇹🇷 Turkey
 - Vadim Filimonov([@vadimfilimonov](https://github.com/vadimfilimonov)), Software Engineer, Russia
 - Vadim Mazur([@mazurva](https://github.com/mazurva)) PHP since 2006. Full stack, Russia
