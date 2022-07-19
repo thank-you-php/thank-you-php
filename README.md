@@ -139,6 +139,7 @@ Signed,
 - Ezekiel Oladejo ([@iamwebwiz](https://github.com/iamwebwiz)), Full-Stack Software Engineer at [NoMore ApS](https://nomorehours.com), based in Lagos, Nigeria
 - Faisal Ahmed([@faisal50x](https://github.com/faisal50x)), Backend Developer, Bangladesh
 - Faizan Akram ([@faizanakram99](https://github.com/faizanakram99)), Software Engineer, Kashmir
+- Fantasticbin Wang ([@fantasticbin](https://github.com/fantasticbin)), Full stack developer, 🇨🇳 China
 - Fernando Miguel ([@fjmiguel](https://github.com/fjmiguel)), Software Architect - 🤟 PHP since 2004, 🇧🇷 Brazil / 🇩🇪 Germany
 - Finoghentov Pavel ([@finoghentov](https://github.com/finoghentov)), Backend Developer, Moldova 🇲🇩
 - Firi Ofek ([@fireworks9](https://github.com/fireworks9)), Amateur Developer
