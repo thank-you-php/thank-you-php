@@ -75,6 +75,7 @@ Signed,
 - Araz Gholami ([@arazgholami](https://github.com/arazgholami)), Software Engineer, 🇹🇷 Turkey
 - Artem Trokhymchuk ([@trokhymchuk](https://github.com/trokhymchuk)) Developer
 - Arya Irama Wahono ([@aryairama](https://github.com/aryairama)), Web Developer, Indonesia
+- Ashish Gavade ([@theashishgavade](https://github.com/theashishgavade)), Software engineer, India.
 - Askar Fuzaylov ([@ARACOOOL](https://github.com/ARACOOOL)), Software engineer, Uzbekistan
 - Aurimas Pauga ([@lietuviz](https://github.com/lietuviz/), CIO & co-founder at Inbalance grid, 🇱🇹, Lithuania
 - Austin Passy ([@thefrosty](https://github.com/thefrosty/), Software Engineer & WordPress Professional ❤️‍🔥, USA
