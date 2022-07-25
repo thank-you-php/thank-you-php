@@ -74,6 +74,7 @@ Signed,
 - Aram Baghdasaryan ([@jiromm](https://github.com/jiromm)), CTO @ ([@globbing-llc](https://github.com/globbing-llc)), Armenia
 - Araz Gholami ([@arazgholami](https://github.com/arazgholami)), Software Engineer, 🇹🇷 Turkey
 - Artem Trokhymchuk ([@trokhymchuk](https://github.com/trokhymchuk)) Developer
+- Ashish Gavade ([@theashishgavade](https://github.com/theashishgavade)), Software engineer, India.
 - Arya Irama Wahono ([@aryairama](https://github.com/aryairama)), Web Developer, Indonesia
 - Askar Fuzaylov ([@ARACOOOL](https://github.com/ARACOOOL)), Software engineer, Uzbekistan
 - Aurimas Pauga ([@lietuviz](https://github.com/lietuviz/), CIO & co-founder at Inbalance grid, 🇱🇹, Lithuania
