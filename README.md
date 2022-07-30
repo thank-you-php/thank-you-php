@@ -393,6 +393,7 @@ Signed,
 - 渣渣120 ([@WOSHIZHAZHA120](https://github.com/WOSHIZHAZHA120)), Full stack developer, 🇨🇳 China
 - Zia Uddin ([@nzian](https://github.com/nzian)), Backend Developer, Bangladesh
 - Farajael Tumaiyo ([@farajael](https://github.com/farajael)), Software Architect, Tanzania 
+- Ivan Petrov ([@lazytechwork](https://github.com/lazytechwork)), PHP Developer since 2012 and Laravel Developer since 2018, Russia
 
 Inspired by the
 [Thank You Github](https://github.com/thank-you-github/thank-you-github),
