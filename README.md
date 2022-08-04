@@ -283,6 +283,7 @@ Signed,
 - PHP Dagestan ([@phpdagestan](https://github.com/phpdagestan)), Open source repository php developers from Dagestan, Russia
 - Priyatna ([@antayirp](https://github.com/antayirp)), Full Stack Developer, Indonesia & Switzerland
 - Putu Deva Jayantha ([@devajayantha](https://github.com/devajayantha)), Backend Developer from Bali Indonesia
+- Qalandar Axmedov ([@QalandarDev](https://github.com/QalandarDev)), Backend Devoloper from Uzbekistan
 - QinQiangWu ([@wuqinqiang](https://github.com/wuqinqiang)),PHP was the beginning of everything for me
 - Quentin Pautrat ([@qpautrat](https://github.com/qpautrat)),I grew up alongside PHP and I like what it has become
 - Rafael Franco (@rafaelfranco) (https://github.com/rafaelfranco)), PHP is my first love since 2001. From Brazil 🇧🇷
