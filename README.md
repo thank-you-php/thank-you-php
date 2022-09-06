@@ -104,6 +104,7 @@ Signed,
 - Corrado Modica ([@Corrado](https://github.com/CorradoModica)), Full Stack Developer, Italy
 - Daler Sultonov ([@firefoxuz](https://github.com/firefoxuz)), Backend developer, Uzbekistan
 - Dan Jones ([@goodevilgenius](https://github.com/goodevilgenius)), 🖖 Full Stack Developer (since 2005), United States 🇺🇸
+- Darian Benam ([@BeardedFish](https://github.com/BeardedFish)), Full Stack Developer, Canada
 - Dario Rigolin ([@drigolin](https://github.com/drigolin)), PHP Developer, Italy
 - Darsono ([@darsono72](https://github.com/Darsono72)),Full-stack Developer, Software Engineer, idn Indonesia
 - Dave Hornigan ([@DaveHornigan](https://github.com/DaveHornigan)), Backend PHP Software Engineer, Ukraine / Russia
