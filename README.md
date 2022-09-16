@@ -349,6 +349,7 @@ Signed,
 - Sohaib Ilyas ([@sohaibilyas](https://github.com/sohaibilyas)), PHP & Laravel lover ❤️ from Pakistan 🇵🇰
 - Steve Pavarno ([@pavarnos](https://github.com/pavarnos)), Full stack PHP since 2001, New Zealand
 - Sunxyw ([@sunxyw](https://github.com/sunxyw)), Full Stack Developer, 🇭🇰 Hong Kong - China
+- SupeRodv2 ([@supgeek-rod](https://github.com/supgeek-rod)), Full Stack Developer, China
 - Sushil Ale ([@msucil](https://github.com/msucil)) Web Application Developer/Data Engineer, Nepal
 - Taichi Inaba (aka chatii) ([@chatii](https://github.com/chatii)) Fullstack Web Developer, Japan 🇯🇵
 - Tariqul Islam ([@ta-riq](https://github.com/ta-riq)), A Real PHP lover
