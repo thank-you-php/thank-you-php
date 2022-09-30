@@ -293,6 +293,7 @@ Signed,
 - Ram Ratan Maurya ([@mauryaratan](https://github.com/mauryaratan)), WordPress Developer, Side hustler. From India 🇮🇳
 - Renato Nascimento ([@Goodnato](https://github.com/Goodnato)), Full Stack Developer. Thanks PHP, my favorite language ❤️. From Brazil 🇧🇷
 - Reyad Khan ([@reyadkhan](https://github.com/reyadkhan)), Full Stack Developer
+- Rian ([@iiiaann](https://github.com/iiiaann)), Backend Developer, Indonesia 🇮🇩
 - Ricardo Boss ([@ricardoboss](https://github.com/ricardoboss)), PHP Developer, Germany. Thank you, PHP development team! 🐘
 - Ricardo Rentería ([@rrenteria-dev](https://github.com/rrenteria-dev)), Full Stack Developer. Thanks for everything PHP. From México 🇲🇽
 - Rio Astamal ([@rioastamal](https://github.com/rioastamal)), Loving PHP since 2003 and Cloud Computing Enthusiast, Indonesia
