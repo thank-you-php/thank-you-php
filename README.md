@@ -372,7 +372,7 @@ Signed,
 - Vadym Trofymenko [@vadymtrofymeko](https://github.com/VadymTrofymenko), Backend Developer, Ukraine
 - Valentin Nikolaev ([@ValentinNikolaev](https://github.com/ValentinNikolaev)), Backend Developer, Turkey/Ukraine/Russia
 - Valentin Udaltsov ([@vudaltsov](https://github.com/vudaltsov)), PHP Developer and Blogger ([Пых](https://t.me/phpyh), [PHP Point](https://youtube.com/PHPPoint)) from Russia 🇷🇺
-- Vallabh Kansagara ([@vrkansagara](https://github.com/vrkansagara)), Technical Leader | NOSQL | SQL | AWS | PHP | Angular | LINUX | CRM | Business intelligence. From India 🇮🇳
+- Vallabh Kansagara ([@vrkansagara](https://github.com/vrkansagara)), Technical Leader \| NOSQL \| SQL \| AWS \| PHP \| Angular \| LINUX \| CRM \| Business intelligence. From India 🇮🇳
 - Vasileios Kerasiotis ([@basdog22](https://github.com/basdog22), PHP developer. PHP, Laravel, CS-Cart, WordPress in no particular order, Greece
 - Vasilij Duško ([@StaffNowa](https://github.com/StaffNowa)), Web Developer, Lithuania
 - Victor Login ([@batazor](https://github.com/batazor)), Backend Developer, Russia
