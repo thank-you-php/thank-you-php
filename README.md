@@ -403,7 +403,7 @@ Signed,
 -   Ivan Petrov ([@lazytechwork](https://github.com/lazytechwork)), PHP Developer since 2012 and Laravel Developer since 2018, Russia
 -   Elbek Khamdullaev ([@khamdullaevuz](https://github.com/khamdullaevuz)), PHP Developer, Uzbekistan
 -   Hemant ([@hemantwasthere](https://github.com/hemantwasthere)), Frontend Developer, India
--   Muhammad Fadhila Abiyyu Faris ([@Fadhila36](https://github.com/Fadhila36)), Fullstack Web Developer & Co-fouder at [Scuti-Project](https://scuti.id), Indonesia
+-   Muhammad Fadhila Abiyyu Faris ([@Fadhila36](https://github.com/Fadhila36)), Fullstack Web Developer, Mobile Developer & Co-fouder at [Scuti-Project](https://scuti.id), Indonesia
 
 Inspired by the
 [Thank You Github](https://github.com/thank-you-github/thank-you-github),
