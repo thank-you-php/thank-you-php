@@ -320,6 +320,7 @@ Signed,
 - Saif Eddin Gmati ([@azjezz](https://github.com/azjezz)), Back-End Web Developer, Tunisia
 - Saiful Alam ([@4msar](https://github.com/4msar)), Fullstack PHP Developer, Bangladesh
 - Sajith K ([@iamsajithk](https://github.com/iamsajithk)), From Kerala, India
+- Sajjad Khalafi ([@SajjadKhalafi](https://github.com/SajjadKhalafi)), Back-End Web Developer, Iran
 - Salim Ibrohimi ([@salimibrohimi](https://github.com/salimibrohimi)) PHP since 2014, Software Engineer, Tojikiston
 - Salvatore Cordiano ([@salvatorecordiano](https://github.com/salvatorecordiano)), Lead Developer, Italy
 - Samuel Adeshina ([@samshal](https://github.com/samshal)), Software Engineer, Nigeria
