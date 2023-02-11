@@ -10,4 +10,4 @@ You will receive an invitation to this GitHub organization.
 
 Q: Would you also like a **Thank you PHP** badge on your GitHub profile?
 
-* Yes/No
+-   Yes
