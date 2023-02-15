@@ -222,6 +222,7 @@ Signed,
 - Luffy ([@sy-records](https://github.com/sy-records)), PHP Developer, China
 - Luis Felipe ([@ludovici-philippus](https://github.com/ludovici-philippus)), PHP is my favorite language. Full Stack, thanks PHP, From Brazil 🇧🇷
 - Luis Gonzalez ([@gogl92](https://github.com/gogl92)), Thank you PHP. Full Stack, Startups focused, From Mexico 🇲🇽 / Working in the USA 🇺🇸
+- Lukas Dumberger ([@dumbergerl](https://github.com/DumbergerL)), PHP Developer, 🇩🇪 Germany
 - Luuk Verhoeven ([@luukverhoeven](https://github.com/luukverhoeven)), Senior Software Engineer / Moodle expert, 🇳🇱 Netherlands
 - Lyubomir Grozdanov ([@lubo13](https://github.com/lubo13)), Backend Developer (Symfony Certified Developer and Zend Certified Engineer (PHP 7)), Bulgaria
 - Mahbub Hasan Imon ([@mhimon](https://github.com/mhimon)), Full Stack Developer, Bangladesh 🇧🇩🇧🇩🇧🇩 Founder & Lead Developer of ultraDevs ([@ultraDevs](https://github.com/ultraDevs))
