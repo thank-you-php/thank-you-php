@@ -110,6 +110,7 @@ Signed,
 - Darsono ([@darsono72](https://github.com/Darsono72)), Full-stack Developer, Software Engineer, idn Indonesia
 - Dave Hornigan ([@DaveHornigan](https://github.com/DaveHornigan)), Backend PHP Software Engineer, Ukraine / Russia
 - Dave Lin ([@davelin10017](https://github.com/davelin10017)), Full Stack Software Architect, Cleveland, OH / USA
+- David Chen Lo ([@teafoot](https://github.com/teafoot)), Full Stack Developer
 - David Jor Hpan ([@david-gnext](https://github.com/david-gnext)), Yangon, Myanmar
 - Dean Blackborough ([@deanblackborough](https://github.com/deanblackborough)), Software Developer, Birmingham, UK
 - Delyan Marinov ([@delyan1914](https://github.com/delian1986)), PHP Developer, Bulgaria 🇧🇬
@@ -409,7 +410,6 @@ Signed,
 - Zain Mehdi ([@szainmehdi](https://github.com/szainmehdi)), Software Engineer, 🇺🇸 USA
 - Zia Uddin ([@nzian](https://github.com/nzian)), Backend Developer, Bangladesh
 - 渣渣120 ([@WOSHIZHAZHA120](https://github.com/WOSHIZHAZHA120)), Full stack developer, 🇨🇳 China
-- David Chen Lo ([@teafoot](https://github.com/teafoot)), Full Stack Developer
 
 Inspired by the
 [Thank You Github](https://github.com/thank-you-github/thank-you-github),
