@@ -410,6 +410,7 @@ Signed,
 - Zain Mehdi ([@szainmehdi](https://github.com/szainmehdi)), Software Engineer, 🇺🇸 USA
 - Zia Uddin ([@nzian](https://github.com/nzian)), Backend Developer, Bangladesh
 - 渣渣120 ([@WOSHIZHAZHA120](https://github.com/WOSHIZHAZHA120)), Full stack developer, 🇨🇳 China
+- Tony NGUEREZA ([@nguereza-tony](https://github.com/nguereza-tony)), Software Engineer, 🇨🇫 Central African Republic 
 
 Inspired by the
 [Thank You Github](https://github.com/thank-you-github/thank-you-github),
