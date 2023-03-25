@@ -1,13 +1,10 @@
 <!--
-This is a pull request short introduction. Thank you for adding yourself to this
-thank you list and welcome here.
+Welcome here and thank you for adding yourself to the "Thank You PHP" letter.
 
-If you would like to get also a "Thank you PHP" badge on your GitHub profile,
-answer "YES" to a question below.
+If you would also like to get an optional "Thank you PHP" badge on your GitHub
+profile, mark the checkbox below.
 
 You will receive an invitation to this GitHub organization.
 -->
 
-Q: Would you also like a **Thank you PHP** badge on your GitHub profile?
-
-* Yes/No
+* [ ] I would also like a **Thank you PHP** badge on your GitHub profile.
