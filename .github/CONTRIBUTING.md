@@ -4,7 +4,7 @@
 
 * Add your signature to the list, commit and push to your fork:
 
-  ```bash
+  ```sh
   git add .
   git commit -m "New signature by @yourusername"
   git push origin
@@ -16,8 +16,8 @@
   handler of the account that opens the pull request. This is the way to ensure
   the signature belongs to who has written the patch.
 
-* The `sort` *nix command can be used for sorting the list:
+* There is a quick PHP script to sort the README file alphabetically:
 
-```sh
-LC_ALL=utf8 sort -f <file>
-```
+  ```sh
+  ./.github/sort.php
+  ```
