@@ -84,6 +84,7 @@ Signed,
 - Aydarkhan Tsyrenzhapov ([@noweasily](https://github.com/noweasily)), Backend Developer, Russia
 - Ayesh Karunaratne ([@Ayesh](https://github.com/ayesh)), PHP Developer and author at [PHP.Watch](https://php.watch)
 - Babish Shrestha ([@babiz](https://github.com/babiz)), PHP believer since 2008, Entrepreneur, Nepal
+- Bagus Budi Satoto ([@bagussatoto](https://github.com/bagussatoto)), Web Developer, Software Engineering and Network Engineering, us 💖 [Indonesia](https://home.amikom.ac.id)
 - Baharsah ([@baharsah](https://github.com/baharsah)), PHP Developer since 2013, Full Stack since 2019, Indonesia
 - Bahriddin Mo'minov ([@mrmuminov](https://github.com/mrmuminov)), Full Stack Developer, Uzbekistan
 - Bahyu Sanciko ([@bahyusanciko](https://github.com/bahyusanciko)), Full Stack Developer, Indonesia
@@ -411,7 +412,7 @@ Signed,
 - Zain Mehdi ([@szainmehdi](https://github.com/szainmehdi)), Software Engineer, 🇺🇸 USA
 - Zia Uddin ([@nzian](https://github.com/nzian)), Backend Developer, Bangladesh
 - 渣渣120 ([@WOSHIZHAZHA120](https://github.com/WOSHIZHAZHA120)), Full stack developer, 🇨🇳 China
-- Bagus Budi Satoto ([@bagussatoto](https://github.com/bagussatoto)), Web Developer, Software Engineering and Network Engineering, us 💖 [Indonesia](https://home.amikom.ac.id)
+
 
 Inspired by the
 [Thank You Github](https://github.com/thank-you-github/thank-you-github),
