@@ -65,6 +65,7 @@ Signed,
 - Andrey Ratushniy ([@agratushniy](https://github.com/agratushniy)), Backend Developer, Russia
 - Andrii Lavryniuk ([@splaa](https://github.com/splaa)), Web Developer, Ukraine
 - Andriy Lutskevich ([@lutdev](https://github.com/lutdev)), Web Developer, Ukraine
+- Andrii Sokol ([@akunopaka](https://github.com/akunopaka)), Full Stack Developer, Ukraine 🇺🇦 / United Kingdom 🇬🇧 💙💛
 - Andry Pebrianto ([@andry-pebrianto](https://github.com/andry-pebrianto)), Web Developer, Indonesia
 - Anil Chaudhari ([@imanilchaudhari](https://github.com/imanilchaudhari)), Web Developer, 🇳🇵 Nepal
 - Antoine Lépée ([@alepee](https://github.com/alepee)), a developer who learned to like PHP recently, 🇫🇷 France
