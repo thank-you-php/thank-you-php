@@ -13,7 +13,6 @@ Thank you so much for all that you have done and do.
 
 Signed,
 
-- Amol kumar gupta ([@AmolKumarGupta](https://github.com/AmolKumarGupta)), PHP and Laravel lover from India
 - Aamir Sohail ([@AamirSohailKmAs](https://github.com/AamirSohailKmAs)), ❤️ PHP and Laravel, Pakistan
 - Abdulaziz Alnasi ([@Abu3safeer](https://github.com/Abu3safeer)), PHP and Laravel lover
 - Abdullah Hejazi ([@Abdullah-Hejazi](https://github.com/Abdullah-Hejazi)), Full Stack Web Developer, Cairo, Egypt
@@ -55,6 +54,7 @@ Signed,
 - Ali Yılmaz ([@aliyilmaz](https://github.com/aliyilmaz), Developer Experience Specialist, İstanbul / Türkiye)
 - Alpha Olomi ([@alphaolomi](http://github.com/alphaolomi)), Software Engineer, 🇹🇿 Tanzania
 - Ammar Faizi ([@ammarfaizi2](https://github.com/ammarfaizi2)), Software Engineer, HPC Engineer, PHP Developer
+- Amol kumar gupta ([@AmolKumarGupta](https://github.com/AmolKumarGupta)), PHP and Laravel lover from India
 - Anar Samadov ([@anarsamadov](https://github.com/anarsamadov)), Full stack PHP developer, Azerbaijan
 - Anatoliy Poloz ([@tolyod](https://github.com/tolyod)), Software Engineer, Russia/Ukraine
 - Anatoly Chesneyshy ([@Pronik2009](https://github.com/Pronik2009)), Backend developer, ❤ PHP since 2012, Ukraine
