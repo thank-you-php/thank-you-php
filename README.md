@@ -54,6 +54,7 @@ Signed,
 - Ali Yılmaz ([@aliyilmaz](https://github.com/aliyilmaz), Developer Experience Specialist, İstanbul / Türkiye)
 - Alpha Olomi ([@alphaolomi](http://github.com/alphaolomi)), Software Engineer, 🇹🇿 Tanzania
 - Ammar Faizi ([@ammarfaizi2](https://github.com/ammarfaizi2)), Software Engineer, HPC Engineer, PHP Developer
+- Amol kumar gupta ([@AmolKumarGupta](https://github.com/AmolKumarGupta)), PHP and Laravel lover from India
 - Anar Samadov ([@anarsamadov](https://github.com/anarsamadov)), Full stack PHP developer, Azerbaijan
 - Anatoliy Poloz ([@tolyod](https://github.com/tolyod)), Software Engineer, Russia/Ukraine
 - Anatoly Chesneyshy ([@Pronik2009](https://github.com/Pronik2009)), Backend developer, ❤ PHP since 2012, Ukraine
