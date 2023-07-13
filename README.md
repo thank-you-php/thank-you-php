@@ -119,6 +119,7 @@ Signed,
 - Delyan Marinov ([@delyan1914](https://github.com/delian1986)), PHP Developer, Bulgaria 🇧🇬
 - Denis Waleev ([@waleev](https://github.com/waleev)), Full Stack Developer, Russia 🇷🇺
 - Denuwan Hettiarachchi ([@Denuwanhh](https://github.com/Denuwanhh)), Full Stack Developer, Sri Lanka
+- Diego Ananias ([@ananiaslitz](https://github.com/ananiaslitz)), Backend Developer, Brazil 🇧🇷
 - Diego Andrade de Mendonça ([@diego182](https://github.com/diego182)), Backend Developer, Brazil/Germany
 - Dinush Chathurya ([@dinushchathurya](https://github.com/dinushchathurya)), Full Stack Engineer, PHP lover!. Sri Lanka
 - Djo ([@northmule](https://github.com/northmule)), 🚀 PHP is life, Backend Developer, Russia 🇷🇺
