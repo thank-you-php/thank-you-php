@@ -173,6 +173,7 @@ Signed,
 - Ghazif Adeem ([@Ghazif](https://github.com/Ghazif-Adeem)), PHP/Laravel Developer, Pakistan
 - Given Ncube [@slimgee](https://github.com/sligee), Full Stack Developer, Zimbabwe
 - Guoxiao Bao ([@mowangjuanzi](https://github.com/mowangjuanzi)), Software Engineer, 🇨🇳 China
+- Harunur Rashid ([@harunBdtask](https://github.com/harunBdtask)), Full Stack Developer, 🇧🇩 Bangladesh
 - H M Maruf ([@themaruf](https://github.com/themaruf)), Full Stack Web Developer, Bangladesh
 - Habibun Noby ([@habibun](https://github.com/habibun), Symfony Developer, 🇧🇩 Bangladesh
 - Hafiz Ramadhan ([@rmdhfz](https://github.com/rmdhfz)), PHP Since 2016, Cyber Security, Indonesia
