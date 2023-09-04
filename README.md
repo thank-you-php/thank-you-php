@@ -53,6 +53,7 @@ Signed,
 - Ali Nabeel Ahmed ([@alinabeel](https://github.com/alinabeel)), Backend Developer, Lahore Pakistan
 - Ali Yılmaz ([@aliyilmaz](https://github.com/aliyilmaz), Developer Experience Specialist, İstanbul / Türkiye)
 - Alpha Olomi ([@alphaolomi](http://github.com/alphaolomi)), Software Engineer, 🇹🇿 Tanzania
+- Amk ([@guangrei](https://github.com/guangrei)), PHP Developer from Indonesia ️🇮🇩
 - Ammar Faizi ([@ammarfaizi2](https://github.com/ammarfaizi2)), Software Engineer, HPC Engineer, PHP Developer
 - Amol kumar gupta ([@AmolKumarGupta](https://github.com/AmolKumarGupta)), PHP and Laravel lover from India
 - Anar Samadov ([@anarsamadov](https://github.com/anarsamadov)), Full stack PHP developer, Azerbaijan
@@ -150,6 +151,7 @@ Signed,
 - Evgeniy Prokhorov ([@evgwed](https://github.com/evgwed)), PHP Developer and founder PHP community in Ulyanovsk ([ulskPHP](https://t.me/ulskPHP)), Russia
 - Ezekiel Motlana ([@mosekwa](https://github.com/mosekwa)), Software Developer, South Africa
 - Ezekiel Oladejo ([@iamwebwiz](https://github.com/iamwebwiz)), Full-Stack Software Engineer at [NoMore ApS](https://nomorehours.com), based in Lagos, Nigeria
+- Fadhluilahi A Mohammed ([@MegamindAme](https://github.com/MegamindAme)), Software Developer, Tanzania
 - Faisal Ahmed ([@faisal50x](https://github.com/faisal50x)), Backend Developer, Bangladesh
 - Faizan Akram ([@faizanakram99](https://github.com/faizanakram99)), Software Engineer, Kashmir
 - Fantasticbin Wang ([@fantasticbin](https://github.com/fantasticbin)), Full stack developer, 🇨🇳 China
