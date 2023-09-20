@@ -123,6 +123,7 @@ Signed,
 - Diego Ananias ([@ananiaslitz](https://github.com/ananiaslitz)), Backend Developer, Brazil 🇧🇷
 - Diego Andrade de Mendonça ([@diego182](https://github.com/diego182)), Backend Developer, Brazil/Germany
 - Dinush Chathurya ([@dinushchathurya](https://github.com/dinushchathurya)), Full Stack Engineer, PHP lover!. Sri Lanka
+- Dipu Kumar Chaudhary ([@dipuchaudhary](https://github.com/dipuchaudhary)), Software Engineer, NP Nepal 🚩.
 - Djo ([@northmule](https://github.com/northmule)), 🚀 PHP is life, Backend Developer, Russia 🇷🇺
 - Dmitriy Bespalov ([@superrosko](https://github.com/superrosko)), Backend Developer, Russia
 - Dmitriy Demidovich ([@demidovich](https://github.com/demidovich)), Backend Developer, Russia
