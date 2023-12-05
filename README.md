@@ -367,6 +367,7 @@ Signed,
 - Shahadat Hossain Hridoy ([@HridoyHazard](https://github.com/HridoyHazard)), Mern Stack Developer, Bangladesh
 - Shakhobiddin Urinbayev ([@shokhaa](https://github.com/shokhaa)), PHP Backend Developer, Uzbekistan
 - Shakil Ahmmed ([@ShakilAhmmed](https://github.com/ShakilAhmmed)), Software Engineer, 🇧🇩 Bangladesh
+- Shukrullo Turgunov ([@Vodiylik](https://github.com/vodiylik)), Software Engineer, 🇺🇿 Uzbekistan
 - Shuvo Goswami ([@rawscripter](https://github.com/rawscripter)), Fullstack Developer and Team Leader, Bangladesh
 - Siarhei Bautrukevich ([@bautrukevich](https://github.com/bautrukevich)), Web Developer, Belarus
 - Silverowo ([@yinlinghunjiang](https://github.com/yinlinghunjiang)), A furry Devops, PHP lover lol, Shanghai
