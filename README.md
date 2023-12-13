@@ -365,6 +365,7 @@ Signed,
 - Sergey Sidorov ([@serjazz](https://github.com/serjazz)), PHP Developer, 🇷🇺 Russia
 - Sergey Tsyhankou ([@tsyhankou](https://github.com/tsyhankou)), Backend PHP Developer, Poland/Belarus
 - Sergio de Candelario ([@sdecandelario](https://github.com/sdecandelario)), Software Engineer, Barcelona, Catalonia, Spain :)
+- Serhat Aksakal ([@fanksin](https://github.com/fanksin)), ❤️ PHP since 2015, 🇹🇷 Türkiye
 - Shahadat Hossain Hridoy ([@HridoyHazard](https://github.com/HridoyHazard)), Mern Stack Developer, Bangladesh
 - Shakhobiddin Urinbayev ([@shokhaa](https://github.com/shokhaa)), PHP Backend Developer, Uzbekistan
 - Shakil Ahmmed ([@ShakilAhmmed](https://github.com/ShakilAhmmed)), Software Engineer, 🇧🇩 Bangladesh
