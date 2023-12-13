@@ -70,6 +70,7 @@ Signed,
 - Andrii Sokol ([@akunopaka](https://github.com/akunopaka)), Full Stack Developer, Ukraine 🇺🇦 / United Kingdom 🇬🇧 💙💛
 - Andriy Lutskevich ([@lutdev](https://github.com/lutdev)), Web Developer, Ukraine
 - Andry Pebrianto ([@andry-pebrianto](https://github.com/andry-pebrianto)), Web Developer, Indonesia
+- Ankit Srivastava ([@erankitsrivastava](https://github.com/erankitsrivastava)), Magento2 Developer, India
 - Anil Chaudhari ([@imanilchaudhari](https://github.com/imanilchaudhari)), Web Developer, 🇳🇵 Nepal
 - Antoine Lépée ([@alepee](https://github.com/alepee)), a developer who learned to like PHP recently, 🇫🇷 France
 - Anton Khainak ([@aksafan](https://github.com/aksafan)), Backend Engineer, Ukraine
