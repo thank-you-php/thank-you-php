@@ -102,6 +102,7 @@ Signed,
 - Bondoux Nicolas ([@Nsbx](https://github.com/Nsbx)), Backend Developer, Php & Symfony Lover ❤, France
 - Brandon Kraft ([@kraftbj](https://github.com/kraftbj)), Core Contributor to [@WordPress](https://make.wordpress.org) and Lead at [@Automattic](https://github.com/automattic), Austin, Texas USA
 - Bruno Alfred ([@brunoalfred](https://github.com/brunoalfred)), Software Engineer, 🇹🇿 Tanzania. Tweets ([@bruno__alfred](https://twitter.com/bruno__alfred))
+- Bünyamin Akçay ([@bakcay](https://github.com/bakcay)), Senior Software Developer (🖖since 2007), Türkiye 🇹🇷  
 - Cahyadi Setia Phanatagama ([@phanatagama](https://github.com/phanatagama)), Web Developer, Indonesia
 - Caleb Mazalevskis ([@Maikuolan](https://github.com/Maikuolan)), PHP developer, hobbyist, and freelancer
 - Carl Abraham ([@i22inc](https://github.com/i22inc)), Director [i22.in](https://i22.in)
