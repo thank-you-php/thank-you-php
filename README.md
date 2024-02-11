@@ -12,7 +12,7 @@ place for everyone.
 Thank you so much for all that you have done and do.
 
 Signed,
-
+- Thomas Andri Wijayanto ([@imhunterand](https://github.com/imhunterand)), ❤️ PHP and Laravel, Indonesia, Bali Island
 - Aamir Sohail ([@AamirSohailKmAs](https://github.com/AamirSohailKmAs)), ❤️ PHP and Laravel, Pakistan
 - Abdulaziz Alnasi ([@Abu3safeer](https://github.com/Abu3safeer)), PHP and Laravel lover
 - Abdullah Hejazi ([@Abdullah-Hejazi](https://github.com/Abdullah-Hejazi)), Full Stack Web Developer, Cairo, Egypt
