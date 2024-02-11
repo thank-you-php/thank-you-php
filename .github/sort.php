@@ -14,6 +14,11 @@ function init(array $argv): int
     $footer = array_slice($contents, -5);
     $lines = array_slice($contents, 15, -5);
 
+    if(end($header) !== "\n") {
+        echo $options['red'] . "The README.md file needs to be corrected.\n" . $options['default'];
+        return 1;
+    }
+
     $collator = new \Collator('en_US');
 
     // Sort the array using PHP Intl Collator.
