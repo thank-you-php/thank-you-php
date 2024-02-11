@@ -12,7 +12,7 @@ place for everyone.
 Thank you so much for all that you have done and do.
 
 Signed,
-- Thomas Andri Wijayanto ([@imhunterand](https://github.com/imhunterand)), ❤️ PHP and Laravel, Indonesia, Bali Island
+
 - Aamir Sohail ([@AamirSohailKmAs](https://github.com/AamirSohailKmAs)), ❤️ PHP and Laravel, Pakistan
 - Abdulaziz Alnasi ([@Abu3safeer](https://github.com/Abu3safeer)), PHP and Laravel lover
 - Abdullah Hejazi ([@Abdullah-Hejazi](https://github.com/Abdullah-Hejazi)), Full Stack Web Developer, Cairo, Egypt
@@ -102,7 +102,7 @@ Signed,
 - Bondoux Nicolas ([@Nsbx](https://github.com/Nsbx)), Backend Developer, Php & Symfony Lover ❤, France
 - Brandon Kraft ([@kraftbj](https://github.com/kraftbj)), Core Contributor to [@WordPress](https://make.wordpress.org) and Lead at [@Automattic](https://github.com/automattic), Austin, Texas USA
 - Bruno Alfred ([@brunoalfred](https://github.com/brunoalfred)), Software Engineer, 🇹🇿 Tanzania. Tweets ([@bruno__alfred](https://twitter.com/bruno__alfred))
-- Bünyamin Akçay ([@bakcay](https://github.com/bakcay)), Senior Software Developer (🖖since 2007), Türkiye 🇹🇷  
+- Bünyamin Akçay ([@bakcay](https://github.com/bakcay)), Senior Software Developer (🖖since 2007), Türkiye 🇹🇷
 - Cahyadi Setia Phanatagama ([@phanatagama](https://github.com/phanatagama)), Web Developer, Indonesia
 - Caleb Mazalevskis ([@Maikuolan](https://github.com/Maikuolan)), PHP developer, hobbyist, and freelancer
 - Carl Abraham ([@i22inc](https://github.com/i22inc)), Director [i22.in](https://i22.in)
@@ -388,6 +388,7 @@ Signed,
 - Taichi Inaba (aka chatii) ([@chatii](https://github.com/chatii)), Fullstack Web Developer, Japan 🇯🇵
 - Tariqul Islam ([@ta-riq](https://github.com/ta-riq)), A Real PHP lover
 - Tasiu Kwaplong ([@tasiukwaplong](https://github.com/tasiukwaplong)), Laravel and PHP lover, Nigeria
+- Thomas Andri Wijayanto ([@imhunterand](https://github.com/imhunterand)), ❤️ PHP and Laravel, Indonesia, Bali Island
 - Thomas Hauschild ([@Morgy93](https://github.com/Morgy93)), Developer, Germany
 - Thomas Perez ([@ScullWM](https://github.com/scullwm)), Backend Developer, France
 - Timofey Zhiganov ([@zavodilo](https://github.com/zavodilo)), Backend Developer, Russia
