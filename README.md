@@ -22,6 +22,7 @@ Signed,
 - Achmad Rivaldi ([@mrtampan](https://github.com/mrtampan)), Web Developer, Indonesia
 - Adem Ali Durmuş ([@ademalidurmus](https://github.com/ademalidurmus)), Backend Developer, 🇹🇷 Turkey
 - Adil Moughal ([@mohammed-adil-moughal](https://github.com/mohammed-adil-moughal)), Backend Developer, Kenya
+- Aditya Seth ([@AdityaSeth777](https://github.com/AdityaSeth777)), DevOps and Back-End Engineer, India <3
 - Afanasev Pavel ([@bupyc9](https://github.com/bupyc9)), Backend developer, Russian
 - Afdhalul Ichsan Yourdan ([@ShennBoku](https://github.com/ShennBoku)), Web Developer, Indonesia
 - Afolayan Stephen ([@jilh](https://github.com/jilh)), Community Organizer and Fullstack PHP Developer, Nigeria
