@@ -310,6 +310,7 @@ Signed,
 - Peter Rusin ([@peter-rusin](https://github.com/peter-rusin)), Magento Developer, [LinkedIn](https://www.linkedin.com/in/peter-rusin/), Creator, 🇵🇱 Poland
 - Philip Weinke ([@weph](https://github.com/weph)), Professional code slinger, :heart: PHP since 2000, :de: Germany
 - PHP Dagestan ([@phpdagestan](https://github.com/phpdagestan)), Open source repository php developers from Dagestan, Russia
+- Pranav Prasad ([@pranav-prasad16](https://github.com/pranav-prasad16)), Full stack Engineer, India 	🇮🇳
 - Priyatna ([@antayirp](https://github.com/antayirp)), Full Stack Developer, Indonesia & Switzerland
 - Putu Deva Jayantha ([@devajayantha](https://github.com/devajayantha)), Backend Developer from Bali Indonesia
 - Qalandar Axmedov ([@QalandarDev](https://github.com/QalandarDev)), Backend Devoloper from Uzbekistan
