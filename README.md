@@ -81,6 +81,7 @@ Signed,
 - Aram Baghdasaryan ([@jiromm](https://github.com/jiromm)), CTO @ ([@globbing-llc](https://github.com/globbing-llc)), Armenia
 - Araz Gholami ([@arazgholami](https://github.com/arazgholami)), Software Engineer, 🇹🇷 Turkey
 - Artem Trokhymchuk ([@trokhymchuk](https://github.com/trokhymchuk)), Developer
+- Arthur Melikyan ([@arthmelikyan](https://github.com/arthmelikyan)), PHP Laravel Developer, Armenia Gyumri 🇦🇲
 - Arya Irama Wahono ([@aryairama](https://github.com/aryairama)), Web Developer, Indonesia
 - Ashish Gavade ([@theashishgavade](https://github.com/theashishgavade)), Software engineer, India
 - Askar Fuzaylov ([@ARACOOOL](https://github.com/ARACOOOL)), Software engineer, Uzbekistan
