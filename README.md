@@ -49,6 +49,7 @@ Signed,
 - Alexander Tebiev ([@beeyev](https://github.com/beeyev)), Technical Leader, Georgia
 - Alexandr Chernyaev ([@tabuna](https://github.com/tabuna)), Backend Developer, Russia
 - Alexey Alexeev ([@greenkaktusx](https://github.com/greenkaktusx)), Backend Developer, Russia
+- Alexey Milekhin ([@laz3rjenkins](https://github.com/laz3rjenkins)), Backend Developer, PHP and Laravel ❤️, Russia 🇷🇺
 - Alexey Paschenko ([@steamvis](https://github.com/steamvis)), Backend Developer, Russia
 - Alexey Pyltsyn ([@lex111](https://github.com/lex111)), Maintainer of PHP documentation on Russian
 - Ali Nabeel Ahmed ([@alinabeel](https://github.com/alinabeel)), Backend Developer, Lahore Pakistan
