@@ -52,6 +52,7 @@ Signed,
 - Alexey Milekhin ([@laz3rjenkins](https://github.com/laz3rjenkins)), Backend Developer, PHP and Laravel ❤️, Russia 🇷🇺
 - Alexey Paschenko ([@steamvis](https://github.com/steamvis)), Backend Developer, Russia
 - Alexey Pyltsyn ([@lex111](https://github.com/lex111)), Maintainer of PHP documentation on Russian
+- Alexander Podolnitski ([@REDCROSS16](https://github.com/REDCROSS16)), Software Developer, Symfony and Laravel, Belarus 🇧🇾
 - Ali Nabeel Ahmed ([@alinabeel](https://github.com/alinabeel)), Backend Developer, Lahore Pakistan
 - Ali Yılmaz ([@aliyilmaz](https://github.com/aliyilmaz), Developer Experience Specialist, İstanbul / Türkiye)
 - Aliaksiej Maroz ([@liodnik](https://github.com/liodnik)), Backend Developer, Belarus
