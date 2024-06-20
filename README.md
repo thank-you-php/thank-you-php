@@ -227,6 +227,7 @@ Signed,
 - Julia Grabovskaya ([@julsuniverse](https://github.com/julsuniverse)), PHP Developer, Zaporizhzhya, Ukraine 🇺🇦
 - Julio Napurí ([@julionc](https://github.com/julionc)), Backend Developer, Perú 🇵🇪
 - Julius Hernandez Alvarado ([@ideaguy3d](https://github.com/ideaguy3d)), Analytics Engineer, California 🐻🇺🇸
+- Khant Zaw Hein ([@khantzawhein](https://github.com/khantzawhein)), Full Stack Developer, Myanmar 🇲🇲 / Currently in Thailand 🇹🇭
 - Kholiqov Buzurgmehr ([@Buzurgmehr](https://github.com/Buzurgmehr)), Web Developer, Tajikistan
 - Kirill Baranov ([@u-mulder](https://github.com/u-mulder)), PHP Developer, Russia
 - Koldo Picaza ([@kpicaza](https://github.com/kpicaza)), PHP Developer, Barcelona
