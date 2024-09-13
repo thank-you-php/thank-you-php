@@ -273,6 +273,7 @@ Signed,
 - Mohamed Elidrissi ([@elidrissidev](https://github.com/elidrissidev)), Full-Stack Developer and [OpenMage](https://github.com/OpenMage/magento-lts), contributor, Morocco 🇲🇦
 - Mohammad Shah Alam ([@saroven](https://github.com/saroven)), PHP and Laravel Lover, Bangladesh
 - Mouad Ziani ([@mouadziani](https://github.com/mouadziani)), Full Stack Software Engineer, Morocco 🇲🇦
+- Mubashir Iqbal ([@Mubshr07](https://github.com/Mubshr07)), AI Researcher, System Engineer, C++ Engineer, Pakistan 🇵🇰
 - Muhaimenul Islam ([@muhaimenul](https://github.com/muhaimenul)), Software Engineer, Bangladesh
 - Muhamad Ramdani ([@dannsdb](https://github.com/dannsdb)), Web Developer, Indonesia
 - Muhammad Abdullah ([@abdullahnaseer](https://github.com/abdullahnaseer)), PHP Developer, Founder [CodeCreatives](http://code-creatives.com/)
