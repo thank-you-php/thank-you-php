@@ -324,6 +324,7 @@ Signed,
 - QinQiangWu ([@wuqinqiang](https://github.com/wuqinqiang)), PHP was the beginning of everything for me
 - Quentin Bihet ([@BtQuentin](https://github.com/BtQuentin)), PHP Developer, 🇫🇷 France
 - Quentin Pautrat ([@qpautrat](https://github.com/qpautrat)), I grew up alongside PHP and I like what it has become
+- Radoslav Borisov ([@borissov](https://github.com/borissov)), Full Stack Developer, Bulgaria 🇧🇬
 - Rafael Franco ([@rafaelfranco](https://github.com/rafaelfranco)), PHP is my first love since 2001. From Brazil 🇧🇷
 - Rahadiana Nugraha ([@rahadiana](https://github.com/rahadiana)), Full Stack Developer, Indonesia
 - RakaTrust ([@grizz12](https://github.com/grizz12)), Web Developer, Indonesia
