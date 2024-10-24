@@ -13,6 +13,7 @@ Thank you so much for all that you have done and do.
 
 Signed,
 
+- Abdullaev Samandar ([@samandar](https://github.com/abdu11aev-samandar)), Software Engineer, Uzbekistan
 - Aamir Sohail ([@AamirSohailKmAs](https://github.com/AamirSohailKmAs)), ❤️ PHP and Laravel, Pakistan
 - Abdulaziz Alnasi ([@Abu3safeer](https://github.com/Abu3safeer)), PHP and Laravel lover
 - Abdullah Hejazi ([@Abdullah-Hejazi](https://github.com/Abdullah-Hejazi)), Full Stack Web Developer, Cairo, Egypt
@@ -358,7 +359,6 @@ Signed,
 - Sajjad Khalafi ([@SajjadKhalafi](https://github.com/SajjadKhalafi)), Back-End Web Developer, Iran
 - Salim Ibrohimi ([@salimibrohimi](https://github.com/salimibrohimi)), PHP since 2014, Software Engineer, Tojikiston
 - Salvatore Cordiano ([@salvatorecordiano](https://github.com/salvatorecordiano)), Lead Developer, Italy
-- Abdullayev Samandar ([@samandar](https://github.com/abdu11aev-samandar)), Software Engineer, Uzbekistan
 - Samuel Adeshina ([@samshal](https://github.com/samshal)), Software Engineer, Nigeria
 - Sandip Chandela ([@sandipchandela](https://github.com/sandipchandela)), PHP Developer since 2011, India
 - Sandy Pérez Matamoros ([@sandypm007](https://github.com/sandypm007)), Fullstack Developer and Team Leader. PHP since 2004
