@@ -358,6 +358,7 @@ Signed,
 - Sajjad Khalafi ([@SajjadKhalafi](https://github.com/SajjadKhalafi)), Back-End Web Developer, Iran
 - Salim Ibrohimi ([@salimibrohimi](https://github.com/salimibrohimi)), PHP since 2014, Software Engineer, Tojikiston
 - Salvatore Cordiano ([@salvatorecordiano](https://github.com/salvatorecordiano)), Lead Developer, Italy
+- Abdullayev Samandar ([@samandar](https://github.com/abdu11aev-samandar)), Software Engineer, Uzbekistan
 - Samuel Adeshina ([@samshal](https://github.com/samshal)), Software Engineer, Nigeria
 - Sandip Chandela ([@sandipchandela](https://github.com/sandipchandela)), PHP Developer since 2011, India
 - Sandy Pérez Matamoros ([@sandypm007](https://github.com/sandypm007)), Fullstack Developer and Team Leader. PHP since 2004
