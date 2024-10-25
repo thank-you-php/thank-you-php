@@ -13,6 +13,7 @@ Thank you so much for all that you have done and do.
 
 Signed,
 
+- Abdullaev Samandar ([@samandar](https://github.com/abdu11aev-samandar)), Software Engineer, Uzbekistan
 - Aamir Sohail ([@AamirSohailKmAs](https://github.com/AamirSohailKmAs)), ❤️ PHP and Laravel, Pakistan
 - Abdulaziz Alnasi ([@Abu3safeer](https://github.com/Abu3safeer)), PHP and Laravel lover
 - Abdullah Hejazi ([@Abdullah-Hejazi](https://github.com/Abdullah-Hejazi)), Full Stack Web Developer, Cairo, Egypt
