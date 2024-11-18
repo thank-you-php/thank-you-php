@@ -124,10 +124,10 @@ Signed,
 - Dave Lin ([@davelin10017](https://github.com/davelin10017)), Full Stack Software Architect, Cleveland, OH / USA
 - David Chen Lo ([@teafoot](https://github.com/teafoot)), Full Stack Developer
 - David Jor Hpan ([@david-gnext](https://github.com/david-gnext)), Yangon, Myanmar
+- DavronbekDev ([@firdavsdev](https://github.com/firdavsdev)), Full Stack Developer, Uzbekistan 🇺🇿
 - Dean Blackborough ([@deanblackborough](https://github.com/deanblackborough)), Software Developer, Birmingham, UK
 - Delyan Marinov ([@delyan1914](https://github.com/delian1986)), PHP Developer, Bulgaria 🇧🇬
 - Denis Waleev ([@waleev](https://github.com/waleev)), Full Stack Developer, Russia 🇷🇺
-- DavronbekDev ([@waleev](https://github.com/firdavsdev)), Full Stack Developer, Uzbekistan 🇺🇿
 - Denuwan Hettiarachchi ([@Denuwanhh](https://github.com/Denuwanhh)), Full Stack Developer, Sri Lanka
 - Diego Ananias ([@ananiaslitz](https://github.com/ananiaslitz)), Backend Developer, Brazil 🇧🇷
 - Diego Andrade de Mendonça ([@diego182](https://github.com/diego182)), Backend Developer, Brazil/Germany
