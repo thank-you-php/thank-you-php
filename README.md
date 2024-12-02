@@ -239,6 +239,7 @@ Signed,
 - Kyle Johnson ([@kjohnson](https://github.com/kjohnson)), PHP Developer, Cleveland, Tennessee, United States 🇺🇸
 - Lars Moelleken ([@voku](https://github.com/voku)), PHP Developer, 🇩🇪 Germany
 - Leo Cavalcante ([@leocavalcante](https://github.com/leocavalcante)), Proud and Thankful PHP Developer, Swoole Enthusiast, Brazil
+- Leo Götz ([@vLeov](https://github.com/vLeov)), Web Developer, 🇩🇪 Germany
 - Leonardo Buares ([@leonardobuares](https://github.com/leonardobuares)), PHP Developer, Brazil
 - Leonardo Teixeira ([@LeonardoTeixeira](https://github.com/LeonardoTeixeira)), Software Engineer, Brazil
 - Leonid Pankov ([@lpnkv](https://github.com/lpnkv)), Backend Developer, Russia
