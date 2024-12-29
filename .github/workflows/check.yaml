@@ -16,7 +16,16 @@ jobs:
     - name: Set up PHP
       uses: shivammathur/setup-php@v2
       with:
-        php-version: 8.3
+        php-version: 8.4
 
-    - name: Check README.md
+    - name: Install normalizator
+      run: |
+        curl -OL https://github.com/petk/normalizator/releases/latest/download/normalizator.phar
+        chmod +x normalizator.phar
+        mv normalizator.phar /usr/local/bin/normalizator
+
+    - name: Check code style
+      run: normalizator check --not .git .
+
+    - name: Check if README.md is sorted
       run: ./.github/sort.php
