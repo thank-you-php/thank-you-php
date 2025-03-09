@@ -221,7 +221,7 @@ Signed,
 - Joel Reis ([@ElJoelReis](https://github.com/ElJoelReis)), Web Developer
 - Jon Henderson ([@henderjon](https://github.com/henderjon)), Web Developer, PHP since 2003, MN USA
 - Jonathan Bossenger ([@jonathanbossenger](https://github.com/jonathanbossenger)), Developer and Technical Writer, Cape Town, South Africa
-- Jordi Bassagana ([@programarivm](https://github.com/programarivm)), Web Developer, Spain
+- Jordi Bassagana ([@jbassagana](https://github.com/jbassagana)), Web Developer, Spain
 - Jorge Ribeiro ([@jorgeribeiro](https://github.com/jorgeribeiro)), Software Engineer, Brazil
 - José Manuel Casani Guerra ([@MrJmpl3](https://github.com/MrJmpl3)), PHP & Laravel Developer, Perú
 - Josef Sábl ([@josefsabl](https://github.com/josefsabl), Backend Developer, Czechia
