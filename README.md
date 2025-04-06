@@ -297,6 +297,7 @@ Signed,
 - Nguyen An Hung ([@nguyenanhung](https://github.com/nguyenanhung)), PHP since 2008, Software Engineer, Vietnam
 - Nguyen Thanh Nhan ([@tuinhanne](https://github.com/tuinhanne)), Software Engineering, 🇻🇳 Viet Nam
 - Nicholai Bush ([@cykonetic](https://github.com/cykonetic)), PHP Developer since PHP 3.0, (before MySQL supportted InnoDB), Saint Petersburg, FL, USA
+- Nickolai Shirokov ([@shirokovnv](https://github.com/shirokovnv)), Web Developer, Software Engineering, Russia
 - Nicollas Feitosa ([@nicollasfeitosa](https://github.com/nicollasfeitosa)), Full Stack Developer, São Paulo, BR
 - Nikesh Bahadur Adhikari ([@ariadoos](https://github.com/ariadoos)), Software Engineer, Nepal
 - Nikhil Ranka ([@qwertynik](https://github.com/qwertynik)), Building solutions using Tech, mainly PHP. From Chennai, India, Existence
