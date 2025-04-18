@@ -295,6 +295,7 @@ Signed,
 - Navarr Barnier ([@navarr](https://github.com/navarr)), Sr Magento Developer, Ohio, USA
 - Nazar Samarets ([@unhappyby](https://github.com/unhappyby)), PHP Developer, Ukraine 🇺🇦
 - Nguyen An Hung ([@nguyenanhung](https://github.com/nguyenanhung)), PHP since 2008, Software Engineer, Vietnam
+- Nguyen Hung Thai ([@hungthai1401](https://github.com/hungthai1401)), Software Engineer, 🇻🇳 Viet Nam
 - Nguyen Thanh Nhan ([@tuinhanne](https://github.com/tuinhanne)), Software Engineering, 🇻🇳 Viet Nam
 - Nicholai Bush ([@cykonetic](https://github.com/cykonetic)), PHP Developer since PHP 3.0, (before MySQL supportted InnoDB), Saint Petersburg, FL, USA
 - Nickolai Shirokov ([@shirokovnv](https://github.com/shirokovnv)), Web Developer, Software Engineering, Russia
