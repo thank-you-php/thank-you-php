@@ -322,6 +322,7 @@ Signed,
 - Paulo Castro ([@planktonfun](https://github.com/planktonfun)), Just a Passer By
 - Peter Kokot ([@petk](https://github.com/petk)), PHP development team member
 - Peter Rusin ([@peter-rusin](https://github.com/peter-rusin)), Magento Developer, [LinkedIn](https://www.linkedin.com/in/peter-rusin/), Creator, 🇵🇱 Poland
+- PG Mohd Azhan Fikri ([@HarryDotMYx](https://github.com/HarryDotMYx)), Full Stack Developer, Malaysia 🇲🇾🇲🇾
 - Philip Weinke ([@weph](https://github.com/weph)), Professional code slinger, :heart: PHP since 2000, :de: Germany
 - PHP Dagestan ([@phpdagestan](https://github.com/phpdagestan)), Open source repository php developers from Dagestan, Russia
 - Pranav Prasad ([@pranav-prasad16](https://github.com/pranav-prasad16)), Full stack Engineer, India 	🇮🇳
@@ -452,7 +453,6 @@ Signed,
 - Zain Mehdi ([@szainmehdi](https://github.com/szainmehdi)), Software Engineer, 🇺🇸 USA
 - Zia Uddin ([@nzian](https://github.com/nzian)), Backend Developer, Bangladesh
 - 渣渣120 ([@WOSHIZHAZHA120](https://github.com/WOSHIZHAZHA120)), Full stack developer, 🇨🇳 China
-- PG Mohd Azhan Fikri ([@HarryDotMYx](https://github.com/HarryDotMYx)), Full Stack Developer, Malaysia 🇲🇾🇲🇾
 
 Inspired by the
 [Thank You Github](https://github.com/thank-you-github/thank-you-github),
