@@ -245,6 +245,7 @@ Signed,
 - Leonardo Teixeira ([@LeonardoTeixeira](https://github.com/LeonardoTeixeira)), Software Engineer, Brazil
 - Leonid Pankov ([@lpnkv](https://github.com/lpnkv)), Backend Developer, Russia
 - Logan Lindquist ([@llbbl](https://github.com/llbbl)), Organizer, Austin, TX USA
+- Lokesh Rangani ([@lokeshrangani](https://github.com/lokeshrangani)), Backend Developer, IN India 🙌
 - Luciano Coggiola ([@tanoinc](https://github.com/tanoinc)), Full Stack Developer, Argentina
 - Luffy ([@sy-records](https://github.com/sy-records)), PHP Developer, China
 - Luis Felipe ([@ludovici-philippus](https://github.com/ludovici-philippus)), PHP is my favorite language. Full Stack, thanks PHP, From Brazil 🇧🇷
