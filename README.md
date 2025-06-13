@@ -445,6 +445,7 @@ Signed,
 - Vladimirs Nordholm ([@vladdeSV](https://github.com/vladdeSV)), Backend Developer, Sweden
 - Volodymyr Panivko ([@sveneld](https://github.com/sveneld)), Back-end developer, Ukraine
 - Wasseem Khayrattee (aka **7PHP**) ([@7php](https://github.com/7php)), PHP fanboy from Mauritius island
+- Wellington Neto ([@net0well](https://github.com/net0well)), Full Stack Developer, Brazil
 - Westin Shafer ([@wshafer](https://github.com/wshafer)), Software Engineer, USA
 - Yeojin Hong ([@ongyjho](https://github.com/ongyjho)), Backend Developer, Korea 🇰🇷
 - Yi Zou ([@php-cpm](https://github.com/php-cpm)), PHP since 2007. Full stack, Software Architect, 🇨🇳 China
