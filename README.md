@@ -431,6 +431,7 @@ Signed,
 - Vasileios Kerasiotis ([@basdog22](https://github.com/basdog22), PHP developer. PHP, Laravel, CS-Cart, WordPress in no particular order, Greece
 - Vasilij Duško ([@StaffNowa](https://github.com/StaffNowa)), Web Developer, Lithuania
 - Victor Login ([@batazor](https://github.com/batazor)), Backend Developer, Russia
+- Victor Ukam ([@veeqtoh](https://github.com/veeqtoh)), Web Software Developer, Aberdeen, Scotland, UK
 - Victoria Anzhaurova ([@anzhaurova](https://github.com/anzhaurova)), Backend Developer, Russia
 - Vigikaran Vijayaratnam ([@vigikaran](https://github.com/vigikaran)), Full Stack Web Application developer / DevOps
 - Vikas Kapadiya ([@vikas5914](https://github.com/vikas5914)), Full Stack Developer, India
