@@ -395,6 +395,7 @@ Signed,
 - Shukrullo Turgunov ([@Vodiylik](https://github.com/vodiylik)), Software Engineer, Uzbekistan 🇺🇿
 - Shuvo Goswami ([@rawscripter](https://github.com/rawscripter)), Fullstack Developer and Team Leader, Bangladesh
 - Siarhei Bautrukevich ([@bautrukevich](https://github.com/bautrukevich)), Web Developer, Belarus
+- Sigma7863 ([@sigma7863](https://github.com/sigma7863)), High School Student, Interested in Technology, Open Source, and Research, 🇯🇵 Japan
 - Silverowo ([@yinlinghunjiang](https://github.com/yinlinghunjiang)), A furry Devops, PHP lover lol, Shanghai
 - Simon ([@Simoon-F](https://github.com/Simoon-F)), Full Stack Web Developer 🇨🇳
 - Sklyarov Alexey ([@sufir](https://github.com/sufir)), Back-End Web Developer, Russia
