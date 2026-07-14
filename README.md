@@ -263,6 +263,7 @@ Signed,
 - Mark Kevin Besinga ([@besingamkb](https://github.com/besingamkb)), Software Engineer, Philippines
 - Mark Shust ([@MarkShust](https://github.com/markshust)), Zend PHP Certified, Magento Teacher, Cleveland, OH USA
 - Martin Hlavac ([@mhlavac](https://github.com/mhlavac)), Software Engineer, Germany/Czech Republic
+- Masatoshi Ogiwara ([@zigzagdev](https://github.com/zigzagdev)), Web Developer, Japan
 - Matteo Martinelli ([@matteomartinelli](https://github.com/matteomartinelli)), Customerly Full Stack Developer, Italy
 - Mattias Sandström ([@tangix](https://github.com/tangix)), Full Stack Developer, Sweden 🇸🇪
 - Max Base ([@BaseMax](https://github.com/BaseMax)), Software Engineer, PHP Lover :heart:
